@@ -1,0 +1,151 @@
+CHAPTER 331
+SENATE BILL NO. 2159
+(Transportation Committee)
+(At the request of the Department of Transportation)
+REST AREA VENDING MACHINE PERMITS
+AN ACT to create and enact a new section to title 39 of the North Dakota Century
+Code, relating to rest area vending machine permits from the department of
+transportation.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+Permits for vending machines at rest areas.
+A vending
+machine that allows access to a tobacco product may not be placed or remain upon
+a rest area, and any other vending machine may not be placed or remain upon a
+rest area under the supervision of the director without a permit from the director.
+The director shall charge a fee for the issuance of a vending machine permit.
+The
+amount
+of
+the
+permit
+fee
+must
+relate
+to
+the
+department's
+actual
+cost
+of
+administration, annual review, and enforcement of the permit process, but may not
+exceed twenty-five dollars annually.
+The permit process may not be affected by the
+content of a publication.
+The director shall require permittees to comply with
+appropriate indemnification, insurance, and other risk management provisions of the
+permit.
+Vending machines must be secured in a manner that prevents tipping and
+moving, deters theft, and leaves state property undamaged.
+Plexiglass, safety glass,
+or other shatter resistant materials must be employed in windows or displays.
+All
+vending machines must be sufficiently enclosed to prevent the distributed product
+from inadvertently being removed or blown from the machine or weathered by the
+elements.
+Stolen or damaged vending machines do not result in liability to the
+department and must be repaired, restored, or replaced within thirty calendar days.
+All cash boxes and accesses to cash boxes must be metal and securely locked in
+place.
+All vending machines must be placed in a well-lighted area visible from the
+rest area roadway.
+All vending machines must be placed on a route allowing
+parallel access by motorized or standard wheelchairs, with at least sixty-six inches
+[1676.400 millimeters]
+of
+clear
+width.
+A
+vending
+machine
+may
+not
+have
+a
+component or function used by the public which requires more than five pounds
+[2.268 kilograms] of force to be applied.
+The height of controls, doors, or access
+points necessary for use by the public may not exceed sixty inches [1524 millimeters].
+The director may determine the maximum number of vending machine placements
+at a given rest area.
+Priority must be given to vending machines placed pursuant to
+the Randolph Sheppard Act [Pub. L. 74-732; 49 Stat. 1559; 20 U.S.C. 107], as
+administered by the vocational rehabilitation division of the department of human
+services under section 50-06.1-13. When, after allowing for the placement of vending
+machines pursuant to the Randolph Sheppard Act, [Pub. L. 74-732; 49 Stat. 1559;
+20 U.S.C. 107], the director determines that the number of permit applications for a
+particular rest area would exceed the remaining available space or would prevent
+compliance with this section or other law, the director shall grant permits by means
+of a lottery, with permits allocated pro rata according to the number of applications
+for each type. The permittee is solely responsible to ensure that any trash, wrapping,
+boxes, or debris, generated when stocking or servicing vending machines is not left
+on or at the rest area.
+The permittee is solely responsible for all installation,
+maintenance, replacement, inspection, access area cleaning, and stocking of vending
+machines.
+Vandalism and graffiti on vending machines must be repaired or
+removed within fourteen days of written notice by the director.
+The permittee must
+inspect and stock vending machines as needed, but at least monthly, to provide
+adequate service to the public.
+Vending machines removed for repair or for other
+reasons must be restored or replaced by the permittee within thirty days.
+Vending
+machines in violation of this section or any other applicable law may be removed by
+the director fourteen days after notice of violation is provided and without liability to
+the director.
+Vending machines judged by the director to pose a risk to safety may
+be removed immediately without liability to the director and without prior notice to
+the permittee.
+The director shall retain any removed vending machines for thirty
+days to allow retrieval by the permittee, after compensation to the director for
+removal costs.
+The director may dispose of or sell machines not retrieved within
+thirty days of removal, but removal costs must be satisfied only to the extent of
+proceeds received by the director.
+The director has a cause of action to recover any
+deficiency,
+attorneys'
+fees,
+and
+litigation
+expenses.
+The
+director,
+upon
+the
+determination that a rest area must be closed for a period of greater than thirty days,
+may order the permittee, at the permittee's expense, to remove all vending machines
+in a manner that does not damage state property, or remove all product and money
+and place upon the vending machine a prominent notice that all product and money
+have
+been removed.
+Should the director determine that removal of vending
+machines is necessary to conduct repairs, construction, surveys, or other duties of the
+department, the permittee, at the permittee's expense, shall remove all vending
+machines in a manner that does not damage state property, upon fourteen days'
+notice.
+The current address and phone number where customer service or business
+is conducted by the permittee must be legibly and prominently posted upon the
+vending machine.
+The director shall cancel the permit should the permittee remove
+vending machines, except as provided in this section. The cost of any removal must
+be borne by the permittee.
+The permittee, at the permittee's own expense, must
+restore the site the machine formerly occupied to the satisfaction of the director. For
+purposes of this section, "vending machine" means any device that allows access to a
+newspaper, magazine, beverage, concession, or other item for public consumption or
+use.
+For purposes of this section, "permittee" means any person or organization,
+including any corporation, partnership, firm, or any other legal entity capable of
+owning property and transacting business, which has applied for a permit under this
+chapter.
+For purposes of this section, "notice" consists of a written communication
+and must be deemed to have occurred within seventy-two hours of mailing, if mailed
+within North Dakota, or one hundred twenty hours of mailing, if mailed outside
+North Dakota.
+"Notice" to a vendor of the condition of a vending machine also
+occurs if a period of time greater than the required inspection interval for the
+vending machines has passed.
+Approved April 7, 1999
+Filed April 8, 1999
