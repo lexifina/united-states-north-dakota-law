@@ -1,0 +1,33 @@
+CHAPTER 455
+HOUSE BILL NO. 1205
+(Representative Koppelman)
+(Senator W. Stenehjem)
+LAW ENFORCEMENT SEXUAL OFFENDER
+INFORMATION ACCESSIBILITY
+AN ACT to provide for the accessibility of sexual offender and crimes against
+children information to law enforcement officers.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+Accessibility of registration information.
+The attorney general
+shall provide to a law enforcement dispatch center access to registration information
+on individuals required to register under section 12.1-32-15 through any feasible
+electronic
+means
+that
+includes
+direct
+access
+to
+a
+computerized
+registration
+information data base. The attorney general shall provide the information in a form
+that is referenced by driver's license number or number plate characters.
+The
+department of transportation shall provide the necessary information to the attorney
+general in any feasible form requested by the attorney general. The attorney general
+may require the cooperation of the state radio broadcasting system to provide the
+access required by this section.
+Approved March 11, 1999
+Filed March 11, 1999
