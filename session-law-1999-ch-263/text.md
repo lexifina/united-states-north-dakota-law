@@ -1,0 +1,139 @@
+CHAPTER 263
+SENATE BILL NO. 2407
+(Senators D. Mathern, Flakoll)
+RENTAL CAR AGENCY INSURANCE SALES
+AN ACT to create and enact a new section to chapter 26.1-26 of the North Dakota
+Century Code, relating to insurance sales by rental car agencies.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+A new section to chapter 26.1-26 of the North Dakota
+Century Code is created and enacted as follows:
+Insurance license for automobile rental agencies - Exception.
+A license as an
+insurance agent or limited insurance representative is not required for the counter
+sales personnel of an automobile rental company or its franchisee if:
+1.
+The automobile rental company is appropriately licensed in this state
+under section 26.1-26-08 or is affiliated with an appropriately licensed
+North Dakota agent.
+2.
+The coverage offered by the counter sales personnel is limited to the
+following:
+a.
+Personal accident insurance covering the risks of travel, including
+accident and health insurance that provides coverage to renters and
+other
+rental
+vehicle
+occupants
+for
+accidental
+death
+or
+dismemberment
+and
+for
+medical
+expenses
+resulting
+from
+an
+accident that occurs during the rental period;
+b.
+Supplemental liability insurance that must include uninsured and
+underinsured
+motorist
+coverage,
+either
+offered separately or in
+combination
+with
+other
+liability
+insurance,
+and
+that
+provides
+coverage to renters and other authorized drivers for liability arising
+from the operation of the rental vehicle;
+c.
+Personal effects insurance that provides coverage to renters and
+other vehicle occupants for the loss of, or damage to, personal
+effects that occurs during the rental period;
+d.
+Roadside assistance and emergency sickness protection programs;
+and
+e.
+Any other coverage that a rental company offers in connection with
+and incidental to the rental of vehicles.
+3.
+The rental period is ninety days or less.
+4.
+The automobile rental company files an acknowledgement with the
+commissioner that its counter sales personnel act on its behalf and that it
+is
+responsible
+for
+any
+representations
+made
+by
+the
+counter
+sales
+personnel relating to insurance products offered through the automobile
+rental company or its franchisee.
+The acknowledgement must state that
+the
+commissioner
+has
+the
+right
+to
+take
+any
+administrative
+action
+contemplated in this title, including revocation or suspension of the
+license required under subsection 1.
+5.
+The automobile rental company provides basic training to counter sales
+personnel in the insurance products offered under this section.
+The
+training must require counter sales personnel to refer all customers with
+questions regarding the insurance products offered under this section to
+appropriately
+licensed
+agents
+employed
+by
+the
+automobile
+rental
+company or to written brochures or other materials that:
+a.
+Summarize the material terms of the coverage, including the identity
+of the insurer;
+b.
+Disclose that the policies offered by the automobile rental company
+may duplicate coverage already provided by other insurance the
+renter may have;
+c.
+State that the purchase of insurance is not required to rent the
+vehicle; and
+d.
+Describes the process of filing a claim.
+6.
+The counter sales personnel are not directly paid by an insurance
+company, a commission, or any other compensation for the sale of
+insurance.
+Nothing in
+this
+section prevents
+the
+automobile
+rental
+company from including the insurance products in an overall employee
+performance compensation incentive program.
+Approved March 19, 1999
+Filed March 19, 1999
