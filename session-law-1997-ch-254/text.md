@@ -1,0 +1,89 @@
+CHAPTER 254
+HOUSE BILL NO. 1428
+(Representatives Henegar, Kilzer)
+OFF-LABEL DRUG USE COVERAGE
+AN ACT to create and enact a new section to chapter 26.1-36 of the North Dakota
+Century Code, relating to coverage for off-label uses of drugs.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+A new section to chapter 26.1-36 of the North Dakota
+Century Code is created and enacted as follows:
+Coverage for off-label uses of drugs.
+1.
+In this section:
+a.
+"Coverage
+of
+a
+drug"
+includes
+medically
+necessary
+services
+associated with the administration of the drug.
+b.
+"Medical literature" means scientific studies published in a peer
+review national medical journal.
+c.
+"Off-label use of drugs" means prescribing drugs for treatments
+other than those stated in the labeling approved by the federal food
+and drug administration.
+d.
+"Standard
+reference
+compendia"
+means
+the
+United
+States
+pharmacopeia drug information or American hospital formulary
+service drug information.
+2.
+An insurance company, nonprofit health service corporation, or health
+maintenance organization that provides coverage for drugs may not
+issue, deliver, execute, or renew any health insurance policy or health
+service
+contract
+on
+an
+individual,
+group,
+blanket,
+franchise,
+or
+association basis which excludes coverage of a drug for a particular
+indication on the grounds the drug has not been approved by the federal
+food and drug administration for that indication if the drug is recognized
+for
+treatment
+of
+the
+indication
+in
+one
+of
+the
+standard
+reference
+compendia or medical literature.
+3.
+The commissioner of insurance may direct an insurer or contractor
+regulated by this section to make payments as required by this section.
+4.
+The state health officer may appoint a panel of up to eight qualified
+medical experts to review off-label uses of drugs not included in the
+standard reference compendia or medical literature.
+This panel shall
+advise the commissioner of insurance whether a particular off-label use
+is medically appropriate and shall make recommendations regarding
+payment of off-label use.
+5.
+This section does not alter existing law regarding provisions limiting the
+coverage of drugs that have not been approved by the federal food and
+drug administration; does not require coverage for any drug when the
+federal food and drug administration has determined its use to be
+contraindicated; and does not require coverage for experimental drugs
+not otherwise approved for any indication by the federal food and drug
+administration.
+Approved March 25, 1997
+Filed March 25, 1997
