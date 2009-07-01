@@ -1,0 +1,78 @@
+CHAPTER 415
+HOUSE BILL NO. 1044
+(Legislative Council)
+(Long-Term Care Committee)
+AN ACT to create and enact a new section to chapter 50-06 of the North Dakota
+Century Code, relating to the development of a program for services to
+transition-aged youth at risk; and to provide a continuing appropriation.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+A new section to chapter 50-06 of the North Dakota Century
+Code is created and enacted as follows:
+Program for services to transition-aged youth at risk - Definition - Rules
+- Continuing appropriation.
+1.
+The department shall develop, within current appropriations, a program
+for services to transition-aged youth at risk. The department shall use a
+wraparound planning process.
+The department shall adopt rules to
+establish eligibility, services, and a distinct statewide interagency
+advisory council on transition-aged youth at risk, with youth and family
+representation, and with regional subcommittees. For the purposes of
+this section, transition-aged youth means children and young adults at
+risk due to:
+a.
+Deprivation or other activities resulting in youth being involved with
+the foster care or juvenile justice system;
+b.
+Serious mental illness or serious disabilities that do not qualify the
+youth for developmental disabilities case management; or
+c.
+Suicidal tendencies.
+2.
+Services under the program must include:
+a.
+Individualized
+assessments
+to
+determine
+the
+needs
+and
+appropriate services to individual transition-aged youth at risk;
+b.
+Single plan of care to coordinate services among available service
+systems, emphasizing existing case management resources;
+c.
+Independent living skills, including self-advocacy training;
+d.
+Enhanced or extended vocational rehabilitation, including transition
+from education to employment and from secondary education to
+higher education;
+e.
+In-home support, including mentors, individual and family training,
+and access to respite care; and
+f.
+Development of a statewide independent living skills curriculum for
+youth and families.
+3.
+Services to an individual youth must be appropriate to that individual
+and need not include all services of the program.
+4.
+The department may accept and receive grants and other sources of
+funding for the development of a program for services to transition-aged
+youth at risk. All moneys received by the department as gifts, grants, or
+donations
+for
+the
+development
+of
+a
+program
+for
+services
+to
+transition-aged youth at risk under this section are appropriated on a
+continuing basis to the department.
+Approved April 21, 2009
+Filed April 22, 2009
