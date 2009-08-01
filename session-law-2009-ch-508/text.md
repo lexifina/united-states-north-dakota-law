@@ -1,0 +1,29 @@
+CHAPTER 508
+HOUSE BILL NO. 1460
+(Representatives Berg, Kaldor)
+AN ACT to create a state property and institution alternative use grant program.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1.
+State property and institution alternative use grant
+program.
+State institutions may work with local communities and stakeholders to
+develop proposed property or institution alternative use plans, including partnerships
+with private industry and not-for-profit organizations, to be reviewed by the office of
+management and budget. In accordance with the provisions of the community and
+institution approved plan, the office of management and budget shall introduce any
+statutory and constitutional changes necessary to implement the plan and request
+funding for the grant under this section for consideration by the legislative assembly.
+Subject to approval of all necessary statutory and constitutional changes and
+necessary legislative appropriations, the office of management and budget shall
+provide a grant up to the present value of the total estimated savings to the state for
+the next ten years resulting from converting the property or institution to an
+alternative use. The office of management and budget shall consider the estimated
+cost to the state of continuing to provide the service of the institution or property to
+state residents when calculating the estimated savings to the state.
+The office of
+management and budget shall use the rate of interest earned on state funds
+deposited at the Bank of North Dakota for calculating the present value of the
+estimated savings to the state. The grant is to assist the institution and community in
+the transition to an alternative use.
+Approved April 9, 2009
+Filed April 13, 2009
