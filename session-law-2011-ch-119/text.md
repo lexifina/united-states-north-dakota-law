@@ -1,0 +1,52 @@
+CHAPTER 119
+SENATE BILL NO. 2323
+(Senators Christmann, Hogue, Heckaman)
+(Representatives R. Kelsch, Headland, Monson)
+AN ACT to create and enact a new section to chapter 15-10 of the North Dakota
+Century Code, relating to variance reports for certain construction projects at
+institutions of higher education.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. A new section to chapter 15-10 of the North Dakota Century Code is
+created and enacted as follows:
+Construction projects at institutions of higher education - Variance reports.
+1.
+Whenever any new construction, renovation, or repair, valued at more than
+two hundred fifty thousand dollars is underway on the campus of an institution
+of higher education under the control of the state board of higher education,
+the board shall provide monthly project variance reports to the director of the
+office of management and budget. Each report must include:
+a.
+The name or a description of the project;
+b.
+The expenditure authorized by the legislative assembly;
+c.
+The amount of the original contract;
+d.
+The amount of any change orders;
+e.
+The amount of any potential or anticipated change orders;
+f.
+The sum of subdivisions c through e and the amount by which that sum
+varies from the expenditure authorized by the legislative assembly;
+g.
+The total expended for the project to date; and
+h.
+The scheduled date of completion as noted in the original contract and the
+latest available scheduled date of completion.
+2.
+The state board of higher education also shall provide to the director of the
+office of management and budget, at the same time as the project variance
+report required by subsection 1:
+a.
+A brief description of each change order included in subdivision d of
+subsection
+1; and
+b.
+A list of each public and nonpublic entity that has a contractually reflected
+financial obligation with respect to the project.
+3.
+The office of management and budget shall review the information received
+under this section and provide reports to the budget section of the legislative
+management upon request.
+Approved April 26, 2011
+Filed April 26, 2011
