@@ -1,0 +1,38 @@
+TOWNSHIPS
+CHAPTER 476
+SENATE BILL NO. 2180
+(Senators Murphy, Andrist, Campbell, Luick)
+(Representatives Kreidt, Vigesaa)
+AN ACT to create and enact a new section to chapter 58-03 of the North Dakota
+Century Code, relating to the issuance of building permits by townships.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. A new section to chapter 58-03 of the North Dakota Century Code is
+created and enacted as follows:
+Building permit
+- Decision within sixty days of application.
+1.
+A township that regulates the construction, erection, reconstruction, repair, or
+alteration of buildings and structures and issues building permits shall respond
+to a building permit application within sixty days of receiving the application
+either by approving the application and delivering the building permit or by
+providing the applicant written notice of the grounds for rejection of the
+application.
+2.
+If the building or structure for which a permit is requested meets all applicable
+zoning regulations and the board of township supervisors or other appropriate
+official fails to respond as required under subsection
+1, the application is
+deemed to be approved and the applicant may proceed with the construction,
+erection, reconstruction, repair, or alteration of the building or structure and
+the township shall return any permit fee submitted with the application.
+3.
+A township's building permit application form must include a statement that if
+the building or structure for which the permit is requested meets all applicable
+zoning regulations and the board of township supervisors or other appropriate
+official fails to respond within sixty days of receiving the application, the
+application is deemed approved. Upon receipt of a building permit application,
+a township shall note on the application the date of receipt and shall provide a
+copy of the submitted application to the applicant with the date of receipt
+noted.
+Approved April 15, 2013
+Filed April 16, 2013
