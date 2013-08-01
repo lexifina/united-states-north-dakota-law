@@ -1,0 +1,30 @@
+JUDICIAL BRANCH OF GOVERNMENT
+CHAPTER 239
+HOUSE BILL NO. 1073
+(Judiciary Committee)
+(At the request of the Supreme Court)
+AN ACT to create and enact a new section to chapter 27-02 of the North Dakota
+Century Code, relating to declaration of a judicial emergency.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. A new section to chapter 27-02 of the North Dakota Century Code is
+created and enacted as follows:
+Judicial emergency.
+1.
+If the supreme court of this state declares a judicial emergency due to an
+emergency or natural disaster that substantially endangers or infringes upon
+the normal functioning of the judicial system, the ability of persons to avail
+themselves of the judicial system, or the ability of litigants or others to have
+access to the courts or to meet schedules or time deadlines imposed by law or
+court order, notice of the declaration must be provided as required by supreme
+court rule.
+2.
+An order declaring a judicial emergency may suspend, toll, extend, or
+otherwise grant relief from deadlines, time schedules, statutes of limitations,
+statutes of repose, or filing requirements imposed by law, whether in civil or
+criminal cases, administrative matters, or any other legal proceedings as
+determined by the supreme court. An order declaring a judicial emergency
+may not suspend, toll, extend, or otherwise grant relief from deadlines, time
+schedules, or filing requirements that are required by the United States
+Constitution or the Constitution of North Dakota.
+Approved March 26, 2013
+Filed March 27, 2013
