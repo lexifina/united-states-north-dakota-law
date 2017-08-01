@@ -1,0 +1,44 @@
+CHAPTER 392
+HOUSE BILL NO. 1173
+(Representatives Kempenich, Kreidt, Nathe)
+(Senators Klein, Wanzek)
+AN ACT to amend and reenact section 54-35-02.2 of the North Dakota Century Code,
+relating to the powers and duties of the legislative audit and fiscal review
+committee.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. AMENDMENT. Section 54-35-02.2 of the North Dakota Century
+Code is amended and reenacted as follows:
+54-35-02.2. Powers and duties of the legislative audit and fiscal review
+committee.
+The legislative audit and fiscal review committee shall study and review audit
+reports as selected by the committee from those submitted by the state auditor,
+confer with the auditor and deputy auditors in regard to such reports, and when
+necessary, confer with representatives of the department, agency, or institution
+audited in order to obtain full and complete information in regard to any and all fiscal
+transactions and governmental operations of any department, agency, or institution of
+the state. Each department, agency, or institution shall furnish to the committee such
+aid, information, and assistance in regard to fiscal transactions and governmental
+operations as it may from time to time request. Whenever the committee may
+determine or have reason to believe that there may have been a violation of law
+relating to the receipt, custody, or expenditure of public funds by any state officer or
+employee, the committee shall present such evidence or information as may be in its
+possession to the attorney general. The attorney general shall receive and accept
+such evidence or information and shall immediately commence such additional
+investigation as the attorney general determines necessary. Upon completion of the
+investigation, if the evidence supplied by the committee and through the investigation
+indicates the probability of a violation of law by any state official or employee, the
+attorney general immediately shall prosecute such official or employee as provided by
+law. Whenever the committee may determine that a state agency, department, or
+institution has failed to correct an audit finding within two
+bienniums which the
+committee determines critically important, the committee may recommend the
+legislative assembly reduce the state agency, department, or institution's
+appropriation as compared with the amount appropriated to the agency, department,
+or institution for the previous biennium. The legislative management, through its
+committee on legislative audit and fiscal review, or such persons as may be directed
+or employed by the legislative council, is authorized, within the limits of legislative
+appropriations, to make such audits, examinations, or studies of the fiscal
+transactions or governmental operations of departments, agencies, or institutions of
+the state as the legislative management may determine necessary.
+Approved March 22, 2017
+Filed March 22, 2017
