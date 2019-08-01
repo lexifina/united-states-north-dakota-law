@@ -1,0 +1,94 @@
+CHAPTER 436
+HOUSE BILL NO. 1313
+(Representatives Buffalo, Beadle, Dobervich, Fegley, Hager, Jones, M. Nelson,
+Satrom)
+(Senators Clemens, Heckaman, Hogan, Kannianen)
+AN ACT to amend and reenact section 54-12-34 of the North Dakota Century Code,
+relating to the collection of data on missing persons.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. AMENDMENT. Section 54-12-34 of the North Dakota Century Code
+is amended and reenacted as follows:
+54-12-34. Criminal justice data information sharing system.
+1.
+The attorney general shall maintain a criminal justice data information sharing
+system within the bureau of criminal investigation for the exchange of criminal
+justice data information by judicial, law enforcement, and emergency services
+agencies, and the department of transportation. Only an authorized individual
+employed by a criminal justice agency as defined in section 12-60-16.1, the
+department of transportation, a state court, or the department of emergency
+services or any other individual approved by the attorney general may access
+the system. To be eligible for access to the criminal justice data information
+sharing system, an individual shall undergo a criminal history background
+check, including a fingerprint check.
+2.
+The criminal justice data information sharing system may be accessed only in
+accordance with rules adopted under this section. Any law enforcement record
+in the possession of the attorney general through the criminal justice data
+information sharing system is an exempt record. Criminal justice data
+information about an offense committed by a child if the offense has not been
+transferred under section 27-20-34 to another court having jurisdiction of the
+offense and information about a child victim or witness is confidential.
+3.
+The attorney general shall provide staff to maintain the criminal justice data
+information system and provide administrative support for the advisory board.
+4.
+A criminal justice information advisory board must be appointed, consisting of:
+a.
+The chief justice of the supreme court or the chief justice's designee.
+b.
+The director of the department of emergency services or the director's
+designee.
+c.
+The director of the department of corrections and rehabilitation or the
+director's designee.
+d.
+The superintendent of the state highway patrol or the superintendent's
+designee.
+e.
+The chief of the bureau of criminal investigation, who is the chairman of
+the advisory board.
+f.
+The chief information officer of the state or the chief information officer's
+designee.
+g.
+The director of the department of transportation or the director's designee.
+h.
+A representative of a city police department, appointed by the attorney
+general from a list of two or more nominees from the North Dakota chiefs
+of police association.
+i.
+A representative of a county sheriff's office, appointed by the attorney
+general from a list of two or more nominees from the North Dakota sheriffs
+and deputies association.
+j.
+A state's attorney, appointed by the attorney general from a list of two or
+more nominees from the North Dakota state's attorney's association.
+k.
+A city government representative, appointed by the attorney general from
+a list of two or more nominees from the league of cities.
+l.
+A county government representative, appointed by the attorney general
+from a list of two or more nominees from the association of counties.
+5.
+Advisory board members who are not permanent full-time state employees
+are entitled to compensation of seventy-five dollars per day and mileage and
+expenses as provided by law for state employees. With the exception of the
+chief of the bureau of criminal investigation, advisory board members
+appointed under this section serve staggered three-year terms.
+6.
+The attorney general, after consultation with the advisory board, shall adopt
+rules to establish eligibility for access to the criminal justice data information
+sharing system; to implement the collection, storage, and sharing of criminal
+justice information and the systems necessary to perform those functions; and
+to address the operation of the advisory board.
+7.
+The attorney general shall implement a missing person repository for
+authorized users to enter missing person information in accordance with rules
+established by the bureau of criminal investigation. Missing person
+information, including demographic data related to indigenous people, which is
+entered by an authorized user or made available to an authorized user by a
+federally recognized tribe in this state must be included in the repository.
+Records under this subsection are exempt records that may be disclosed only
+in accordance with bureau of criminal investigation rules.
+Approved April 8, 2019
+Filed April 9, 2019
