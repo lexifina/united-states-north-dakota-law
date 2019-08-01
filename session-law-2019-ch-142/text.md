@@ -1,0 +1,47 @@
+CHAPTER 142
+HOUSE BILL NO. 1044
+(Government and Veterans Affairs Committee)
+(At the request of the Teachers' Fund for Retirement)
+AN ACT to amend and reenact section 15-39.1-34 of the North Dakota Century Code,
+relating to Internal Revenue Code compliance.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. AMENDMENT. Section 15-39.1-34 of the North Dakota Century
+Code is amended and reenacted as follows:
+15-39.1-34. Internal Revenue Code compliance.
+1.
+The board shall administer the plan in compliance with section 415, section
+401(a)(9), section 401(a)(17), and section 401(a)(31) of the Internal Revenue
+Code, as amended, and regulations adopted pursuant to those provisions as
+they apply to governmental plans.
+2.
+Pursuant to the rollover rules under section 401(a)(31) of the Internal Revenue
+Code, a distributee may elect to have an eligible rollover distribution, as
+defined in section 402(f)(2)(A) of the Internal Revenue Code, paid in a direct
+rollover to an eligible retirement plan, as defined in section 402(c)(8)(B) of the
+Internal Revenue Code, specified by the distributee.
+a.
+The definition of eligible retirement plan also applies in the case of a
+distribution to an alternate payee under a qualified domestic relations
+order, as defined in section 414(p) of the Internal Revenue Code.
+b.
+Any portion of a distribution that consists of after-tax employee
+contributions not included in gross income may not be transferred except
+to an individual retirement account or individual retirement annuity
+described in section 408 or 408A of the Internal Revenue Code or to a
+qualified plan or an annuity contract described in sections 401(a) and
+403(b) of the Internal Revenue Code, respectively, which agrees to
+separately account for such amounts, including separately accounting for
+the portion of the distribution which is included in gross income and the
+portion of the distribution which is not so included.
+c.
+For purposes of this section, "distributee" includes a nonspouse
+beneficiary of a deceased member; except in the case of a nonspouse
+beneficiary, the direct rollover may be made only to an individual
+retirement account or individual retirement annuity described in
+section
+408 or 408A of the Internal Revenue Code which is established on
+behalf of the nonspouse beneficiary and will be treated as an inherited
+individual retirement account or inherited individual retirement annuity
+pursuant to section 402(c)(11) of the Internal Revenue Code.
+Approved March 20, 2019
+Filed March 21, 2019
