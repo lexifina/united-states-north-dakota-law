@@ -1,0 +1,43 @@
+CHAPTER 211
+SENATE BILL NO. 2238
+(Senator Bell)
+AN ACT to create and enact section 23.1-06-16 of the North Dakota Century Code,
+relating to the state regional haze plan; to provide a penalty; and to declare an
+emergency.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. Section 23.1-06-16 of the North Dakota Century Code is created and
+enacted as follows:
+23.1-06-16. Implementation of federal regional haze program requirements.
+1.
+Consistent with the federal Clean Air Act [42 U.S.C. 7401 et seq.] and the
+regulations adopted under the Clean Air Act, the department shall develop and
+implement a state regional haze plan in accordance with this section.
+2.
+The state regional haze plan must include an analysis of the natural and
+international causes of visibility impairment.
+3.
+In developing a periodic comprehensive revision of the state implementation
+plan, the department shall consider whether additional measures are
+necessary to make reasonable progress toward meeting the national goal of
+visibility improvement, as required by the federal Clean Air Act [42 U.S.C.
+7401 et seq.] and further defined by the United States environmental
+protection agency to be natural visibility conditions by 2064. The department
+may not require controls the department has determined serve only to
+increase total costs with little corresponding visibility benefit.
+4.
+If the environmental protection agency disapproves the state regional haze
+plan, the department may develop and submit as expeditiously as possible a
+revised plan to address the reasons for the disapproval in accordance with the
+requirements of this section.
+5.
+Any new control measures mandated by the state regional haze plan are
+effective only upon final approval by the environmental protection agency.
+6.
+If federal laws, a federal court, or a final federal agency action renders any
+control measures included in the state plan unenforceable by the
+environmental protection agency, the requirement to implement the measures
+may not be enforced under state law to the same extent the measures are
+unenforceable under federal law.
+SECTION 2. EMERGENCY. This Act is declared to be an emergency measure.
+Approved March 23, 2021
+Filed March 24, 2021
