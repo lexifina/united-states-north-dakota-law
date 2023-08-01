@@ -1,0 +1,63 @@
+CHAPTER 365
+HOUSE BILL NO. 1381
+(Representatives Ostlie, Cory, Grueneich, Hagert, Louser, D. Ruby, Satrom)
+(Senators Conley, Klein, Larsen, Meyer)
+AN ACT to create and enact a new section to chapter 39-34 of the North Dakota
+Century Code, relating to classifying a transportation network company driver as
+an independent contractor.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. A new section to chapter 39-34 of the North Dakota Century Code is
+created and enacted as follows:
+Transportation network company driver
+- Independent contractor.
+1.
+As used in this section:
+a.
+"Transportation network company" means a person that:
+(1) Maintains a digital network to facilitate services by transportation
+network company drivers to a person seeking those services; and
+(2) Accepts requests from the public only through the organization's digital
+network and not by telephone, facsimile, or in person at a retail
+location.
+b.
+"Transportation network company driver" does not include a person
+transporting freight, sealed or closed envelopes, boxes, parcels, or other
+similar sealed or closed containers for compensation. The term means a
+person that:
+(1) Enters a written agreement with a transportation network company to
+use the transportation network company's digital network to connect
+with an individual seeking services offered by the transportation
+network company driver;
+(2) Performs services for a person through a transportation network
+company's digital network in exchange for compensation or payment;
+and
+(3) Does not perform services at a physical business location operated by
+the transportation network company in the state.
+2.
+A transportation network company driver is an independent contractor and not
+an employee of a transportation network company if the transportation
+network company:
+a.
+Enters an agreement with the transportation network company driver that
+the transportation network company driver is an independent contractor
+and not an employee of the transportation network company.
+b.
+Does not unilaterally prescribe specific hours during which the
+transportation network company driver must be available to accept service
+requests submitted through the transportation network company's digital
+network.
+c.
+Does not prohibit the transportation network company driver from
+engaging in outside employment or performing services through other
+transportation network companies except while the transportation network
+company driver is engaged in performing services through the
+transportation network company's digital network.
+d.
+May not terminate the contract of the transportation network company
+driver for a driver's refusal to accept a specific transportation service or
+delivery service request.
+e.
+Does not prohibit the transportation network company driver from using a
+vehicle with an internal combustion engine.
+Approved March 30, 2023
+Filed April 3, 2023
