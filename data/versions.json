@@ -1,0 +1,1811 @@
+{
+ "country": "US-ND",
+ "acts": [
+  {
+   "slug": "constitution-preamble",
+   "short": "N.D. Const. Preamble",
+   "title": "Constitution of North Dakota: Preamble",
+   "url": "https://ndlegis.gov/constit/preamble.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/constit/preamble.pdf",
+     "sha256": "808da7f79df7f91f2795eda888782ea29b63abe1b7757def806c6308f8085fe5"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a01",
+   "short": "N.D. Const. Article I",
+   "title": "Constitution of North Dakota: Article I Declaration of Rights",
+   "url": "https://ndlegis.gov/constit/a01.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 24,
+     "source_url": "https://ndlegis.gov/constit/a01.pdf",
+     "sha256": "e1b654e83a72611d6eb8ad927d010625788e1e220a9b1dc466cf5f9b973284d8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a02",
+   "short": "N.D. Const. Article II",
+   "title": "Constitution of North Dakota: Article II Elective Franchise",
+   "url": "https://ndlegis.gov/constit/a02.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://ndlegis.gov/constit/a02.pdf",
+     "sha256": "02c1dfb6b81c8350745387e3d1a41d271b2d12bb4131637dbedc2a67259058bd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a03",
+   "short": "N.D. Const. Article III",
+   "title": "Constitution of North Dakota: Article III Powers Reserved To The People",
+   "url": "https://ndlegis.gov/constit/a03.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 10,
+     "source_url": "https://ndlegis.gov/constit/a03.pdf",
+     "sha256": "e522d9e2a02104b258228ea3bd1234bb078d60b8dfd57d3bf2d647a0fbffdd0c"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a04",
+   "short": "N.D. Const. Article IV",
+   "title": "Constitution of North Dakota: Article IV Legislative Branch",
+   "url": "https://ndlegis.gov/constit/a04.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://ndlegis.gov/constit/a04.pdf",
+     "sha256": "ba76a60dc8d8848398b3ee2d8182fc0043024779b842d8c0096882df81a0d8a0"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a05",
+   "short": "N.D. Const. Article V",
+   "title": "Constitution of North Dakota: Article V Executive Branch",
+   "url": "https://ndlegis.gov/constit/a05.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/constit/a05.pdf",
+     "sha256": "f2464c44453e245c3f08aeaf5c8b69d9e27d75002e7616eb0db52247c0340356"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a06",
+   "short": "N.D. Const. Article VI",
+   "title": "Constitution of North Dakota: Article VI Judicial Branch",
+   "url": "https://ndlegis.gov/constit/a06.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/constit/a06.pdf",
+     "sha256": "b49779121b3b94d3f5d5966629e926f0816d08ac236ba4cb473ac5c5934f5fec"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a07",
+   "short": "N.D. Const. Article VII",
+   "title": "Constitution of North Dakota: Article VII Political Subdivisions",
+   "url": "https://ndlegis.gov/constit/a07.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/constit/a07.pdf",
+     "sha256": "7dec9b876ca24fa12ae067541b3e2681c7664f26c6a0b2d9d601c0c0bbbc140f"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a08",
+   "short": "N.D. Const. Article VIII",
+   "title": "Constitution of North Dakota: Article VIII Education",
+   "url": "https://ndlegis.gov/constit/a08.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/constit/a08.pdf",
+     "sha256": "9e8cd07f5f1b3103a5eb78530418d6f07add62281977ebc5d4ad7c191e9d7e6b"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a09",
+   "short": "N.D. Const. Article IX",
+   "title": "Constitution of North Dakota: Article IX Trust Lands",
+   "url": "https://ndlegis.gov/constit/a09.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 13,
+     "source_url": "https://ndlegis.gov/constit/a09.pdf",
+     "sha256": "5fc0d46988e34454770cecb9658dba1229af814c83537ffd1c73f1c730dafc46"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a10",
+   "short": "N.D. Const. Article X",
+   "title": "Constitution of North Dakota: Article X Finance and Public Debt",
+   "url": "https://ndlegis.gov/constit/a10.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 23,
+     "source_url": "https://ndlegis.gov/constit/a10.pdf",
+     "sha256": "84a04c70147e6ffbfa2152925d6fbd143ce109b95d85d46f8e2d991eb12bb9de"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a11",
+   "short": "N.D. Const. Article XI",
+   "title": "Constitution of North Dakota: Article XI General Provisions",
+   "url": "https://ndlegis.gov/constit/a11.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 29,
+     "source_url": "https://ndlegis.gov/constit/a11.pdf",
+     "sha256": "42f3eed88298965c1fc8badf8243d7aac7ea535cea62a8fabbb368964a127e65"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a12",
+   "short": "N.D. Const. Article XII",
+   "title": "Constitution of North Dakota: Article XII Corporations Other Than Municipal",
+   "url": "https://ndlegis.gov/constit/a12.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://ndlegis.gov/constit/a12.pdf",
+     "sha256": "9f871fb184b936a8bc1393c8cadc66d1c9aaad608d89570d82a7cada58a6dfa6"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a13",
+   "short": "N.D. Const. Article XIII",
+   "title": "Constitution of North Dakota: Article XIII Compact With The United States",
+   "url": "https://ndlegis.gov/constit/a13.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/constit/a13.pdf",
+     "sha256": "45b233a800c8f04c39b02c6129b1f711e71b8a6dcedf3deba5d9d15a15639536"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a14",
+   "short": "N.D. Const. Article XIV",
+   "title": "Constitution of North Dakota: Article XIV Ethics Commission",
+   "url": "https://ndlegis.gov/constit/a14.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/constit/a14.pdf",
+     "sha256": "5bec4d326a6bf19dd55bdd1f069832d6a72c5723f270943c260f5c9198e81051"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a15",
+   "short": "N.D. Const. Article XV",
+   "title": "Constitution of North Dakota: Article XV Term Limits",
+   "url": "https://ndlegis.gov/constit/a15.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/constit/a15.pdf",
+     "sha256": "8e718a362a28d69bbf60cf5f5a2aadbba51b718afc8de905ccd3ae721b71d1ca"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-a16",
+   "short": "N.D. Const. Article XVI",
+   "title": "Constitution of North Dakota: Article XVI Congressional Age Limits",
+   "url": "https://ndlegis.gov/constit/a16.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/constit/a16.pdf",
+     "sha256": "2c09037709b8f04bd030e8ab689ed9f9b3f64cd2839b9134eef6fddda10e8d0e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-transition-schedule",
+   "short": "N.D. Const. Transition",
+   "title": "Constitution of North Dakota: Transition Schedule",
+   "url": "https://ndlegis.gov/constit/transition_schedule.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/constit/transition_schedule.pdf",
+     "sha256": "df7697bfeb85f0536e16fe1cea984850a93a8ffb49c31f689f4fbf0743932c53"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-theenablingact",
+   "short": "N.D. Const. The",
+   "title": "Constitution of North Dakota: The Enabling Act",
+   "url": "https://ndlegis.gov/constit/theenablingact.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/constit/theenablingact.pdf",
+     "sha256": "545f6f5f758671c494b44ac931dd3aaf60332662e311fafbf23fb0debfc86743"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-01",
+   "short": "N.D.C.C. ch. 12.1-01",
+   "title": "North Dakota Century Code, Chapter 12.1-01: Application - Purposes - Proof - Definitions",
+   "url": "https://ndlegis.gov/cencode/t12-1c01.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c01.pdf",
+     "sha256": "0272ed5cb9109f71d47f08ba49139104f319ada0c4bc0001a81c06a68e578630"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-02",
+   "short": "N.D.C.C. ch. 12.1-02",
+   "title": "North Dakota Century Code, Chapter 12.1-02: Liability and Culpability",
+   "url": "https://ndlegis.gov/cencode/t12-1c02.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c02.pdf",
+     "sha256": "b5f9ecddfcaa090b10ae5a5bd26bc109d3bc299d7601efb654f8f29512609cd5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-03",
+   "short": "N.D.C.C. ch. 12.1-03",
+   "title": "North Dakota Century Code, Chapter 12.1-03: Accomplices - Corporations - Agents",
+   "url": "https://ndlegis.gov/cencode/t12-1c03.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c03.pdf",
+     "sha256": "fb56692bf1246aa9d081a1ab3eb56ffd52e007065e9e25ae5217bc550f4ab5ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-04",
+   "short": "N.D.C.C. ch. 12.1-04",
+   "title": "North Dakota Century Code, Chapter 12.1-04: Juveniles - Intoxication - Fitness to Proceed",
+   "url": "https://ndlegis.gov/cencode/t12-1c04.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c04.pdf",
+     "sha256": "00673c61b695c129269ec3e7e0e1d7ca28d55d7edc9e081893a71954e2084be7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-04-1",
+   "short": "N.D.C.C. ch. 12.1-04.1",
+   "title": "North Dakota Century Code, Chapter 12.1-04.1: Criminal Responsibility and Post-Trial Responsibility Act",
+   "url": "https://ndlegis.gov/cencode/t12-1c04-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 26,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c04-1.pdf",
+     "sha256": "5e793cfc4465aa07c18103a2821d1dc4e57fa1b70d257859e73c0197e70ed24f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-05",
+   "short": "N.D.C.C. ch. 12.1-05",
+   "title": "North Dakota Century Code, Chapter 12.1-05: Justification - Excuse - Affirmative Defenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c05.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 14,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c05.pdf",
+     "sha256": "d46a0a82565fcf2ff3b93551e342f3042cdf4ae9b7545dd3dc5de62b8aa62fa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-06",
+   "short": "N.D.C.C. ch. 12.1-06",
+   "title": "North Dakota Century Code, Chapter 12.1-06: Criminal Attempt - Facilitation - Solicitation - Conspiracy",
+   "url": "https://ndlegis.gov/cencode/t12-1c06.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c06.pdf",
+     "sha256": "39ec47ad886d64a7443ff34dac76d3ca2b33c65800505a60eb6db4702efd2644"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-06-1",
+   "short": "N.D.C.C. ch. 12.1-06.1",
+   "title": "North Dakota Century Code, Chapter 12.1-06.1: Racketeer Influenced and Corrupt Organizations",
+   "url": "https://ndlegis.gov/cencode/t12-1c06-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c06-1.pdf",
+     "sha256": "3dae45a2add53e6583820d7fea471af6c210a268cc098cbdb9edaff76949c228"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-06-2",
+   "short": "N.D.C.C. ch. 12.1-06.2",
+   "title": "North Dakota Century Code, Chapter 12.1-06.2: Criminal Street Gangs",
+   "url": "https://ndlegis.gov/cencode/t12-1c06-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c06-2.pdf",
+     "sha256": "ea43816a33818c6ffab0cf99e5a55a8c480cd1866c6eb11a9079d0d5621f5f3b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-07",
+   "short": "N.D.C.C. ch. 12.1-07",
+   "title": "North Dakota Century Code, Chapter 12.1-07: Treason - Flag Desecration",
+   "url": "https://ndlegis.gov/cencode/t12-1c07.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c07.pdf",
+     "sha256": "978bae956ce08ca83f8d1e0c61c48d135e7e278fa3ba60282e53843234e98c70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-08",
+   "short": "N.D.C.C. ch. 12.1-08",
+   "title": "North Dakota Century Code, Chapter 12.1-08: Obstruction of Law Enforcement - Escape",
+   "url": "https://ndlegis.gov/cencode/t12-1c08.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c08.pdf",
+     "sha256": "7a397e0643faed2052de0bcd047204e2f1e61a858fc6792d9807fc7056aa3e9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-09",
+   "short": "N.D.C.C. ch. 12.1-09",
+   "title": "North Dakota Century Code, Chapter 12.1-09: Tampering and Unlawful Influence",
+   "url": "https://ndlegis.gov/cencode/t12-1c09.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c09.pdf",
+     "sha256": "168e2e30c8a157149faa872f5c0c251580d2bd7807f9e239251cc3e3e5560450"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-10",
+   "short": "N.D.C.C. ch. 12.1-10",
+   "title": "North Dakota Century Code, Chapter 12.1-10: Contempt - Obstruction of Judicial Proceedings",
+   "url": "https://ndlegis.gov/cencode/t12-1c10.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c10.pdf",
+     "sha256": "a2493fe2c15063c3dfba9fc6739b2da41729726f63043a447cd899bbd920a796"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-11",
+   "short": "N.D.C.C. ch. 12.1-11",
+   "title": "North Dakota Century Code, Chapter 12.1-11: Perjury - Falsification - Breach of Duty",
+   "url": "https://ndlegis.gov/cencode/t12-1c11.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 7,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c11.pdf",
+     "sha256": "408f322144fc57b429e6ba1e835dd0d3821d9dd06366a2355623b280b74c374d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-12",
+   "short": "N.D.C.C. ch. 12.1-12",
+   "title": "North Dakota Century Code, Chapter 12.1-12: Bribery - Unlawful Influence of Public Servants",
+   "url": "https://ndlegis.gov/cencode/t12-1c12.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c12.pdf",
+     "sha256": "f611692ac64cdbe5403a48dd8d4ec133929d104229ebe461d70d1dc9870b89c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-13",
+   "short": "N.D.C.C. ch. 12.1-13",
+   "title": "North Dakota Century Code, Chapter 12.1-13: Confidential Information - Conflict of Interest - Impersonation",
+   "url": "https://ndlegis.gov/cencode/t12-1c13.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c13.pdf",
+     "sha256": "2ada7ecae9cb910edd3218c866f38ddb1212344022f95ca27a3245ca76051fba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-14",
+   "short": "N.D.C.C. ch. 12.1-14",
+   "title": "North Dakota Century Code, Chapter 12.1-14: Official Oppression - Elections - Civil Rights",
+   "url": "https://ndlegis.gov/cencode/t12-1c14.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c14.pdf",
+     "sha256": "61a93dadbb08173d60f067b618a71d669ddc04b0ca81fba5b5a83f10ff0af1ad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-15",
+   "short": "N.D.C.C. ch. 12.1-15",
+   "title": "North Dakota Century Code, Chapter 12.1-15: Defamation - Interception of Communications",
+   "url": "https://ndlegis.gov/cencode/t12-1c15.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c15.pdf",
+     "sha256": "392c7802ec20d94afbdc4501e526c010ce11ceeed9893364f384f4439c3650d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-16",
+   "short": "N.D.C.C. ch. 12.1-16",
+   "title": "North Dakota Century Code, Chapter 12.1-16: Homicide",
+   "url": "https://ndlegis.gov/cencode/t12-1c16.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c16.pdf",
+     "sha256": "0d4e3fb0ee568a7566a4cace61e513d206f1d46e9a586165a11bc6d0062f357e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-17",
+   "short": "N.D.C.C. ch. 12.1-17",
+   "title": "North Dakota Century Code, Chapter 12.1-17: Assaults - Threats - Coercion - Harassment",
+   "url": "https://ndlegis.gov/cencode/t12-1c17.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 19,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c17.pdf",
+     "sha256": "1bba6f9c4fdbf4063d0ccb0d6e573bc767c74a18e0e0e22f5d6a2a2fa2298f1a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-17-1",
+   "short": "N.D.C.C. ch. 12.1-17.1",
+   "title": "North Dakota Century Code, Chapter 12.1-17.1: Offenses Against Unborn Children",
+   "url": "https://ndlegis.gov/cencode/t12-1c17-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c17-1.pdf",
+     "sha256": "5fb7b33726be9801f87463da1aecba65ec71b32d78f5738b34f692571ac3b4bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-18",
+   "short": "N.D.C.C. ch. 12.1-18",
+   "title": "North Dakota Century Code, Chapter 12.1-18: Kidnapping",
+   "url": "https://ndlegis.gov/cencode/t12-1c18.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c18.pdf",
+     "sha256": "ea047a99216d599b21fef137375160ad08678f765c7fe2bab9b94f875458b802"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-19-1",
+   "short": "N.D.C.C. ch. 12.1-19.1",
+   "title": "North Dakota Century Code, Chapter 12.1-19.1: Abortion",
+   "url": "https://ndlegis.gov/cencode/t12-1c19-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 3,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c19-1.pdf",
+     "sha256": "945ee135aa97ca5464fc579f2dc29bfeeaf994a077649d6475d8ebb1e86de63a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-20",
+   "short": "N.D.C.C. ch. 12.1-20",
+   "title": "North Dakota Century Code, Chapter 12.1-20: Sex Offenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c20.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 33,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c20.pdf",
+     "sha256": "ed4e40f6acca89070794ce7f00e04c389e59499c7fcc63dc0c35d9128077b0cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-21",
+   "short": "N.D.C.C. ch. 12.1-21",
+   "title": "North Dakota Century Code, Chapter 12.1-21: Damaging Property or Public Services",
+   "url": "https://ndlegis.gov/cencode/t12-1c21.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c21.pdf",
+     "sha256": "15e4a3bf2e1f87fd00c0a11c4b0c836cadfc6843fd57601d6d147ab7c2a78565"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-21-1",
+   "short": "N.D.C.C. ch. 12.1-21.1",
+   "title": "North Dakota Century Code, Chapter 12.1-21.1: Animal Research Facility Damage",
+   "url": "https://ndlegis.gov/cencode/t12-1c21-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c21-1.pdf",
+     "sha256": "d2e688536f6fdfef8075f136f3ace42de7da09dfd9904f136e5593c13620a8ed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-22",
+   "short": "N.D.C.C. ch. 12.1-22",
+   "title": "North Dakota Century Code, Chapter 12.1-22: Robbery - Breaking and Entering Offenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c22.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 7,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c22.pdf",
+     "sha256": "de47cdb201ff1ca4d9d09cca6c556992451c4b642afc8f89f77e1c578140fa5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-23",
+   "short": "N.D.C.C. ch. 12.1-23",
+   "title": "North Dakota Century Code, Chapter 12.1-23: Theft and Related Offenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c23.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 25,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c23.pdf",
+     "sha256": "b53c280ce6f6b080376331ce1fe4f246a6440e02883e47f2a43260a1f0461c1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-23-1",
+   "short": "N.D.C.C. ch. 12.1-23.1",
+   "title": "North Dakota Century Code, Chapter 12.1-23.1: Theft of Cable Television",
+   "url": "https://ndlegis.gov/cencode/t12-1c23-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c23-1.pdf",
+     "sha256": "0d9f48da667e49ac2ad12df87f327fb0ed39927f8ffef05c9a9a90a96f6deeaa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-24",
+   "short": "N.D.C.C. ch. 12.1-24",
+   "title": "North Dakota Century Code, Chapter 12.1-24: Forgery and Counterfeiting",
+   "url": "https://ndlegis.gov/cencode/t12-1c24.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c24.pdf",
+     "sha256": "8f5ec7c7981912f3496485dcac0b792cb6fbf36a5a649c2583b5f424d41f35de"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-25",
+   "short": "N.D.C.C. ch. 12.1-25",
+   "title": "North Dakota Century Code, Chapter 12.1-25: Riot",
+   "url": "https://ndlegis.gov/cencode/t12-1c25.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c25.pdf",
+     "sha256": "9b14acf958083e0783fcff34dd3bff03a0190452cc8003b1a416ae820ff3cf65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-27-1",
+   "short": "N.D.C.C. ch. 12.1-27.1",
+   "title": "North Dakota Century Code, Chapter 12.1-27.1: Obscenity Control",
+   "url": "https://ndlegis.gov/cencode/t12-1c27-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 17,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c27-1.pdf",
+     "sha256": "d52f33c158538e9baf1d1d2eb82de3b83284a6c52eae192d0abf7765879390ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-27-2",
+   "short": "N.D.C.C. ch. 12.1-27.2",
+   "title": "North Dakota Century Code, Chapter 12.1-27.2: Sexual Performances by Children",
+   "url": "https://ndlegis.gov/cencode/t12-1c27-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c27-2.pdf",
+     "sha256": "b1c3c1f0bb60a4f6fc94d091b8fb3eb32386ef855e4c2d18f0d9ed2eee7ccf9c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-28",
+   "short": "N.D.C.C. ch. 12.1-28",
+   "title": "North Dakota Century Code, Chapter 12.1-28: Gambling and Related Offenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c28.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 2,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c28.pdf",
+     "sha256": "6803fcd5c36b1030a8c3692f9b9c47df45d4678a9185f8e5c75b5e34467a730d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-29",
+   "short": "N.D.C.C. ch. 12.1-29",
+   "title": "North Dakota Century Code, Chapter 12.1-29: Prostitution",
+   "url": "https://ndlegis.gov/cencode/t12-1c29.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 7,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c29.pdf",
+     "sha256": "e897bc476d4bdb2ebca282ae02c0aa4f65c6e04ed253f0d6556f710f0ff2014a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-30",
+   "short": "N.D.C.C. ch. 12.1-30",
+   "title": "North Dakota Century Code, Chapter 12.1-30: Sunday Closing Law",
+   "url": "https://ndlegis.gov/cencode/t12-1c30.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c30.pdf",
+     "sha256": "9138c90ac9d57486f2ed7790b9cfebd5011a54b9f72770fc07a72cee9bf99075"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-31",
+   "short": "N.D.C.C. ch. 12.1-31",
+   "title": "North Dakota Century Code, Chapter 12.1-31: Miscellaneous Offenses",
+   "url": "https://ndlegis.gov/cencode/t12-1c31-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 22,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c31-1.pdf",
+     "sha256": "3cd159d3738cd40d9ca9093f5d118f5b6310bd38bbd7bf5cc4b5152cb200244a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-31-2",
+   "short": "N.D.C.C. ch. 12.1-31.2",
+   "title": "North Dakota Century Code, Chapter 12.1-31.2: Disorderly Conduct Restraining Order",
+   "url": "https://ndlegis.gov/cencode/t12-1c31-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 2,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c31-2.pdf",
+     "sha256": "6f5ae1badccff897bbdbe8f9413a2b4fcd83a70e531d4a481d000f63d430c83a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-32",
+   "short": "N.D.C.C. ch. 12.1-32",
+   "title": "North Dakota Century Code, Chapter 12.1-32: Penalties and Sentencing",
+   "url": "https://ndlegis.gov/cencode/t12-1c32.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 30,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c32.pdf",
+     "sha256": "ac5ba116fb3d2cc582d5ac6de9d6819f4e274d4fd395dc5308f61db7b1ec3b7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-33",
+   "short": "N.D.C.C. ch. 12.1-33",
+   "title": "North Dakota Century Code, Chapter 12.1-33: Rights of Convicts",
+   "url": "https://ndlegis.gov/cencode/t12-1c33.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c33.pdf",
+     "sha256": "0345c46890d78764011b6d17d6bf8d7e81322d08c694faaf8680d5c5a50bdc28"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-34",
+   "short": "N.D.C.C. ch. 12.1-34",
+   "title": "North Dakota Century Code, Chapter 12.1-34: Fair Treatment of Victims and Witnesses",
+   "url": "https://ndlegis.gov/cencode/t12-1c34.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c34.pdf",
+     "sha256": "5140cf5ae2030a917f986a49d361dcdde4cf16213380e07599c378913f7db563"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-35",
+   "short": "N.D.C.C. ch. 12.1-35",
+   "title": "North Dakota Century Code, Chapter 12.1-35: Child Victim and Witness Fair Treatment Standards",
+   "url": "https://ndlegis.gov/cencode/t12-1c35.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c35.pdf",
+     "sha256": "26a2d5851c8ceb067ee75d876f1ae191e1c5f74d5dc8b63db3eb777053339b43"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-36",
+   "short": "N.D.C.C. ch. 12.1-36",
+   "title": "North Dakota Century Code, Chapter 12.1-36: Female Genital Mutilation",
+   "url": "https://ndlegis.gov/cencode/t12-1c36.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c36.pdf",
+     "sha256": "960191330494f5c65eb0a915136ed269d9a66ceca1b48690834dae267591530c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-36-1",
+   "short": "N.D.C.C. ch. 12.1-36.1",
+   "title": "North Dakota Century Code, Chapter 12.1-36.1: Minor Sex Change Treatment",
+   "url": "https://ndlegis.gov/cencode/t12-1c36-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c36-1.pdf",
+     "sha256": "6a92d053edb38d81c4d9baf09edb5466875856d0e9dd749ee481a19c4567f924"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-37",
+   "short": "N.D.C.C. ch. 12.1-37",
+   "title": "North Dakota Century Code, Chapter 12.1-37: Child Support Nonpayment",
+   "url": "https://ndlegis.gov/cencode/t12-1c37.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c37.pdf",
+     "sha256": "6112cfe329a70411a840df55dcdceb67b121f04a42be1bbf62d9f9b51bdb7601"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-38",
+   "short": "N.D.C.C. ch. 12.1-38",
+   "title": "North Dakota Century Code, Chapter 12.1-38: Assumption of Risk in Crimes",
+   "url": "https://ndlegis.gov/cencode/t12-1c38.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c38.pdf",
+     "sha256": "5b0da7ef1c39a0affaa08bff07e54715493f3975155dfb57c7d31eb00bb3a4ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-39",
+   "short": "N.D.C.C. ch. 12.1-39",
+   "title": "North Dakota Century Code, Chapter 12.1-39: Human Cloning",
+   "url": "https://ndlegis.gov/cencode/t12-1c39.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 2,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c39.pdf",
+     "sha256": "c518d37abe42132a82d22b54c6875058dbf88ee779d9fe24ae690e84200a017f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-1-41",
+   "short": "N.D.C.C. ch. 12.1-41",
+   "title": "North Dakota Century Code, Chapter 12.1-41: Uniform Act on Prevention of and Remedies for Human Trafficking",
+   "url": "https://ndlegis.gov/cencode/t12-1c41.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 22,
+     "source_url": "https://ndlegis.gov/cencode/t12-1c41.pdf",
+     "sha256": "f2973c771d8dbd1c908ab8f58c6510bfb044333dc4b4eee1026fe436640a3455"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-01",
+   "short": "N.D.C.C. ch. 47-01",
+   "title": "North Dakota Century Code, Chapter 47-01: General Provisions",
+   "url": "https://ndlegis.gov/cencode/t47c01.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 23,
+     "source_url": "https://ndlegis.gov/cencode/t47c01.pdf",
+     "sha256": "75c694871d54e14be392ece5463ddcf8fd39c2f6e8f1fdc0e14dd5b8bb55c562"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-02",
+   "short": "N.D.C.C. ch. 47-02",
+   "title": "North Dakota Century Code, Chapter 47-02: Classification of Ownership",
+   "url": "https://ndlegis.gov/cencode/t47c02.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 39,
+     "source_url": "https://ndlegis.gov/cencode/t47c02.pdf",
+     "sha256": "f0860d26a2acf629d61292378149f9decbff121b112bd7996a093b0e2613234d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-03",
+   "short": "N.D.C.C. ch. 47-03",
+   "title": "North Dakota Century Code, Chapter 47-03: Accumulations of Property",
+   "url": "https://ndlegis.gov/cencode/t47c03.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 7,
+     "source_url": "https://ndlegis.gov/cencode/t47c03.pdf",
+     "sha256": "7307064bab00bac25a0005ff4ae056d0f13e927271dc9eeb0ec09b261c2d66a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-04",
+   "short": "N.D.C.C. ch. 47-04",
+   "title": "North Dakota Century Code, Chapter 47-04: Estates in Real Property",
+   "url": "https://ndlegis.gov/cencode/t47c04.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 33,
+     "source_url": "https://ndlegis.gov/cencode/t47c04.pdf",
+     "sha256": "70f845a8602d99590b8e924b4e03b4181d7a22ce85a71ae8be6633ec1f85eaa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-04-1",
+   "short": "N.D.C.C. ch. 47-04.1",
+   "title": "North Dakota Century Code, Chapter 47-04.1: Condominium Ownership of Real Property",
+   "url": "https://ndlegis.gov/cencode/t47c04-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 16,
+     "source_url": "https://ndlegis.gov/cencode/t47c04-1.pdf",
+     "sha256": "d6fcdaf96ba74f90660efba8d8dbcb925addcc4f7a29ca47109bf14dd2c23aa4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-05",
+   "short": "N.D.C.C. ch. 47-05",
+   "title": "North Dakota Century Code, Chapter 47-05: Servitudes",
+   "url": "https://ndlegis.gov/cencode/t47c05.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 20,
+     "source_url": "https://ndlegis.gov/cencode/t47c05.pdf",
+     "sha256": "4a3788130bcef42f4f0fac3b6b3efcedcc50de009aaf23dc668ab8c2b41e0923"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-06",
+   "short": "N.D.C.C. ch. 47-06",
+   "title": "North Dakota Century Code, Chapter 47-06: Real Estate Title by Occupancy and Accession",
+   "url": "https://ndlegis.gov/cencode/t47c06.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t47c06.pdf",
+     "sha256": "a3e1d2f1469fed345edb1080a09e98e2afe30e24019952eda6fb9e17fc8f9f6d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-07",
+   "short": "N.D.C.C. ch. 47-07",
+   "title": "North Dakota Century Code, Chapter 47-07: Personal or Movable Property - General Provisions",
+   "url": "https://ndlegis.gov/cencode/t47c07.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 14,
+     "source_url": "https://ndlegis.gov/cencode/t47c07.pdf",
+     "sha256": "1873fca5b74d8999f699da659eff71b5fb25f33d2f5ace3c277ee9baea3b869f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-08",
+   "short": "N.D.C.C. ch. 47-08",
+   "title": "North Dakota Century Code, Chapter 47-08: Accession to Personal Property",
+   "url": "https://ndlegis.gov/cencode/t47c08.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t47c08.pdf",
+     "sha256": "2d9a2d5a395f45450eea1d92c411f5ef1858f9e06576381eccb5ce1418b4113c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-09",
+   "short": "N.D.C.C. ch. 47-09",
+   "title": "North Dakota Century Code, Chapter 47-09: Title by Transfer - General Provisions",
+   "url": "https://ndlegis.gov/cencode/t47c09.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 18,
+     "source_url": "https://ndlegis.gov/cencode/t47c09.pdf",
+     "sha256": "15877dc878a16fd94311435fb5c6f7d7832ae6c68767ec9ef51932087e99e457"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-10",
+   "short": "N.D.C.C. ch. 47-10",
+   "title": "North Dakota Century Code, Chapter 47-10: Real Property Transfers",
+   "url": "https://ndlegis.gov/cencode/t47c10.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 33,
+     "source_url": "https://ndlegis.gov/cencode/t47c10.pdf",
+     "sha256": "b9cb62db3d80305b70ab1bbdeb1b039d9e8e5ae9f0248840c7a8f5ae21949b6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-10-1",
+   "short": "N.D.C.C. ch. 47-10.1",
+   "title": "North Dakota Century Code, Chapter 47-10.1: Agricultural Land Ownership by Aliens",
+   "url": "https://ndlegis.gov/cencode/t47c10-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t47c10-1.pdf",
+     "sha256": "e292b2e726d22124141b9f6359c7e14ea345c71e6b1475b7c2d36b4083dd048d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-10-2",
+   "short": "N.D.C.C. ch. 47-10.2",
+   "title": "North Dakota Century Code, Chapter 47-10.2: Escrow Accounts",
+   "url": "https://ndlegis.gov/cencode/t47c10-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t47c10-2.pdf",
+     "sha256": "c72cc5bb9d9555c0c782ff740848607c51d6a769f9695c859375a006cf747b68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-11",
+   "short": "N.D.C.C. ch. 47-11",
+   "title": "North Dakota Century Code, Chapter 47-11: Personal Property Transfers",
+   "url": "https://ndlegis.gov/cencode/t47c11-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 16,
+     "source_url": "https://ndlegis.gov/cencode/t47c11-1.pdf",
+     "sha256": "5d7b86c2b022a3a11657a54ccefaec45efd5006d0f0126e8df01263928b9fafb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-12",
+   "short": "N.D.C.C. ch. 47-12",
+   "title": "North Dakota Century Code, Chapter 47-12: Loans of Personal Property for Use",
+   "url": "https://ndlegis.gov/cencode/t47c12.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/cencode/t47c12.pdf",
+     "sha256": "f0b572f4bc3e22271e11e411c4785f36091436df233c129d65646c7af7283d02"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-13",
+   "short": "N.D.C.C. ch. 47-13",
+   "title": "North Dakota Century Code, Chapter 47-13: Loans of Personal Property for Exchange",
+   "url": "https://ndlegis.gov/cencode/t47c13.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t47c13.pdf",
+     "sha256": "df9c80c3a2a1ad7df5d82006fdddef5e478ee7fc6984f7fba7f8d8b267675f55"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-14",
+   "short": "N.D.C.C. ch. 47-14",
+   "title": "North Dakota Century Code, Chapter 47-14: Loans of Money",
+   "url": "https://ndlegis.gov/cencode/t47c14.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t47c14.pdf",
+     "sha256": "bbfa090fcff6482bd39db547eb2f208c718ba8d22c8a1915d28426af242b934e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-15",
+   "short": "N.D.C.C. ch. 47-15",
+   "title": "North Dakota Century Code, Chapter 47-15: Hiring of Personal Property",
+   "url": "https://ndlegis.gov/cencode/t47c15.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 13,
+     "source_url": "https://ndlegis.gov/cencode/t47c15.pdf",
+     "sha256": "9c4ab575ae4b644d0d8353578d5335dadfe7aa427a6d11066a49f37c5d27bf87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-15-1",
+   "short": "N.D.C.C. ch. 47-15.1",
+   "title": "North Dakota Century Code, Chapter 47-15.1: Consumer Rental Purchase Agreement",
+   "url": "https://ndlegis.gov/cencode/t47c15-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t47c15-1.pdf",
+     "sha256": "d46dd58da0ce8ff23cc03c42c99261a13a1b1389548e82a815e0b394f40625ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-16",
+   "short": "N.D.C.C. ch. 47-16",
+   "title": "North Dakota Century Code, Chapter 47-16: Leasing of Real Property",
+   "url": "https://ndlegis.gov/cencode/t47c16.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 64,
+     "source_url": "https://ndlegis.gov/cencode/t47c16.pdf",
+     "sha256": "fcefb7c8434ad80e2e9644eec141b299f05b7b4bffa0517c8f607e51375b91b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-17",
+   "short": "N.D.C.C. ch. 47-17",
+   "title": "North Dakota Century Code, Chapter 47-17: Termination of Estates",
+   "url": "https://ndlegis.gov/cencode/t47c17.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t47c17.pdf",
+     "sha256": "9828b6f1dfc2c745cda49f4d663fb3ff37e74f0bf9d6259c7f16df51541b78b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-18",
+   "short": "N.D.C.C. ch. 47-18",
+   "title": "North Dakota Century Code, Chapter 47-18: Homestead",
+   "url": "https://ndlegis.gov/cencode/t47c18.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 30,
+     "source_url": "https://ndlegis.gov/cencode/t47c18.pdf",
+     "sha256": "155483a1256bcd913f219237a617bc9663085288d4ad80fc95f903b241a98a0a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-19",
+   "short": "N.D.C.C. ch. 47-19",
+   "title": "North Dakota Century Code, Chapter 47-19: Record Title",
+   "url": "https://ndlegis.gov/cencode/t47c19.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 70,
+     "source_url": "https://ndlegis.gov/cencode/t47c19.pdf",
+     "sha256": "bae645623d62b5279278cada85abf4c9978fe791290469f5f51c6ea810469ac9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-19-1",
+   "short": "N.D.C.C. ch. 47-19.1",
+   "title": "North Dakota Century Code, Chapter 47-19.1: Marketable Record Title",
+   "url": "https://ndlegis.gov/cencode/t47c19-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t47c19-1.pdf",
+     "sha256": "cb67ec4761f600283cf9649a255e760bb8abd4a928686f477b5d57d93bda2933"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-20-1",
+   "short": "N.D.C.C. ch. 47-20.1",
+   "title": "North Dakota Century Code, Chapter 47-20.1: Survey and Corner Recordation Act",
+   "url": "https://ndlegis.gov/cencode/t47c20-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 13,
+     "source_url": "https://ndlegis.gov/cencode/t47c20-1.pdf",
+     "sha256": "87a045a43a41bf27eeb5ddb34692553ead6a532493c9a0ffa8d0280fa843e197"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-20-2",
+   "short": "N.D.C.C. ch. 47-20.2",
+   "title": "North Dakota Century Code, Chapter 47-20.2: Plane Coordinates",
+   "url": "https://ndlegis.gov/cencode/t47c20-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t47c20-2.pdf",
+     "sha256": "076887eb52cb03b15ffe572fdaa620da8e543551d03cc5dc286a96f76cd8d83c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-21",
+   "short": "N.D.C.C. ch. 47-21",
+   "title": "North Dakota Century Code, Chapter 47-21: Copyrights",
+   "url": "https://ndlegis.gov/cencode/t47c21.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/cencode/t47c21.pdf",
+     "sha256": "4811caebf524d56c357c832b43e3ba7d9640592041796594db284f1217ce10c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-21-1",
+   "short": "N.D.C.C. ch. 47-21.1",
+   "title": "North Dakota Century Code, Chapter 47-21.1: Sound Recordings",
+   "url": "https://ndlegis.gov/cencode/t47c21-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t47c21-1.pdf",
+     "sha256": "10d2beddf456f8623c0a4dc2c7316d3c1bb4aad46c59c99376613865e18cb2fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-21-2",
+   "short": "N.D.C.C. ch. 47-21.2",
+   "title": "North Dakota Century Code, Chapter 47-21.2: Royalties Contracts",
+   "url": "https://ndlegis.gov/cencode/t47c21-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 7,
+     "source_url": "https://ndlegis.gov/cencode/t47c21-2.pdf",
+     "sha256": "d15a4654c2de14a7d401793a4cf12a9a84879e19b76efc59bcd808624111fdf1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-22",
+   "short": "N.D.C.C. ch. 47-22",
+   "title": "North Dakota Century Code, Chapter 47-22: Trademarks",
+   "url": "https://ndlegis.gov/cencode/t47c22.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 14,
+     "source_url": "https://ndlegis.gov/cencode/t47c22.pdf",
+     "sha256": "868cb3e560f0e44b37696814a802cc9d312263bff9c35f8a4442acac93533a9a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-24-1",
+   "short": "N.D.C.C. ch. 47-24.1",
+   "title": "North Dakota Century Code, Chapter 47-24.1: Uniform Transfers to Minors Act",
+   "url": "https://ndlegis.gov/cencode/t47c24-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 22,
+     "source_url": "https://ndlegis.gov/cencode/t47c24-1.pdf",
+     "sha256": "2ed11512924e63ca6b25b3e6704c6b0a1266eb5fa28613c0a8d5ffbfa0533d15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-25",
+   "short": "N.D.C.C. ch. 47-25",
+   "title": "North Dakota Century Code, Chapter 47-25: Trade Names",
+   "url": "https://ndlegis.gov/cencode/t47c25.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 11,
+     "source_url": "https://ndlegis.gov/cencode/t47c25.pdf",
+     "sha256": "cf3159ef3283dacf6a6e0116a04afcab7e8562836da02594700703ac064dfc01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-25-1",
+   "short": "N.D.C.C. ch. 47-25.1",
+   "title": "North Dakota Century Code, Chapter 47-25.1: Trade Secrets",
+   "url": "https://ndlegis.gov/cencode/t47c25-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 8,
+     "source_url": "https://ndlegis.gov/cencode/t47c25-1.pdf",
+     "sha256": "fbf3c4e66624f50fb3eacc2d395bd6cfbd7ee3acbe97252e5c12a8ac810c6907"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-26",
+   "short": "N.D.C.C. ch. 47-26",
+   "title": "North Dakota Century Code, Chapter 47-26: Partition Fences",
+   "url": "https://ndlegis.gov/cencode/t47c26.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 20,
+     "source_url": "https://ndlegis.gov/cencode/t47c26.pdf",
+     "sha256": "d0251ca5b4fe2ab05b813594172c6203298f843efb50494175ea1ec0f24925d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-27",
+   "short": "N.D.C.C. ch. 47-27",
+   "title": "North Dakota Century Code, Chapter 47-27: Closing Fence Gates",
+   "url": "https://ndlegis.gov/cencode/t47c27.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 3,
+     "source_url": "https://ndlegis.gov/cencode/t47c27.pdf",
+     "sha256": "2459c902fdbaf82fc78cba762426eee02eadebb8c688885ae9ec05f97e20f72c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-29",
+   "short": "N.D.C.C. ch. 47-29",
+   "title": "North Dakota Century Code, Chapter 47-29: Recording Master Mortgage",
+   "url": "https://ndlegis.gov/cencode/t47c29.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t47c29.pdf",
+     "sha256": "0f96196893729614abf7f4fe4951fd40fe2b5455cd6f3304484d219711db2235"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-30-2",
+   "short": "N.D.C.C. ch. 47-30.2",
+   "title": "North Dakota Century Code, Chapter 47-30.2: Revised Uniform Unclaimed Property Act",
+   "url": "https://ndlegis.gov/cencode/t47c30-2.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 76,
+     "source_url": "https://ndlegis.gov/cencode/t47c30-2.pdf",
+     "sha256": "b3b17e5e4b918d011f70469025e0c951ba1456318c4b82e91a3922f32645486d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-31",
+   "short": "N.D.C.C. ch. 47-31",
+   "title": "North Dakota Century Code, Chapter 47-31: Subsurface Pore Space Policy",
+   "url": "https://ndlegis.gov/cencode/t47c31.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t47c31.pdf",
+     "sha256": "f1dc1122bb0592a4d1528f3ed329374e50545bc237286ab667ea490f39b917e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-32",
+   "short": "N.D.C.C. ch. 47-32",
+   "title": "North Dakota Century Code, Chapter 47-32: Eviction",
+   "url": "https://ndlegis.gov/cencode/t47c32.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 6,
+     "source_url": "https://ndlegis.gov/cencode/t47c32.pdf",
+     "sha256": "b07efee0f3a53338d928dff361e4b5b435c393e4400c5f73c8059297c1038722"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-33",
+   "short": "N.D.C.C. ch. 47-33",
+   "title": "North Dakota Century Code, Chapter 47-33: Private Transfer Fee Obligation Prohibition",
+   "url": "https://ndlegis.gov/cencode/t47c33.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t47c33.pdf",
+     "sha256": "b5c6c5477821824822accda16dc40d460a4bb122be460efa9a93db0f6bbaf6cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-34",
+   "short": "N.D.C.C. ch. 47-34",
+   "title": "North Dakota Century Code, Chapter 47-34: Real Estate Transaction Good Funds",
+   "url": "https://ndlegis.gov/cencode/t47c34.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t47c34.pdf",
+     "sha256": "de1f6770ca1e07a74488dc89ae29716d886663c593f476b05b55758dc19ebe83"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-35",
+   "short": "N.D.C.C. ch. 47-35",
+   "title": "North Dakota Century Code, Chapter 47-35: Security Interest in Rents",
+   "url": "https://ndlegis.gov/cencode/t47c35.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t47c35.pdf",
+     "sha256": "b5df2cc639f47946cbf450c2416f3cbfb1ab91b8a28db635d31c1ce3c9e06ee3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-36",
+   "short": "N.D.C.C. ch. 47-36",
+   "title": "North Dakota Century Code, Chapter 47-36: Uniform Fiduciary Access to Digital Assets Act",
+   "url": "https://ndlegis.gov/cencode/t47c36.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 17,
+     "source_url": "https://ndlegis.gov/cencode/t47c36.pdf",
+     "sha256": "0454027f0bd2928694ea36f8d691c60b88b044c798506cfae3df3c92ad7bfd0b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-37",
+   "short": "N.D.C.C. ch. 47-37",
+   "title": "North Dakota Century Code, Chapter 47-37: Uniform Environmental Covenants Act",
+   "url": "https://ndlegis.gov/cencode/t47c37.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/cencode/t47c37.pdf",
+     "sha256": "3541670fe551049143f17ac1cf5925c9ff8893c4b65194d1d4accf64c3b36152"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-38",
+   "short": "N.D.C.C. ch. 47-38",
+   "title": "North Dakota Century Code, Chapter 47-38: Residential Real Estate Service Agreements",
+   "url": "https://ndlegis.gov/cencode/t47c38.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 4,
+     "source_url": "https://ndlegis.gov/cencode/t47c38.pdf",
+     "sha256": "ce48c8181c6fcba60a3c6bf9d3f94a3ac07066a615e87ecd8d1ee6391f454cd2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-01-1",
+   "short": "N.D.C.C. ch. 10-01.1",
+   "title": "North Dakota Century Code, Chapter 10-01.1: Registered Agents Act",
+   "url": "https://ndlegis.gov/cencode/t10c01-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 17,
+     "source_url": "https://ndlegis.gov/cencode/t10c01-1.pdf",
+     "sha256": "8cb56132bddda593923e89d19e1dc1adb2781eccb81fbede9808a0b477a08ddf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-04",
+   "short": "N.D.C.C. ch. 10-04",
+   "title": "North Dakota Century Code, Chapter 10-04: Supervision of Issue and Sale of Securities",
+   "url": "https://ndlegis.gov/cencode/t10c04.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 36,
+     "source_url": "https://ndlegis.gov/cencode/t10c04.pdf",
+     "sha256": "c02e492664fde1ac6dd176cefb8fb32761876c8e871c8d367d175de0ff3591d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-06-1",
+   "short": "N.D.C.C. ch. 10-06.1",
+   "title": "North Dakota Century Code, Chapter 10-06.1: Corporate or Limited Liability Company Farming",
+   "url": "https://ndlegis.gov/cencode/t10c06-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 32,
+     "source_url": "https://ndlegis.gov/cencode/t10c06-1.pdf",
+     "sha256": "4f1b29b2e544eb970e57d3dc908092cedce4238c434bf4ae723891c6631f88eb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-12",
+   "short": "N.D.C.C. ch. 10-12",
+   "title": "North Dakota Century Code, Chapter 10-12: Mutual Aid Cooperatives",
+   "url": "https://ndlegis.gov/cencode/t10c12.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t10c12.pdf",
+     "sha256": "6a45d7d810f15298ba352b06f6b631f9160a6c010d7aae477e7311f01f6b3647"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-13",
+   "short": "N.D.C.C. ch. 10-13",
+   "title": "North Dakota Century Code, Chapter 10-13: Electric Cooperative Corporations",
+   "url": "https://ndlegis.gov/cencode/t10c13.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 12,
+     "source_url": "https://ndlegis.gov/cencode/t10c13.pdf",
+     "sha256": "17f554ef9247233d41dcfb86118de1460b14b49de871ea7a61cc3bc8cb481acc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-15",
+   "short": "N.D.C.C. ch. 10-15",
+   "title": "North Dakota Century Code, Chapter 10-15: Cooperative Associations",
+   "url": "https://ndlegis.gov/cencode/t10c15.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 80,
+     "source_url": "https://ndlegis.gov/cencode/t10c15.pdf",
+     "sha256": "40334d5b504ff4db27fae4bd001cb18bab1da13622c153d149d1e819e2240e31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-19-1",
+   "short": "N.D.C.C. ch. 10-19.1",
+   "title": "North Dakota Century Code, Chapter 10-19.1: North Dakota Business Corporation Act",
+   "url": "https://ndlegis.gov/cencode/t10c19-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 188,
+     "source_url": "https://ndlegis.gov/cencode/t10c19-1.pdf",
+     "sha256": "da98844f0f47271d418d3cafda40ae25dbc5d5121a0fde119eb4d39e0bd03eb3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-29",
+   "short": "N.D.C.C. ch. 10-29",
+   "title": "North Dakota Century Code, Chapter 10-29: Lost Stock and Transfer Books",
+   "url": "https://ndlegis.gov/cencode/t10c29.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://ndlegis.gov/cencode/t10c29.pdf",
+     "sha256": "cd08443843227fe1450a2c95d3bcf6f28e7a28842617246c50518b5866bf4c1d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-30",
+   "short": "N.D.C.C. ch. 10-30",
+   "title": "North Dakota Century Code, Chapter 10-30: Development Corporations",
+   "url": "https://ndlegis.gov/cencode/t10c30-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 14,
+     "source_url": "https://ndlegis.gov/cencode/t10c30-1.pdf",
+     "sha256": "142b1213a0813693d97437d93dfebe9316493f070a97499bc3b057a2bcae9bef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-30-5",
+   "short": "N.D.C.C. ch. 10-30.5",
+   "title": "North Dakota Century Code, Chapter 10-30.5: North Dakota Development Fund, Incorporated",
+   "url": "https://ndlegis.gov/cencode/t10c30-5.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 14,
+     "source_url": "https://ndlegis.gov/cencode/t10c30-5.pdf",
+     "sha256": "7cfd8c21597a98bc5ec2df52b2fa2fbbd6365848588ba9d88fa3ccc0c6d0457e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-30-6",
+   "short": "N.D.C.C. ch. 10-30.6",
+   "title": "North Dakota Century Code, Chapter 10-30.6: Community Development Corporations",
+   "url": "https://ndlegis.gov/cencode/t10c30-6.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 10,
+     "source_url": "https://ndlegis.gov/cencode/t10c30-6.pdf",
+     "sha256": "40fe82ece49c25f49ae6059a4ca4e3bad1775f5a6d477e86ddd009cf48474f01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-31",
+   "short": "N.D.C.C. ch. 10-31",
+   "title": "North Dakota Century Code, Chapter 10-31: Professional Organizations Act",
+   "url": "https://ndlegis.gov/cencode/t10c31.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 23,
+     "source_url": "https://ndlegis.gov/cencode/t10c31.pdf",
+     "sha256": "9123c5fbea46f4aa69faccf2ef5a7db8c593ab663a818e603bd714059a9dceed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-32-1",
+   "short": "N.D.C.C. ch. 10-32.1",
+   "title": "North Dakota Century Code, Chapter 10-32.1: Uniform Limited Liability Company Act",
+   "url": "https://ndlegis.gov/cencode/t10c32-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 103,
+     "source_url": "https://ndlegis.gov/cencode/t10c32-1.pdf",
+     "sha256": "55cf07391aec6f62f6b84dc632c2c0c97caa3b8dd0282f3c3e67c28d9afecaa1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-33",
+   "short": "N.D.C.C. ch. 10-33",
+   "title": "North Dakota Century Code, Chapter 10-33: Nonprofit Corporations",
+   "url": "https://ndlegis.gov/cencode/t10c33.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 159,
+     "source_url": "https://ndlegis.gov/cencode/t10c33.pdf",
+     "sha256": "0f563db0ab22cb0ba2a551ba4b09e63e349203bedacaf7d765052745b0a31926"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-34",
+   "short": "N.D.C.C. ch. 10-34",
+   "title": "North Dakota Century Code, Chapter 10-34: Real Estate Investment Trusts",
+   "url": "https://ndlegis.gov/cencode/t10c34.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 10,
+     "source_url": "https://ndlegis.gov/cencode/t10c34.pdf",
+     "sha256": "c00dcd5c074bb77a1071c9e87bf1fc5ba65d1750235abf92b141e57fcfe8c101"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-35",
+   "short": "N.D.C.C. ch. 10-35",
+   "title": "North Dakota Century Code, Chapter 10-35: Publicly Traded Corporations",
+   "url": "https://ndlegis.gov/cencode/t10c35.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 33,
+     "source_url": "https://ndlegis.gov/cencode/t10c35.pdf",
+     "sha256": "962db4808ad548df574c79649a350891cf8656bf2a1fdba2d9f5b4db3617731b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-36",
+   "short": "N.D.C.C. ch. 10-36",
+   "title": "North Dakota Century Code, Chapter 10-36: Nonprofit Limited Liability Company Act",
+   "url": "https://ndlegis.gov/cencode/t10c36.pdf",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 9,
+     "source_url": "https://ndlegis.gov/cencode/t10c36.pdf",
+     "sha256": "a8d6ab9333d0e548c6ad164ad250189998796696f5a2f2a817fd318a7c1ce27b"
+    }
+   ]
+  }
+ ]
+}
