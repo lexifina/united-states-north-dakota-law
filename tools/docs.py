@@ -22,6 +22,5 @@ write_docs(HERE, {
 
 Statute text is not copyrightable: under the government edicts doctrine, as the Supreme Court applied it in Georgia v.
 Public.Resource.Org, Inc., 590 U.S. 255 (2020), no one holds copyright in the laws that legislators make in their
-official capacity. The site states no restriction on reuse of the Century Code or the Constitution, and its robots.txt
-allows /cencode/ and /constit/.""",
+official capacity. The site states no restriction on reuse of the Century Code or the Constitution.""",
 })

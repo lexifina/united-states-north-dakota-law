@@ -134,7 +134,7 @@ def main():
                'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: North Dakota Legislative Council, the official Century Code.'}
     sources = [{'name': 'North Dakota Century Code (Legislative Council)', 'url': 'https://ndlegis.gov/general-information/north-dakota-century-code',
                 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states that the text published on it is the official version of the Century Code and states no restriction on reuse; robots.txt allows /cencode/ and /constit/.',
+                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states that the text published on it is the official version of the Century Code and states no restriction on reuse.',
                 'notes': 'Titles 10, 12.1 and 47, one PDF per chapter. The page states "02/03/26 UPDATE: All statutory changes approved during the 2026 special session are now reflected on this website."'},
                {'name': 'Constitution of North Dakota (Legislative Council)', 'url': 'https://ndlegis.gov/constitution', 'retrieved': RETRIEVED,
                 'licence': 'As above.', 'notes': 'One PDF per article, the preamble, the transition schedule and the Enabling Act.'}]
