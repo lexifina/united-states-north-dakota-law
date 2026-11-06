@@ -1,5 +1,7 @@
 # United States (North Dakota): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of North Dakota, United States, which global-law reads at `united-states/north-dakota/acts/`.
+
 The law of North Dakota as a git history: one file per provision, with `git blame` and `git log` working line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **What is in it now (a first build, not complete)**
