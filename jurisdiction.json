@@ -1,8 +1,12 @@
 {
-  "path": "us/nd",
-  "code": "US-ND",
-  "name": "United States (North Dakota)",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-north-dakota-law",
-  "build": "built"
+ "path": "us/nd",
+ "code": "US-ND",
+ "name": "United States (North Dakota)",
+ "level": "state",
+ "repo": "https://github.com/lexifina/united-states-north-dakota-law",
+ "build": "partial",
+ "coverage": {
+  "session_laws_2025": 124,
+  "history": "enacted-form session laws; current code snapshots; incomplete"
+ }
 }
