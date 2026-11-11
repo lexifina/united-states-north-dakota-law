@@ -16,6 +16,8 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Effective Dates of 2021 Legislation (Legislative Council, December 2021) | <https://ndlegis.gov/sites/default/files/resource/67-2021/effective-dates-legislation/21.9741.02000.pdf> | 2026-11-11 | Official legislative information. |
 | 2019 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/66-2019/session-laws/sl2019.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2019 Legislation (Legislative Council, June 2019) | <https://ndlegis.gov/sites/default/files/resource/66-2019/effective-dates-legislation/2019-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
+| 2017 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/65-2017/session-laws/sl2017.pdf> | 2026-11-11 | Official legislative texts; public domain. |
+| Effective Dates of 2017 Legislation (Legislative Council, August 2018) | <https://ndlegis.gov/sites/default/files/resource/65-2017/effective-dates-legislation/2017-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2183,12 +2185,71 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2019-ch-353` | 2019 North Dakota Session Laws, Chapter 353 (SB 2327) | 1 | 2019-03-20 to 2019-03-20 |
 | `session-law-2019-ch-455` | 2019 North Dakota Session Laws, Chapter 455 (SB 2355) | 1 | 2019-08-01 to 2019-08-01 |
 | `session-law-2019-ch-456` | 2019 North Dakota Session Laws, Chapter 456 (SB 2359) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2017-ch-395` | 2017 North Dakota Session Laws, Chapter 395 (HB 1029) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-131` | 2017 North Dakota Session Laws, Chapter 131 (HB 1036) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-024` | 2017 North Dakota Session Laws, Chapter 24 (HB 1038) | 1 | 2017-07-01 to 2017-07-01 |
+| `session-law-2017-ch-146` | 2017 North Dakota Session Laws, Chapter 146 (HB 1051) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-115` | 2017 North Dakota Session Laws, Chapter 115 (HB 1057) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-234` | 2017 North Dakota Session Laws, Chapter 234 (HB 1088) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-213` | 2017 North Dakota Session Laws, Chapter 213 (HB 1100) | 1 | 2017-03-09 to 2017-03-09 |
+| `session-law-2017-ch-241` | 2017 North Dakota Session Laws, Chapter 241 (HB 1104) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-309` | 2017 North Dakota Session Laws, Chapter 309 (HB 1108) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-267` | 2017 North Dakota Session Laws, Chapter 267 (HB 1133) | 1 | 2017-03-09 to 2017-03-09 |
+| `session-law-2017-ch-392` | 2017 North Dakota Session Laws, Chapter 392 (HB 1173) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-388` | 2017 North Dakota Session Laws, Chapter 388 (HB 1202) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-316` | 2017 North Dakota Session Laws, Chapter 316 (HB 1220) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-334` | 2017 North Dakota Session Laws, Chapter 334 (HB 1226) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-128` | 2017 North Dakota Session Laws, Chapter 128 (HB 1231) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-228` | 2017 North Dakota Session Laws, Chapter 228 (HB 1236) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-387` | 2017 North Dakota Session Laws, Chapter 387 (HB 1251) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-136` | 2017 North Dakota Session Laws, Chapter 136 (HB 1253) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-430` | 2017 North Dakota Session Laws, Chapter 430 (HB 1279) | 1 | 2017-04-12 to 2017-04-12 |
+| `session-law-2017-ch-187` | 2017 North Dakota Session Laws, Chapter 187 (HB 1292) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-106` | 2017 North Dakota Session Laws, Chapter 106 (HB 1304) | 1 | 2017-02-23 to 2017-02-23 |
+| `session-law-2017-ch-386` | 2017 North Dakota Session Laws, Chapter 386 (HB 1318) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-114` | 2017 North Dakota Session Laws, Chapter 114 (HB 1325) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-237` | 2017 North Dakota Session Laws, Chapter 237 (HB 1348) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-398` | 2017 North Dakota Session Laws, Chapter 398 (HB 1354) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-384` | 2017 North Dakota Session Laws, Chapter 384 (HB 1358) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-160` | 2017 North Dakota Session Laws, Chapter 160 (HB 1380) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-383` | 2017 North Dakota Session Laws, Chapter 383 (HB 1418) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-025` | 2017 North Dakota Session Laws, Chapter 25 (HB 1419) | 1 | 2017-07-01 to 2017-07-01 |
+| `session-law-2017-ch-382` | 2017 North Dakota Session Laws, Chapter 382 (HB 1423) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-381` | 2017 North Dakota Session Laws, Chapter 381 (HB 1427) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-391` | 2017 North Dakota Session Laws, Chapter 391 (HB 1431) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-208` | 2017 North Dakota Session Laws, Chapter 208 (SB 2041) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-369` | 2017 North Dakota Session Laws, Chapter 369 (SB 2135) | 1 | 2017-04-20 to 2017-04-20 |
+| `session-law-2017-ch-320` | 2017 North Dakota Session Laws, Chapter 320 (SB 2146) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-279` | 2017 North Dakota Session Laws, Chapter 279 (SB 2148) | 1 | 2018-01-01 to 2018-01-01 |
+| `session-law-2017-ch-311` | 2017 North Dakota Session Laws, Chapter 311 (SB 2152) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-170` | 2017 North Dakota Session Laws, Chapter 170 (SB 2154) | 1 | 2017-01-26 to 2017-01-26 |
+| `session-law-2017-ch-342` | 2017 North Dakota Session Laws, Chapter 342 (SB 2163) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-307` | 2017 North Dakota Session Laws, Chapter 307 (SB 2165) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-184` | 2017 North Dakota Session Laws, Chapter 184 (SB 2173) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-050` | 2017 North Dakota Session Laws, Chapter 50 (SB 2174) | 1 | 2017-01-25 to 2017-01-25 |
+| `session-law-2017-ch-375` | 2017 North Dakota Session Laws, Chapter 375 (SB 2188) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-344` | 2017 North Dakota Session Laws, Chapter 344 (SB 2189) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-051` | 2017 North Dakota Session Laws, Chapter 51 (SB 2191) | 1 | 2017-07-01 to 2017-07-01 |
+| `session-law-2017-ch-054` | 2017 North Dakota Session Laws, Chapter 54 (SB 2224) | 1 | 2017-07-01 to 2017-07-01 |
+| `session-law-2017-ch-370` | 2017 North Dakota Session Laws, Chapter 370 (SB 2230) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-055` | 2017 North Dakota Session Laws, Chapter 55 (SB 2242) | 1 | 2017-03-24 to 2017-03-24 |
+| `session-law-2017-ch-371` | 2017 North Dakota Session Laws, Chapter 371 (SB 2245) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-169` | 2017 North Dakota Session Laws, Chapter 169 (SB 2262) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-220` | 2017 North Dakota Session Laws, Chapter 220 (SB 2267) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-205` | 2017 North Dakota Session Laws, Chapter 205 (SB 2278) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-178` | 2017 North Dakota Session Laws, Chapter 178 (SB 2308) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-075` | 2017 North Dakota Session Laws, Chapter 75 (SB 2311) | 1 | 2017-07-01 to 2017-07-01 |
+| `session-law-2017-ch-177` | 2017 North Dakota Session Laws, Chapter 177 (SB 2318) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-365` | 2017 North Dakota Session Laws, Chapter 365 (SB 2325) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-302` | 2017 North Dakota Session Laws, Chapter 302 (SB 2329) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-252` | 2017 North Dakota Session Laws, Chapter 252 (SB 2333) | 1 | 2017-08-01 to 2017-08-01 |
+| `session-law-2017-ch-349` | 2017 North Dakota Session Laws, Chapter 349 (SB 2342) | 1 | 2017-08-01 to 2017-08-01 |
 
-The build made 2160 commits:
+The build made 2219 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2160 | baseline texts where the record starts |
+| 2219 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2198,7 +2259,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2160 tags.
+- 2219 tags.
 
 ## Dates
 
@@ -2210,7 +2271,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b92541434aedf493ac714ec7a12767ad0687b90d900a8800d8f1da156c35bb4d` (37734081 bytes).
+- Corpus: sha256 `776585b8c26ae3afe3a01b12d859d46565bda2f23a66cb98ee0e4312e7820d8a` (37896873 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2239,6 +2300,9 @@ No second build of this corpus has been compared yet.
 - The 2019 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
+- The 2017 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 
 ## What AI did and did not do
 
@@ -2250,6 +2314,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
