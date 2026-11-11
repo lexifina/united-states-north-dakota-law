@@ -22,8 +22,9 @@ Readers choose versions by the In-force trailer (tools/on.py, tools/check_repo.p
 as a full build does.
 
 With --corrections, held text that differs from the corpus does not stop the run. Before anything new, the run appends
-ONE correction commit per act version whose text main holds wrongly (or lacks: a back-filled version), in in-force
-order, then by act. Its files hold that version's corrected text, for the files that were wrong; the act's newest held
+correction commits for versions whose text main holds wrongly (or lacks: a back-filled version), and explicit
+metadata-only corrections, in in-force order, then by act and correction range. Open ranges are split at stale
+ordinary rows while retaining the source In-force date. Files hold that version's corrected text; the act's newest held
 version's commit also sets back any file the earlier corrections changed, so the tip then equals the corpus and the
 new versions appended after it build on the corrected text. Each is made by Lexifina, dated noon on the version's day,
 and carries:
@@ -32,7 +33,7 @@ and carries:
     In-force: <the version's first day>
     Corrects: <act> <from>..<to>      <to>: the day before the act's next version; open (<from>..) for the newest
     Supersedes: <sha>                 the published commit that carried the wrong text on that day, or none
-    Reason: <one line>                --reason; for a back-fill or a tip restore, a fixed reason saying so
+    Reason: <one line>                supplied correction metadata, else --reason or a back-fill/tip-restore reason
     Act-path: <path>                  the act's folder (or file), relative to the repository root
     Files: <path>                     one line per file it corrects, repeated (a path may hold a comma); its tree
                                       holds their text, and a path it lacks is removed. Needed as a commit can't
@@ -59,6 +60,8 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import build as B  # noqa: E402
 import check_repo as K  # noqa: E402
+import published_parts  # noqa: E402
+import current_text as H  # noqa: E402
 
 
 def git(repo: Path, *args: str) -> str:
@@ -117,6 +120,58 @@ def published_state(repo: Path, c: dict, verify: bool = True) -> dict[str, str]:
 DEFAULT_REASON = 'text corrected from the official source'
 BACKFILL_REASON = 'version found late: the published history had no version for this day'
 RESTORE_REASON = 'the text in force now, restored at the tip after the corrections to earlier versions'
+
+
+def correction_metadata(act: dict, version: dict) -> dict:
+    """Explicit correction assertions, with per-version values overriding act defaults."""
+    meta = {}
+    withdrawal = act.get('corpus_withdrawal', {})
+    if withdrawal.get('reason'):
+        meta['reason'] = 'corpus withdrawal, not legislative repeal: ' + withdrawal['reason']
+    for owner, key in ((act, 'editorial_date_correction'), (act, 'correction'), (version, 'correction')):
+        value = owner.get(key, {})
+        if not isinstance(value, dict):
+            raise B.CorpusError(f'{act["slug"]}: {key} must be an object')
+        meta.update(value)
+    for key in ('in_force_basis', 'text_as_of'):
+        if key in version:
+            meta[key] = version[key]
+    # New writes never infer a capture date from a sentence. Historical Text-as-of trailers remain readable.
+    for key in ('reason', 'in_force_basis', 'text_as_of', 'supersedes'):
+        if key in meta and (not isinstance(meta[key], str) or not meta[key].strip() or
+                            '\n' in meta[key] or '\r' in meta[key]):
+            raise B.CorpusError(f'{act["slug"]}: correction {key} must be one nonempty line')
+        if key in meta:
+            # Git trims trailer values; use the same form for repeat-plan comparisons.
+            meta[key] = meta[key].strip()
+    if 'metadata_only' in meta and not isinstance(meta['metadata_only'], bool):
+        raise B.CorpusError(f'{act["slug"]}: correction metadata_only must be a boolean')
+    if 'text_as_of' in meta:
+        if not B._is_date(meta['text_as_of']):
+            raise B.CorpusError(f'{act["slug"]}: correction text_as_of must be YYYY-MM-DD')
+        if not meta.get('in_force_basis'):
+            raise B.CorpusError(f'{act["slug"]}: correction text_as_of requires in_force_basis')
+    return meta
+
+
+def correction_assertions(repo: Path) -> dict[str, dict[str, str]]:
+    """Read assertions from existing commits, independently of their changed paths."""
+    keys = ('Reason', 'In-force-basis', 'Text-as-of', 'Supersedes', 'Source', 'Text-source', 'In-force')
+    fmt = '%H%x1e' + '%x1e'.join(f'%(trailers:key={k},valueonly,separator=%x1f)' for k in keys) + '%x1d'
+    return {fields[0]: dict(zip(keys, fields[1:])) for rec in git(repo, 'log', '--format=' + fmt, 'main').split('\x1d')
+            if len(fields := rec.strip('\n').split('\x1e')) == len(keys) + 1}
+
+
+def metadata_trailers(act: dict, version: dict, meta: dict) -> dict[str, str]:
+    out = {trailer: meta[key] for key, trailer in (('in_force_basis', 'In-force-basis'), ('text_as_of', 'Text-as-of'))
+           if meta.get(key)}
+    # Legacy corrections with no source metadata retain their original trailer block.
+    if act.get('url'):
+        out['Source'] = act['url']
+    if version.get('source_url'):
+        out['Text-source'] = version['source_url']
+        out.setdefault('Source', version['source_url'])
+    return out
 
 
 def corpus_on(vs: list[dict], day: str) -> dict | None:
@@ -250,8 +305,7 @@ class Reader:
             if act not in f['ranges']:
                 continue
             a, b = f['ranges'][act]
-            if b is None:
-                b = day_before(min((d for _, d in self.rows[act] if d > a), default='9999-12-31'))
+            b = self.range_end(act, a, b)
             if a <= day <= b:
                 out = out if out is not None else {}
                 for p, o in f['files'].get(act, {}).items():
@@ -260,6 +314,21 @@ class Reader:
                     else:
                         out[p] = o
         return out
+
+    def range_end(self, act: str, start: str, end: str | None) -> str:
+        return end if end is not None else day_before(
+            min((d for _, d in self.rows[act] if d > start), default='9999-12-31'))
+
+    def boundaries(self, act: str) -> set[str]:
+        """All days on which an ordinary row or an existing correction changes the read."""
+        days = {d for _, d in self.rows[act]}
+        for fix in self.fixes:
+            if act in fix['ranges']:
+                start, end = fix['ranges'][act]
+                days.add(start)
+                if end and end < '9999-12-31':
+                    days.add((B.dt.date.fromisoformat(end) + B.dt.timedelta(days=1)).isoformat())
+        return days
 
     def close(self):
         self.cat.close()
@@ -278,12 +347,12 @@ def text_credits(c: dict, act: dict, target: dict, key: str) -> list[str]:
 
 
 def plan_corrections(repo: Path, c: dict, head: str, state: dict[str, str], reason: str) -> list[dict]:
-    """One correction per act version main holds whose text, read with corrections applied, differs from the corpus
-    on any day of that version; then, where the act at the tip still differs from its newest held version, those files
-    too, in that version's correction. Ordered by in-force day, then act."""
+    """Correct differing text or explicit metadata over each canonical version's range. Split open ranges at stale
+    ordinary rows, then restore the newest held text at the tip. Order by legal day, act, and range start."""
     held = [a for a in c['acts'] if a['slug'] in state]
     rd = Reader(repo, [a['slug'] for a in held])
     fixes = []
+    assertions = None
     try:
         for act in held:
             s = act['slug']
@@ -296,19 +365,48 @@ def plan_corrections(repo: Path, c: dict, head: str, state: dict[str, str], reas
             own = []
             for i, v in enumerate(vs):
                 nxt = next_day(v)
-                days = [v['from']] + sorted({d for _, d in rd.rows[s] if v['from'] < d < (nxt or '9999-12-31')})
+                meta = correction_metadata(act, v)
+                supplied_sup = meta.get('supersedes')
+                if supplied_sup and supplied_sup not in ({h for h, _ in rd.rows[s]} |
+                        {f['commit'] for f in rd.fixes if s in f['ranges']}):
+                    raise B.CorpusError(f'{s}: correction supersedes {supplied_sup!r} is not in this act\'s published history')
+                needs_metadata = meta.get('metadata_only', False) or bool(act.get('correction') or v.get('correction'))
+                if needs_metadata and assertions is None:
+                    assertions = correction_assertions(repo)
                 want = unit_oids(s, v)
-                bad = set()
-                for d in days:
-                    have = rd.files(s, d) or {}
-                    bad |= {f for f in set(have) | set(want) if have.get(f) != want.get(f)}
-                if not bad:
-                    continue
-                own.append({'act': act, 'version': v, 'to': day_before(nxt) if nxt else None, 'bad': sorted(bad),
-                            'have': rd.files(s, v['from']) or {}, 'want': want,
-                            'files': {f: (v['units'][f[len(s) + 1:-3]]['text'] if f in want else None) for f in bad},
-                            'supersedes': K.state_on(rd.rows[s], v['from']) or 'none',
-                            'backfill': not any(d == v['from'] for _, d in rd.rows[s]), 'restored': []})
+                # A closed canonical range already crosses historical rows. An open
+                # one must restart there, otherwise Reader ends it at the stale row.
+                starts = [v['from']] + (sorted({d for _, d in rd.rows[s] if d > v['from']}) if nxt is None else [])
+                for j, start in enumerate(starts):
+                    stop = starts[j + 1] if j + 1 < len(starts) else nxt
+                    end = day_before(stop) if stop else None
+                    days = [start] + sorted(d for d in rd.boundaries(s) if start < d < (stop or '9999-12-31'))
+                    bad = set()
+                    for d in days:
+                        have = rd.files(s, d) or {}
+                        bad |= {f for f in set(have) | set(want) if have.get(f) != want.get(f)}
+                    sup = supplied_sup or K.state_on(rd.rows[s], start) or 'none'
+                    expected = {**metadata_trailers(act, v, meta), 'Reason': meta.get('reason', reason),
+                                'Supersedes': sup, 'In-force': v['from']}
+                    # Require the latest applicable correction to carry the assertion
+                    # throughout this range; an older matching correction is not enough.
+                    missing_metadata = False
+                    if needs_metadata:
+                        for day in days:
+                            latest = next((f for f in reversed(rd.fixes) if s in f['ranges'] and
+                                f['ranges'][s][0] <= day <= rd.range_end(s, *f['ranges'][s])), None)
+                            if latest is None or any(assertions.get(latest['commit'], {}).get(k, '') != value
+                                                     for k, value in expected.items()):
+                                missing_metadata = True
+                                break
+                    if not bad and not missing_metadata:
+                        continue
+                    named = bad | (set(want) if missing_metadata else set())
+                    own.append({'act': act, 'version': v, 'range_from': start, 'to': end, 'bad': sorted(bad),
+                                'have': rd.files(s, start) or {}, 'want': want, 'metadata': meta,
+                                'metadata_changed': missing_metadata,
+                                'files': {f: (v['units'][f[len(s) + 1:-3]]['text'] if f in want else None) for f in named},
+                                'supersedes': sup, 'backfill': not any(d == start for _, d in rd.rows[s]), 'restored': []})
             if not vs:
                 continue
             # The tip after these commits must hold the newest held version (the next appended version builds on it).
@@ -325,29 +423,42 @@ def plan_corrections(repo: Path, c: dict, head: str, state: dict[str, str], reas
             if rest:
                 if not own or own[-1]['version'] is not top:
                     nxt = next_day(top)
-                    own.append({'act': act, 'version': top, 'to': day_before(nxt) if nxt else None, 'bad': [],
+                    start = max([top['from']] + [d for _, d in rd.rows[s] if d >= top['from']]) if nxt is None else top['from']
+                    meta = correction_metadata(act, top)
+                    own.append({'act': act, 'version': top, 'range_from': start, 'metadata': meta,
+                                'to': day_before(nxt) if nxt else None, 'bad': [],
                                 'have': want, 'want': want, 'files': {},
-                                'supersedes': K.state_on(rd.rows[s], top['from']) or 'none', 'backfill': False,
+                                'supersedes': meta.get('supersedes') or K.state_on(rd.rows[s], start) or 'none', 'backfill': False,
                                 'restored': []})
                 for f in rest:
                     own[-1]['files'][f] = top['units'][f[len(s) + 1:-3]]['text'] if f in want else None
                 own[-1]['restored'] = [f for f in rest if f not in own[-1]['bad']]
             for x in own:
-                x['reason'] = (BACKFILL_REASON if x['backfill'] else reason) if x['bad'] else RESTORE_REASON
+                x['reason'] = x['metadata'].get('reason') or (reason if x.get('metadata_changed') else
+                    ((BACKFILL_REASON if x['backfill'] else reason) if x['bad'] else RESTORE_REASON))
                 x['sup_subject'] = (git(repo, 'log', '-1', '--format=%s', x['supersedes']).strip()
                                     if x['supersedes'] != 'none' else '')
             fixes += own
     finally:
         rd.close()
-    fixes.sort(key=lambda x: (x['version']['from'], x['act']['slug']))
+    fixes.sort(key=lambda x: (x['version']['from'], x['act']['slug'], x['range_from']))
     return fixes
 
 
 def correction_message(c: dict, x: dict) -> tuple[list[str], list[str]]:
     """Subject and body, and trailers, of one correction commit (see the module doc)."""
     act, v, have, want = x['act'], x['version'], x['have'], x['want']
+    try:
+        B.M.require(act, v, required=c.get('country', {}).get('image_inventory_required', False))
+        assets = B.M.files(act, x['files'])
+    except ValueError as exc:
+        raise B.CorpusError(str(exc)) from exc
+    if assets:
+        x['files'].update(assets)
+        x['reason'] = 'image restored'
     s, a = act['slug'], v['from']
-    span = f'from {a} to {x["to"]}' if x['to'] else f'from {a} on'
+    start = x.get('range_from', a)
+    span = f'from {start} to {x["to"]}' if x['to'] else f'from {start} on'
 
     def label(path: str) -> str:
         k = path[len(s) + 1:-3]
@@ -374,6 +485,9 @@ def correction_message(c: dict, x: dict) -> tuple[list[str], list[str]]:
             msg += B.wrap(f'The corrected text was made by {", ".join(credits)}.') + ['']
     else:
         msg += B.wrap(f'{act["title"]}: the text main published for the version in force {span} was right.') + ['']
+        if x.get('metadata_changed'):
+            msg += B.wrap('This correction records the supplied date or provenance metadata; its Files may name '
+                          'unchanged text.') + ['']
     if x['restored']:
         msg += B.wrap(f'{len(x["restored"])} more file{"s" if len(x["restored"]) != 1 else ""} '
                       f'({", ".join(label(f) for f in x["restored"][:8])}{", …" if len(x["restored"]) > 8 else ""}) '
@@ -384,9 +498,11 @@ def correction_message(c: dict, x: dict) -> tuple[list[str], list[str]]:
                   'commit to the days in its Corrects range.' +
                   (f' It supersedes {x["supersedes"][:12]} ("{x["sup_subject"]}").' if x['sup_subject'] else '')) + ['']
     msg += B.pre_1970(a)
-    trailers = ['Kind: correction', f'In-force: {a}', f'Corrects: {s} {a}..{x["to"] or ""}',
+    trailers = ['Kind: correction', f'In-force: {a}', f'Corrects: {s} {start}..{x["to"] or ""}',
                 f'Supersedes: {x["supersedes"]}', f'Reason: {x["reason"]}', f'Act-path: {s}']
-    trailers += [f'Files: {f}' for f in sorted(x['files'])]
+    trailers += [f'Files: {f}' for f in sorted(x['files']) if f.endswith('.md')]
+    trailers += [f'{key}: {value}' for key, value in metadata_trailers(act, v, x.get('metadata', {})).items()]
+    trailers.append('Corpus-standard: 1')
     return msg, trailers
 
 
@@ -398,7 +514,8 @@ def cut(c: dict, docs_date: str) -> dict:
 
 def check_corrected(repo: Path, c: dict, docs_date: str) -> dict:
     """check_repo's check of main against the corpus up to docs_date, reading with correction commits applied (Reader):
-    every version on its first day, and the version before it on the day before, file by file; and `tip_mismatches`,
+    every version on its first day, the day before, and each historical/correction boundary inside it, file by file;
+    and `tip_mismatches`,
     the files at main's tip that differ from the corpus on docs_date. The other counts (trailers, merges, dates) are
     check_repo's own."""
     import json
@@ -408,7 +525,7 @@ def check_corrected(repo: Path, c: dict, docs_date: str) -> dict:
         p = Path(tmp) / 'corpus.json'
         p.write_text(json.dumps({**c, 'country': {**c['country'], 'future_branch': '.no-future-branch'}},
                                 ensure_ascii=False), encoding='utf-8', newline='\n')
-        res = K.check(repo, p)  # main only, whatever branches the clone holds
+        res = K.check(repo, p, checked_on=docs_date)  # main only, whatever branches the clone holds
     rd = Reader(repo, [a['slug'] for a in c['acts']])
     head = git(repo, 'rev-parse', 'main').strip()
     mismatches, tip, versions, details = 0, 0, 0, []
@@ -420,7 +537,10 @@ def check_corrected(repo: Path, c: dict, docs_date: str) -> dict:
                 if i + 1 < len(vs) and vs[i + 1]['from'] == v['from']:
                     continue
                 before = next((w for w in reversed(vs[:i]) if w['from'] < v['from']), None)
-                for day, want in ((v['from'], v), (day_before(v['from']), before)):
+                nxt = vs[i + 1]['from'] if i + 1 < len(vs) else '9999-12-31'
+                days = {v['from']} | {d for d in rd.boundaries(s) | {docs_date} if v['from'] <= d < nxt and d <= docs_date}
+                checks = [(day_before(v['from']), before)] + [(d, v) for d in sorted(days)]
+                for day, want in checks:
                     have = rd.files(s, day)
                     expect = unit_oids(s, want) if want else None
                     if have == expect:
@@ -439,7 +559,9 @@ def check_corrected(repo: Path, c: dict, docs_date: str) -> dict:
                 details.append(f'{s} at the tip: {len(bad)} file(s) differ from the corpus, e.g. {bad[:3]}')
     finally:
         rd.close()
-    return {**{k: res[k] for k in ('acts', 'trailer_errors', 'missing_in_force', 'merges', 'backwards', 'future_dated')},
+    return {**{k: res[k] for k in ('acts', 'trailer_errors', 'missing_in_force', 'merges', 'backwards', 'future_dated',
+                                  'image_errors', 'image_warnings', 'image_details',
+                                  'tip_errors', 'tip_warnings', 'tip_details')},
             'versions': versions, 'mismatches': mismatches, 'tip_mismatches': tip, 'details': details,
             'corrections': len(rd.fixes)}
 
@@ -477,23 +599,38 @@ def published_log(repo: Path) -> list[dict]:
 class Appender:
     """`git fast-import` onto an existing main; separate author and committer dates."""
 
-    def __init__(self, repo: Path, head: str, head_ct: int, head_tz: str):
+    def __init__(self, repo: Path, head: str, head_ct: int, head_tz: str, branch: str = 'main',
+                 committer_ceiling: int | None = None):
+        if committer_ceiling is not None and head_ct > committer_ceiling:
+            raise B.CorpusError(f'published head {head} timestamp {head_ct} exceeds capped documentation '
+                                f'time {committer_ceiling}; wait or use a later docs-date; never rewrite it')
+        self.committer_ceiling = committer_ceiling
+        self.existing_tags = set(git(repo, 'tag', '--list').split())
         self.p = subprocess.Popen(['git', 'fast-import', '--quiet', '--done', '--date-format=raw'], cwd=repo,
-                                  stdin=subprocess.PIPE)
+                                  stdin=subprocess.PIPE, stdout=subprocess.PIPE)
         self.mark, self.parent, self.ct, self.tz = 0, head, head_ct, head_tz
+        self.branch = branch
 
     def _w(self, b: bytes):
         self.p.stdin.write(b)
 
     def _data(self, s: str):
-        b = s.encode('utf-8')
+        b = s if isinstance(s, bytes) else s.encode('utf-8')
         self._w(f'data {len(b)}\n'.encode() + b + b'\n')
 
     def commit(self, author: tuple[str, str], when: str, committer: tuple[str, str], message: str,
-               files: dict[str, str | None]) -> int:
+               files: dict[str, str | None], *, committer_when: str | None = None) -> int:
+        next_ct, next_tz = self.ct + 1, self.tz
+        if self.committer_ceiling is not None:
+            next_ct = min(next_ct, self.committer_ceiling)
+        if committer_when is not None:
+            stamp, next_tz = committer_when.split()
+            next_ct = int(stamp)
+            if next_ct < self.ct:
+                raise B.CorpusError('documentation timestamp would precede its parent')
         self.mark += 1
-        self.ct += 1
-        self._w(f'commit refs/heads/main\nmark :{self.mark}\n'.encode())
+        self.ct, self.tz = next_ct, next_tz
+        self._w(f'commit refs/heads/{self.branch}\nmark :{self.mark}\n'.encode())
         self._w(f'author {author[0]} <{author[1]}> {when}\n'.encode('utf-8'))
         self._w(f'committer {committer[0]} <{committer[1]}> {self.ct} {self.tz}\n'.encode('utf-8'))
         self._data(message)
@@ -508,22 +645,42 @@ class Appender:
         return self.mark
 
     def tag(self, name: str, mark: int):
+        if name in self.existing_tags:
+            raise B.CorpusError(f'append-only: refusing to replace existing tag {name}')
         self._w(f'reset refs/tags/{name}\nfrom :{mark}\n\n'.encode('utf-8'))
+        self.existing_tags.add(name)
 
     def finish(self):
         self._w(b'done\n')
         self.p.stdin.close()
         if self.p.wait():
             raise B.CorpusError('git fast-import failed')
+        self.p.stdout.close()
+
+    def checkpoint(self):
+        self._w(b'checkpoint\nprogress corpus-index-ready\n')
+        self.p.stdin.flush()
+        if self.p.stdout.readline().strip() != b'progress corpus-index-ready':
+            raise B.CorpusError('git fast-import checkpoint failed')
 
 
 def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corrections: bool = False,
-           reason: str = DEFAULT_REASON) -> dict:
-    c, raw = B.load(folder)
+           reason: str = DEFAULT_REASON, refresh_docs: bool = False) -> dict:
+    try:
+        required = published_parts.required(repo, folder)
+    except published_parts.PublishedPartError as exc:
+        raise B.CorpusError(str(exc)) from exc
+    part_records = {}
+    c, raw = B.load(folder, part_records=part_records, required_parts=required)
     errs = B.validate(c)
     if errs:
         raise B.CorpusError('corpus has problems:\n  ' + '\n  '.join(errs[:60]))
     c['_docs_date'] = docs_date
+    c['_repo'] = str(repo)
+    try:
+        B.M.load(c, folder, repo)
+    except ValueError as exc:
+        raise B.CorpusError(str(exc)) from exc
     if git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
         raise B.CorpusError(f'{repo} has uncommitted changes; refusing')
     head = git(repo, 'rev-parse', 'main').strip()
@@ -534,6 +691,8 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
     head_ct, head_tz = git(repo, 'log', '-1', '--format=%ct %ci', 'main').split()[0::3]
     head_ct = int(head_ct)
     state = published_state(repo, c, verify=not corrections)
+    if any(day > docs_date for day in state.values()):
+        raise B.CorpusError('published main already has future versions; a docs update cannot move or rewrite them')
     sub, based = to_append(c, state, docs_date)
     commits = B.plan(sub) if sub['acts'] else []
     commits = [x for x in commits if not (x['kind'] == 'start' and x['act']['slug'] in based)]
@@ -553,10 +712,22 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
             for p in x['parts']:
                 files.update(B.act_files(p['act'], p['cur']['units'], p['prev']['units'], p['keys']))
             touched = [p['act']['slug'] for p in x['parts']]
+        trailers.append('Corpus-standard: 1')
         B.check_trailers(trailers)
         planned.append({'x': x, 'day': x['day'], 'author': author, 'files': files, 'touched': touched,
                         'text': '\n'.join(msg).rstrip('\n') + '\n\n' + '\n'.join(trailers) + '\n'})
     fixes = plan_corrections(repo, c, head, state, reason) if corrections else []
+    try:
+        H.ordinary_order(repo, planned)
+    except ValueError as exc:
+        raise B.CorpusError(str(exc)) from exc
+    if planned or fixes:
+        overrides = {}
+        for entry in fixes + planned:
+            overrides.update(entry['files'])
+        tip = H.check(repo, c, docs_date, overrides)
+        if tip['tip_errors']:
+            raise B.CorpusError('check 11: append would leave stale text at HEAD:\n  ' + '\n  '.join(tip['tip_details']))
     texts = []
     for x in fixes:
         msg, trailers = correction_message(c, x)
@@ -568,10 +739,23 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
         summary['corrected'] = {s: {'versions': sum(1 for x in fixes if x['act']['slug'] == s),
                                     'from': min(x['version']['from'] for x in fixes if x['act']['slug'] == s)}
                                 for s in sorted({x['act']['slug'] for x in fixes})}
-    if dry_run or not (planned or fixes):
+    if dry_run:
         summary['main'] = head
         return summary
-    w = Appender(repo, head, head_ct, head_tz)
+    summary['future_commits'] = append_future(repo, c, docs_date)
+    if not (planned or fixes or refresh_docs or summary['future_commits']):
+        summary['main'] = head
+        return summary
+    if not (planned or fixes):
+        # This path compares generated documentation with the published tree and
+        # skips an identical refresh before opening a writer.
+        import append_gate as G
+        changed = G.docs_only(folder, repo, docs_date)
+        summary.update(main=git(repo, 'rev-parse', 'main').strip(), tags_added=0,
+                       documentation_commits=int(changed), no_change=not changed)
+        return summary
+    docs_when = clock.docs_stamp(docs_date)
+    w = Appender(repo, head, head_ct, head_tz, committer_ceiling=int(docs_when.split()[0]))
     tags: dict[str, int] = {}
     log = []
     # Corrections first: the tip then holds each act's newest held version, which the appended versions build on.
@@ -588,21 +772,22 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
             tags.setdefault(f'law/{x["law"]}', mark)
         elif x['kind'] == 'start' and x['act'].get('first_law'):
             tags.setdefault(f'law/{x["act"]["first_law"]}', mark)
-        log.append({'day': x['day'], 'kind': x['kind'],
+        log.append({'day': x['day'], 'kind': B.S.planned_kind(c, x),
                     'law': x.get('law') or (x['act'].get('first_law') if x['kind'] == 'start' else None),
                     'acts': e['touched'], 'units': len(e['files']), 'branch': 'main', 'clamped': x['day'] < '1970-01-01'})
     full_log = published_log(repo) + log
+    w.checkpoint()
     all_tags = {t: 0 for t in existing_tags} | {t: m for t, m in tags.items()}
-    docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date)
+    docs = B.docs_files(c, folder, raw, full_log, all_tags, docs_date, part_records=part_records)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
     docs['tools/append.py'] = Path(__file__).read_text(encoding='utf-8').replace('\r\n', '\n')
     # Never future-dated: a docs date of today is noon local, so before then it is capped at now (else every later
     # append fails the future-dated check until noon).
-    ts, tz = clock.stamp(docs_date).split()
-    w.commit(committer, f'{min(int(ts), int(time.time()))} {tz}', committer,
+    w.commit(committer, docs_when, committer,
              f'Documentation, tables, tools and REPRODUCE.md\n\nAppended {len(log)} commits to {head[:12]}'
              + (f' ({len(fixes)} of them corrections)' if fixes else '') + f'; corpus '
-             f'sha256 {B.hashlib.sha256(raw).hexdigest()}, data retrieved {docs_date}.\n', docs)
+             f'sha256 {B.hashlib.sha256(raw).hexdigest()}, data retrieved {docs_date}.\n\nKind: documentation\n', docs,
+             committer_when=docs_when)
     for name, mark in sorted(tags.items()):
         if name not in existing_tags:
             w.tag(name, mark)
@@ -615,18 +800,78 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, corr
     return summary
 
 
+def append_future(repo: Path, c: dict, docs_date: str) -> int:
+    """Grow the future branch without moving any previous commit or tag."""
+    if not any(v['from'] > docs_date for a in c['acts'] for v in a['versions']):
+        return 0
+    branch = B.S.future_branch(c['country'])
+    exists = bool(git(repo, 'branch', '--list', branch).strip())
+    remote = 'origin/' + branch
+    remote_exists = bool(subprocess.run(['git', 'rev-parse', '--verify', '-q', remote], cwd=repo,
+                                       capture_output=True).returncode == 0)
+    ref = branch if exists else remote if remote_exists else 'main'
+    head = git(repo, 'rev-parse', ref).strip()
+    rows = K.all_commits_by_act(repo, ref, [a['slug'] for a in c['acts']])
+    state = {a: max(d for _, d in values) for a, values in rows.items() if values}
+    # Already published future text is immutable too.
+    for act in c['acts']:
+        last = state.get(act['slug'])
+        if last and last > docs_date:
+            v = corpus_on(act['versions'], last)
+            have = _ls(repo, head, act['slug'])
+            want = unit_oids(act['slug'], v)
+            if {p: oid for p, oid in have.items() if p.endswith('.md') and not p.endswith('/README.md')} != want:
+                raise B.CorpusError(f'{act["slug"]}: existing future text differs; correction review is required')
+    sub, based = to_append(c, state, '9999-12-31')
+    if not sub['acts']:
+        return 0
+    planned = [x for x in B.plan(sub) if not (x['kind'] == 'start' and x['act']['slug'] in based)]
+    if not planned:
+        return 0
+    head_ct, head_tz = git(repo, 'log', '-1', '--format=%ct %ci', ref).split()[0::3]
+    committer = ('Lexifina', f'{c["country"]["slug"]}-law@lexifina.com')
+    clock = B.Clock(c['country']['tz'])
+    messages = []
+    for x in planned:
+        if x['kind'] == 'start':
+            author, msg, trailers = B.start_message(c, x)
+            files = B.act_files(x['act'], x['version']['units'], None)
+            acts = [x['act']['slug']]
+        else:
+            author, msg, trailers = B.change_message(c, x)
+            files = {}
+            for part in x['parts']:
+                files.update(B.act_files(part['act'], part['cur']['units'], part['prev']['units'], part['keys']))
+            acts = [p['act']['slug'] for p in x['parts']]
+        trailers.append('Corpus-standard: 1')
+        B.check_trailers(trailers)
+        messages.append((x, author, '\n'.join(msg).rstrip() + '\n\n' + '\n'.join(trailers) + '\n', files, acts))
+    w = Appender(repo, head, int(head_ct), head_tz, branch)
+    existing = set(git(repo, 'tag', '--list').split())
+    for x, author, message, files, acts in messages:
+        mark = w.commit(author, clock.stamp(x['day']), committer, message, files)
+        for act in acts:
+            tag = f'{act}/{x["day"]}'
+            if tag not in existing:
+                w.tag(tag, mark)
+                existing.add(tag)
+    w.finish()
+    return len(planned)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('folder')
     ap.add_argument('--repo', required=True)
     ap.add_argument('--docs-date', required=True)
     ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--refresh-docs', action='store_true', help='append one documentation commit even with no new law')
     ap.add_argument('--corrections', action='store_true',
                     help='where main holds text that differs from the corpus, append correction commits instead of '
                          'refusing')
     ap.add_argument('--reason', default=DEFAULT_REASON, help='the Reason trailer of a correction commit (one line)')
     a = ap.parse_args()
-    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run, a.corrections, a.reason))
+    print(append(Path(a.folder), Path(a.repo), a.docs_date, a.dry_run, a.corrections, a.reason, a.refresh_docs))
 
 
 if __name__ == '__main__':
