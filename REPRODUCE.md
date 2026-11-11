@@ -10,6 +10,8 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Constitution of North Dakota (Legislative Council) | <https://ndlegis.gov/constitution> | 2026-10-30 | As above. |
 | 2025 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2025-26 Legislation (North Dakota Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/69-2025/effective-dates-legislation/25.9565.03000.pdf> | 2026-11-11 | Official legislative information. |
+| 2023 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/68-2023/session-laws/sl2023.pdf> | 2026-11-11 | Official legislative texts; public domain. |
+| Effective Dates of 2023 Legislation (Legislative Council, November 2023) | <https://ndlegis.gov/sites/default/files/resource/68-2023/effective-dates-legislation/effective-dates-2023-legislation.pdf> | 2026-11-11 | Official legislative information. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1900,12 +1902,130 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2025-ch-526` | 2025 North Dakota Session Laws, Chapter 526 (SB 2370) | 1 | 2025-08-01 to 2025-08-01 |
 | `session-law-2025-ch-311` | 2025 North Dakota Session Laws, Chapter 311 (SB 2382) | 1 | 2025-03-31 to 2025-03-31 |
 | `session-law-2025-ch-454` | 2025 North Dakota Session Laws, Chapter 454 (SB 2399) | 1 | 2025-07-01 to 2025-07-01 |
+| `session-law-2023-ch-484` | 2023 North Dakota Session Laws, Chapter 484 (HB 1026) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-439` | 2023 North Dakota Session Laws, Chapter 439 (HB 1044) | 1 | 2024-01-01 to 2024-01-01 |
+| `session-law-2023-ch-420` | 2023 North Dakota Session Laws, Chapter 420 (HB 1048) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-395` | 2023 North Dakota Session Laws, Chapter 395 (HB 1054) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-402` | 2023 North Dakota Session Laws, Chapter 402 (HB 1056) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-292` | 2023 North Dakota Session Laws, Chapter 292 (HB 1058) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-476` | 2023 North Dakota Session Laws, Chapter 476 (HB 1066) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-483` | 2023 North Dakota Session Laws, Chapter 483 (HB 1081) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-451` | 2023 North Dakota Session Laws, Chapter 451 (HB 1092) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-452` | 2023 North Dakota Session Laws, Chapter 452 (HB 1093) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-253` | 2023 North Dakota Session Laws, Chapter 253 (HB 1108) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-325` | 2023 North Dakota Session Laws, Chapter 325 (HB 1109) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-246` | 2023 North Dakota Session Laws, Chapter 246 (HB 1111) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-260` | 2023 North Dakota Session Laws, Chapter 260 (HB 1117) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-111` | 2023 North Dakota Session Laws, Chapter 111 (HB 1120) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-220` | 2023 North Dakota Session Laws, Chapter 220 (HB 1134) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-141` | 2023 North Dakota Session Laws, Chapter 141 (HB 1136) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-457` | 2023 North Dakota Session Laws, Chapter 457 (HB 1142) | 1 | 2023-04-12 to 2023-04-12 |
+| `session-law-2023-ch-485` | 2023 North Dakota Session Laws, Chapter 485 (HB 1149) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-400` | 2023 North Dakota Session Laws, Chapter 400 (HB 1155) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-026` | 2023 North Dakota Session Laws, Chapter 26 (HB 1157) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-332` | 2023 North Dakota Session Laws, Chapter 332 (HB 1167) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-463` | 2023 North Dakota Session Laws, Chapter 463 (HB 1172) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-336` | 2023 North Dakota Session Laws, Chapter 336 (HB 1182) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-281` | 2023 North Dakota Session Laws, Chapter 281 (HB 1189) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-486` | 2023 North Dakota Session Laws, Chapter 486 (HB 1195) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-027` | 2023 North Dakota Session Laws, Chapter 27 (HB 1199) | 1 | 2023-02-02 to 2023-02-02 |
+| `session-law-2023-ch-478` | 2023 North Dakota Session Laws, Chapter 478 (HB 1214) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-374` | 2023 North Dakota Session Laws, Chapter 374 (HB 1221) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-028` | 2023 North Dakota Session Laws, Chapter 28 (HB 1225) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-462` | 2023 North Dakota Session Laws, Chapter 462 (HB 1227) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-029` | 2023 North Dakota Session Laws, Chapter 29 (HB 1232) | 1 | 2023-04-13 to 2023-04-13 |
+| `session-law-2023-ch-108` | 2023 North Dakota Session Laws, Chapter 108 (HB 1234) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-393` | 2023 North Dakota Session Laws, Chapter 393 (HB 1235) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-152` | 2023 North Dakota Session Laws, Chapter 152 (HB 1241) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-487` | 2023 North Dakota Session Laws, Chapter 487 (HB 1247) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-181` | 2023 North Dakota Session Laws, Chapter 181 (HB 1259) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-295` | 2023 North Dakota Session Laws, Chapter 295 (HB 1263) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-187` | 2023 North Dakota Session Laws, Chapter 187 (HB 1265) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-370` | 2023 North Dakota Session Laws, Chapter 370 (HB 1266) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-178` | 2023 North Dakota Session Laws, Chapter 178 (HB 1270) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-228` | 2023 North Dakota Session Laws, Chapter 228 (HB 1294) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-183` | 2023 North Dakota Session Laws, Chapter 183 (HB 1304) | 1 | 2023-04-11 to 2023-04-11 |
+| `session-law-2023-ch-030` | 2023 North Dakota Session Laws, Chapter 30 (HB 1307) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-414` | 2023 North Dakota Session Laws, Chapter 414 (HB 1315) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-235` | 2023 North Dakota Session Laws, Chapter 235 (HB 1326) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-194` | 2023 North Dakota Session Laws, Chapter 194 (HB 1337) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-488` | 2023 North Dakota Session Laws, Chapter 488 (HB 1341) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-264` | 2023 North Dakota Session Laws, Chapter 264 (HB 1352) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-067` | 2023 North Dakota Session Laws, Chapter 67 (HB 1361) | 1 | 2023-04-12 to 2023-04-12 |
+| `session-law-2023-ch-489` | 2023 North Dakota Session Laws, Chapter 489 (HB 1375) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-365` | 2023 North Dakota Session Laws, Chapter 365 (HB 1381) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-151` | 2023 North Dakota Session Laws, Chapter 151 (HB 1392) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-490` | 2023 North Dakota Session Laws, Chapter 490 (HB 1413) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-031` | 2023 North Dakota Session Laws, Chapter 31 (HB 1415) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-142` | 2023 North Dakota Session Laws, Chapter 142 (HB 1450) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-491` | 2023 North Dakota Session Laws, Chapter 491 (HB 1476) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-524` | 2023 North Dakota Session Laws, Chapter 524 (HB 1485) | 1 | 2023-04-10 to 2023-04-10 |
+| `session-law-2023-ch-092` | 2023 North Dakota Session Laws, Chapter 92 (HB 1487) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-133` | 2023 North Dakota Session Laws, Chapter 133 (HB 1490) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-147` | 2023 North Dakota Session Laws, Chapter 147 (HB 1492) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-492` | 2023 North Dakota Session Laws, Chapter 492 (HB 1512) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-032` | 2023 North Dakota Session Laws, Chapter 32 (HB 1519) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-493` | 2023 North Dakota Session Laws, Chapter 493 (HB 1529) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-057` | 2023 North Dakota Session Laws, Chapter 57 (SB 2025) | 1 | 2023-04-13 to 2023-04-13 |
+| `session-law-2023-ch-058` | 2023 North Dakota Session Laws, Chapter 58 (SB 2026) | 1 | 2023-04-24 to 2023-04-24 |
+| `session-law-2023-ch-074` | 2023 North Dakota Session Laws, Chapter 74 (SB 2027) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-442` | 2023 North Dakota Session Laws, Chapter 442 (SB 2030) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-059` | 2023 North Dakota Session Laws, Chapter 59 (SB 2032) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-583` | 2023 North Dakota Session Laws, Chapter 583 (SB 2038) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-396` | 2023 North Dakota Session Laws, Chapter 396 (SB 2047) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-314` | 2023 North Dakota Session Laws, Chapter 314 (SB 2072) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-426` | 2023 North Dakota Session Laws, Chapter 426 (SB 2077) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-119` | 2023 North Dakota Session Laws, Chapter 119 (SB 2091) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-083` | 2023 North Dakota Session Laws, Chapter 83 (SB 2100) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-494` | 2023 North Dakota Session Laws, Chapter 494 (SB 2101) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-304` | 2023 North Dakota Session Laws, Chapter 304 (SB 2106) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-315` | 2023 North Dakota Session Laws, Chapter 315 (SB 2109) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-267` | 2023 North Dakota Session Laws, Chapter 267 (SB 2110) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-266` | 2023 North Dakota Session Laws, Chapter 266 (SB 2113) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-335` | 2023 North Dakota Session Laws, Chapter 335 (SB 2117) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-495` | 2023 North Dakota Session Laws, Chapter 495 (SB 2122) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-454` | 2023 North Dakota Session Laws, Chapter 454 (SB 2126) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-283` | 2023 North Dakota Session Laws, Chapter 283 (SB 2135) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-522` | 2023 North Dakota Session Laws, Chapter 522 (SB 2142) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-060` | 2023 North Dakota Session Laws, Chapter 60 (SB 2155) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-496` | 2023 North Dakota Session Laws, Chapter 496 (SB 2158) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-318` | 2023 North Dakota Session Laws, Chapter 318 (SB 2170) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-434` | 2023 North Dakota Session Laws, Chapter 434 (SB 2182) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-061` | 2023 North Dakota Session Laws, Chapter 61 (SB 2183) | 1 | 2023-04-04 to 2023-04-04 |
+| `session-law-2023-ch-458` | 2023 North Dakota Session Laws, Chapter 458 (SB 2186) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-497` | 2023 North Dakota Session Laws, Chapter 497 (SB 2192) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-062` | 2023 North Dakota Session Laws, Chapter 62 (SB 2200) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-498` | 2023 North Dakota Session Laws, Chapter 498 (SB 2202) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-461` | 2023 North Dakota Session Laws, Chapter 461 (SB 2229) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-499` | 2023 North Dakota Session Laws, Chapter 499 (SB 2238) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-063` | 2023 North Dakota Session Laws, Chapter 63 (SB 2240) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-317` | 2023 North Dakota Session Laws, Chapter 317 (SB 2249) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-437` | 2023 North Dakota Session Laws, Chapter 437 (SB 2265) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-064` | 2023 North Dakota Session Laws, Chapter 64 (SB 2273) | 1 | 2023-07-01 to 2023-07-01 |
+| `session-law-2023-ch-501` | 2023 North Dakota Session Laws, Chapter 501 (SB 2278) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-502` | 2023 North Dakota Session Laws, Chapter 502 (SB 2291) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-239` | 2023 North Dakota Session Laws, Chapter 239 (SB 2302) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-503` | 2023 North Dakota Session Laws, Chapter 503 (SB 2321) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-504` | 2023 North Dakota Session Laws, Chapter 504 (SB 2327) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-505` | 2023 North Dakota Session Laws, Chapter 505 (SB 2328) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-069` | 2023 North Dakota Session Laws, Chapter 69 (SB 2335) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-506` | 2023 North Dakota Session Laws, Chapter 506 (SB 2341) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-107` | 2023 North Dakota Session Laws, Chapter 107 (SB 2350) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-203` | 2023 North Dakota Session Laws, Chapter 203 (SB 2352) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-507` | 2023 North Dakota Session Laws, Chapter 507 (SB 2359) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-574` | 2023 North Dakota Session Laws, Chapter 574 (SB 2364) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-508` | 2023 North Dakota Session Laws, Chapter 508 (SB 2365) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-509` | 2023 North Dakota Session Laws, Chapter 509 (SB 2366) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-071` | 2023 North Dakota Session Laws, Chapter 71 (SB 2373) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-510` | 2023 North Dakota Session Laws, Chapter 510 (SB 2376) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-511` | 2023 North Dakota Session Laws, Chapter 511 (SB 2389) | 1 | 2023-08-01 to 2023-08-01 |
+| `session-law-2023-ch-372` | 2023 North Dakota Session Laws, Chapter 372 (SB 2392) | 1 | 2023-08-01 to 2023-08-01 |
 
-The build made 1883 commits:
+The build made 2001 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1883 | baseline texts where the record starts |
+| 2001 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -1915,7 +2035,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1883 tags.
+- 2001 tags.
 
 ## Dates
 
@@ -1927,8 +2047,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `03872425a5949c036faba3e5fb1884893dedbf83bf85c27f6eafdba64668ebfa` (36926762 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
+- Corpus: sha256 `885cfe0df9b0433e48d1d11d539e5cad8cf70f63a879e97c750a2c8df7cd8c2c` (37284676 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `5b3be77557d5c14d270c489de8a126c0438c8e52`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -1947,6 +2067,9 @@ No second build of this corpus has been compared yet.
 - Session-law records are in their enacted form, separately from consolidated Century Code chapters. No amendment reconstruction is claimed.
 - Dates follow individual bill rows in the official October 2026 effective-date table. Bills with footnotes, vetoes, deletion markup, source images or tabular text are held for assessment.
 - Each session law is a single-file act. Source line breaks are retained; whitespace is normalized and running headers and page numbers are excluded.
+- The 2023 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 
 ## What AI did and did not do
 
@@ -1957,4 +2080,6 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- none
+- A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
