@@ -8,12 +8,14 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | --- | --- | --- | --- |
 | North Dakota Century Code (Legislative Council) | <https://ndlegis.gov/general-information/north-dakota-century-code> | 2026-10-30 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states that the text published on it is the official version of the Century Code and states no restriction on reuse. |
 | Constitution of North Dakota (Legislative Council) | <https://ndlegis.gov/constitution> | 2026-10-30 | As above. |
-| 2023 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/68-2023/session-laws/sl2023.pdf> | 2026-11-11 | Official legislative texts; public domain. |
-| Effective Dates of 2023 Legislation (Legislative Council, November 2023) | <https://ndlegis.gov/sites/default/files/resource/68-2023/effective-dates-legislation/effective-dates-2023-legislation.pdf> | 2026-11-11 | Official legislative information. |
 | 2025 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2025-26 Legislation (North Dakota Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/69-2025/effective-dates-legislation/25.9565.03000.pdf> | 2026-11-11 | Official legislative information. |
+| 2023 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/68-2023/session-laws/sl2023.pdf> | 2026-11-11 | Official legislative texts; public domain. |
+| Effective Dates of 2023 Legislation (Legislative Council, November 2023) | <https://ndlegis.gov/sites/default/files/resource/68-2023/effective-dates-legislation/effective-dates-2023-legislation.pdf> | 2026-11-11 | Official legislative information. |
 | 2021 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/67-2021/session-laws/sl2021.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2021 Legislation (Legislative Council, December 2021) | <https://ndlegis.gov/sites/default/files/resource/67-2021/effective-dates-legislation/21.9741.02000.pdf> | 2026-11-11 | Official legislative information. |
+| 2019 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/66-2019/session-laws/sl2019.pdf> | 2026-11-11 | Official legislative texts; public domain. |
+| Effective Dates of 2019 Legislation (Legislative Council, June 2019) | <https://ndlegis.gov/sites/default/files/resource/66-2019/effective-dates-legislation/2019-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2105,12 +2107,88 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2021-ch-279` | 2021 North Dakota Session Laws, Chapter 279 (SB 2329) | 1 | 2021-08-01 to 2021-08-01 |
 | `session-law-2021-ch-436` | 2021 North Dakota Session Laws, Chapter 436 (SB 2336) | 1 | 2021-08-01 to 2021-08-01 |
 | `session-law-2021-ch-118` | 2021 North Dakota Session Laws, Chapter 118 (SB 2340) | 1 | 2021-08-01 to 2021-08-01 |
+| `session-law-2019-ch-439` | 2019 North Dakota Session Laws, Chapter 439 (HB 1029) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-399` | 2019 North Dakota Session Laws, Chapter 399 (HB 1032) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-414` | 2019 North Dakota Session Laws, Chapter 414 (HB 1033) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-395` | 2019 North Dakota Session Laws, Chapter 395 (HB 1034) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-142` | 2019 North Dakota Session Laws, Chapter 142 (HB 1044) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-251` | 2019 North Dakota Session Laws, Chapter 251 (HB 1068) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-152` | 2019 North Dakota Session Laws, Chapter 152 (HB 1088) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-112` | 2019 North Dakota Session Laws, Chapter 112 (HB 1097) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-393` | 2019 North Dakota Session Laws, Chapter 393 (HB 1100) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-254` | 2019 North Dakota Session Laws, Chapter 254 (HB 1118) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-135` | 2019 North Dakota Session Laws, Chapter 135 (HB 1120) | 1 | 2019-03-14 to 2019-03-14 |
+| `session-law-2019-ch-412` | 2019 North Dakota Session Laws, Chapter 412 (HB 1124) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-169` | 2019 North Dakota Session Laws, Chapter 169 (HB 1125) | 1 | 2019-04-11 to 2019-04-11 |
+| `session-law-2019-ch-374` | 2019 North Dakota Session Laws, Chapter 374 (HB 1132) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-457` | 2019 North Dakota Session Laws, Chapter 457 (HB 1141) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-068` | 2019 North Dakota Session Laws, Chapter 68 (HB 1146) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-337` | 2019 North Dakota Session Laws, Chapter 337 (HB 1147) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-072` | 2019 North Dakota Session Laws, Chapter 72 (HB 1149) | 1 | 2019-03-13 to 2019-03-13 |
+| `session-law-2019-ch-440` | 2019 North Dakota Session Laws, Chapter 440 (HB 1220) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-398` | 2019 North Dakota Session Laws, Chapter 398 (HB 1237) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-441` | 2019 North Dakota Session Laws, Chapter 441 (HB 1265) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-121` | 2019 North Dakota Session Laws, Chapter 121 (HB 1282) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-181` | 2019 North Dakota Session Laws, Chapter 181 (HB 1288) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-502` | 2019 North Dakota Session Laws, Chapter 502 (HB 1292) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-442` | 2019 North Dakota Session Laws, Chapter 442 (HB 1298) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-517` | 2019 North Dakota Session Laws, Chapter 517 (HB 1308) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-434` | 2019 North Dakota Session Laws, Chapter 434 (HB 1311) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-436` | 2019 North Dakota Session Laws, Chapter 436 (HB 1313) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-166` | 2019 North Dakota Session Laws, Chapter 166 (HB 1335) | 1 | 2019-03-20 to 2019-03-20 |
+| `session-law-2019-ch-443` | 2019 North Dakota Session Laws, Chapter 443 (HB 1367) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-518` | 2019 North Dakota Session Laws, Chapter 518 (HB 1381) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-091` | 2019 North Dakota Session Laws, Chapter 91 (HB 1388) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-130` | 2019 North Dakota Session Laws, Chapter 130 (HB 1395) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-444` | 2019 North Dakota Session Laws, Chapter 444 (HB 1401) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-223` | 2019 North Dakota Session Laws, Chapter 223 (HB 1404) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-445` | 2019 North Dakota Session Laws, Chapter 445 (HB 1467) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-339` | 2019 North Dakota Session Laws, Chapter 339 (HB 1471) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-446` | 2019 North Dakota Session Laws, Chapter 446 (HB 1474) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-447` | 2019 North Dakota Session Laws, Chapter 447 (HB 1485) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-448` | 2019 North Dakota Session Laws, Chapter 448 (HB 1487) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-116` | 2019 North Dakota Session Laws, Chapter 116 (HB 1503) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-163` | 2019 North Dakota Session Laws, Chapter 163 (HB 1531) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-049` | 2019 North Dakota Session Laws, Chapter 49 (SB 2024) | 1 | 2019-04-09 to 2019-04-09 |
+| `session-law-2019-ch-204` | 2019 North Dakota Session Laws, Chapter 204 (SB 2041) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-449` | 2019 North Dakota Session Laws, Chapter 449 (SB 2042) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-255` | 2019 North Dakota Session Laws, Chapter 255 (SB 2069) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-262` | 2019 North Dakota Session Laws, Chapter 262 (SB 2074) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-134` | 2019 North Dakota Session Laws, Chapter 134 (SB 2082) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-425` | 2019 North Dakota Session Laws, Chapter 425 (SB 2085) | 1 | 2019-03-29 to 2019-03-29 |
+| `session-law-2019-ch-217` | 2019 North Dakota Session Laws, Chapter 217 (SB 2107) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-468` | 2019 North Dakota Session Laws, Chapter 468 (SB 2110) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-075` | 2019 North Dakota Session Laws, Chapter 75 (SB 2114) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-385` | 2019 North Dakota Session Laws, Chapter 385 (SB 2122) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-450` | 2019 North Dakota Session Laws, Chapter 450 (SB 2130) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-050` | 2019 North Dakota Session Laws, Chapter 50 (SB 2146) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-451` | 2019 North Dakota Session Laws, Chapter 451 (SB 2148) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-140` | 2019 North Dakota Session Laws, Chapter 140 (SB 2164) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-452` | 2019 North Dakota Session Laws, Chapter 452 (SB 2176) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-096` | 2019 North Dakota Session Laws, Chapter 96 (SB 2190) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-051` | 2019 North Dakota Session Laws, Chapter 51 (SB 2195) | 1 | 2020-03-01 to 2020-03-01 |
+| `session-law-2019-ch-215` | 2019 North Dakota Session Laws, Chapter 215 (SB 2196) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-143` | 2019 North Dakota Session Laws, Chapter 143 (SB 2202) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-052` | 2019 North Dakota Session Laws, Chapter 52 (SB 2214) | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-ch-453` | 2019 North Dakota Session Laws, Chapter 453 (SB 2217) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-155` | 2019 North Dakota Session Laws, Chapter 155 (SB 2230) | 1 | 2019-04-09 to 2019-04-09 |
+| `session-law-2019-ch-454` | 2019 North Dakota Session Laws, Chapter 454 (SB 2241) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-120` | 2019 North Dakota Session Laws, Chapter 120 (SB 2253) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-390` | 2019 North Dakota Session Laws, Chapter 390 (SB 2261) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-128` | 2019 North Dakota Session Laws, Chapter 128 (SB 2267) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-222` | 2019 North Dakota Session Laws, Chapter 222 (SB 2268) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-394` | 2019 North Dakota Session Laws, Chapter 394 (SB 2313) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-206` | 2019 North Dakota Session Laws, Chapter 206 (SB 2317) | 1 | 2019-05-02 to 2019-05-02 |
+| `session-law-2019-ch-467` | 2019 North Dakota Session Laws, Chapter 467 (SB 2318) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-353` | 2019 North Dakota Session Laws, Chapter 353 (SB 2327) | 1 | 2019-03-20 to 2019-03-20 |
+| `session-law-2019-ch-455` | 2019 North Dakota Session Laws, Chapter 455 (SB 2355) | 1 | 2019-08-01 to 2019-08-01 |
+| `session-law-2019-ch-456` | 2019 North Dakota Session Laws, Chapter 456 (SB 2359) | 1 | 2019-08-01 to 2019-08-01 |
 
-The build made 2084 commits:
+The build made 2160 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2084 | baseline texts where the record starts |
+| 2160 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2120,7 +2198,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2084 tags.
+- 2160 tags.
 
 ## Dates
 
@@ -2132,7 +2210,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b7743385e07177d5e8f5980ee7eb59e38712e4b72b35c2a8a6dc4001af9a1fc3` (37513795 bytes).
+- Corpus: sha256 `b92541434aedf493ac714ec7a12767ad0687b90d900a8800d8f1da156c35bb4d` (37734081 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2149,13 +2227,16 @@ No second build of this corpus has been compared yet.
 - One act per chapter of the Century Code and one per Constitution article; one unit per section, keyed by the section number the Code prints. Section numbers are checked against the chapter's section list on the Century Code index page.
 - Paragraphs are rebuilt from the PDF text layer: a line that ends in a space is wrapped onto the next one, and a numbering marker alone on a line, such as 1. or a., is put in front of the paragraph that follows. Page numbers ("Page No. 5") are dropped.
 - Wave 3 (2026-11-03): every chapter of every other Century Code title is added the same way, one act per chapter, dated 2026-02-03 by the same currency note, credited to the Legislative Council. The chapter PDFs give no in-force day per section, so no amended section is dated from its original enactment. A chapter whose section list names no section found in its PDF is left out.
-- The 2023 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
-- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
-- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 - Session-law records are in their enacted form, separately from consolidated Century Code chapters. No amendment reconstruction is claimed.
 - Dates follow individual bill rows in the official October 2026 effective-date table. Bills with footnotes, vetoes, deletion markup, source images or tabular text are held for assessment.
 - Each session law is a single-file act. Source line breaks are retained; whitespace is normalized and running headers and page numbers are excluded.
+- The 2023 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 - The 2021 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
+- The 2019 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 
@@ -2169,6 +2250,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
