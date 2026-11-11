@@ -1,0 +1,2113 @@
+{
+ "country": "US-ND",
+ "acts": [
+  {
+   "slug": "session-law-2025-ch-023",
+   "short": "2025 N.D. Session Laws ch. 23",
+   "title": "2025 North Dakota Session Laws, Chapter 23 (HB 1024)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER23",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=109",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-500",
+   "short": "2025 N.D. Session Laws ch. 500",
+   "title": "2025 North Dakota Session Laws, Chapter 500 (HB 1025)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER500",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1755",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-024",
+   "short": "2025 N.D. Session Laws ch. 24",
+   "title": "2025 North Dakota Session Laws, Chapter 24 (HB 1038)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER24",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=111",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-389",
+   "short": "2025 N.D. Session Laws ch. 389",
+   "title": "2025 North Dakota Session Laws, Chapter 389 (HB 1039)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OCCPT.pdf#CHAPTER389",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1340",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-398",
+   "short": "2025 N.D. Session Laws ch. 398",
+   "title": "2025 North Dakota Session Laws, Chapter 398 (HB 1045)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OCCPT.pdf#CHAPTER398",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1401",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-265",
+   "short": "2025 N.D. Session Laws ch. 265",
+   "title": "2025 North Dakota Session Laws, Chapter 265 (HB 1051)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER265",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=871",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-372",
+   "short": "2025 N.D. Session Laws ch. 372",
+   "title": "2025 North Dakota Session Laws, Chapter 372 (HB 1055)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MTRVH.pdf#CHAPTER372",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1264",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-443",
+   "short": "2025 N.D. Session Laws ch. 443",
+   "title": "2025 North Dakota Session Laws, Chapter 443 (HB 1066)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER443",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1595",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-235",
+   "short": "2025 N.D. Session Laws ch. 235",
+   "title": "2025 North Dakota Session Laws, Chapter 235 (HB 1069)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HELTH.pdf#CHAPTER235",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=807",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-495",
+   "short": "2025 N.D. Session Laws ch. 495",
+   "title": "2025 North Dakota Session Laws, Chapter 495 (HB 1081)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER495",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1741",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-256",
+   "short": "2025 N.D. Session Laws ch. 256",
+   "title": "2025 North Dakota Session Laws, Chapter 256 (HB 1092)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER256",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=862",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-501",
+   "short": "2025 N.D. Session Laws ch. 501",
+   "title": "2025 North Dakota Session Laws, Chapter 501 (HB 1097)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER501",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1757",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-025",
+   "short": "2025 N.D. Session Laws ch. 25",
+   "title": "2025 North Dakota Session Laws, Chapter 25 (HB 1106)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER25",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=112",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-502",
+   "short": "2025 N.D. Session Laws ch. 502",
+   "title": "2025 North Dakota Session Laws, Chapter 502 (HB 1119)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER502",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1758",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-350",
+   "short": "2025 N.D. Session Laws ch. 350",
+   "title": "2025 North Dakota Session Laws, Chapter 350 (HB 1137)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MTRVH.pdf#CHAPTER350",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1220",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-257",
+   "short": "2025 N.D. Session Laws ch. 257",
+   "title": "2025 North Dakota Session Laws, Chapter 257 (HB 1140)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER257",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=863",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-026",
+   "short": "2025 N.D. Session Laws ch. 26",
+   "title": "2025 North Dakota Session Laws, Chapter 26 (HB 1143)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER26",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=113",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-067",
+   "short": "2025 N.D. Session Laws ch. 67",
+   "title": "2025 North Dakota Session Laws, Chapter 67 (HB 1148)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GNLPR.pdf#CHAPTER67",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=263",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-503",
+   "short": "2025 N.D. Session Laws ch. 503",
+   "title": "2025 North Dakota Session Laws, Chapter 503 (HB 1151)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER503",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1761",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-207",
+   "short": "2025 N.D. Session Laws ch. 207",
+   "title": "2025 North Dakota Session Laws, Chapter 207 (HB 1167)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ELECT.pdf#CHAPTER207",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=695",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-218",
+   "short": "2025 N.D. Session Laws ch. 218",
+   "title": "2025 North Dakota Session Laws, Chapter 218 (HB 1174)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GAME.pdf#CHAPTER218",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=764",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-533",
+   "short": "2025 N.D. Session Laws ch. 533",
+   "title": "2025 North Dakota Session Laws, Chapter 533 (HB 1177)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER533",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1813",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-176",
+   "short": "2025 N.D. Session Laws ch. 176",
+   "title": "2025 North Dakota Session Laws, Chapter 176 (HB 1178)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ELEMN.pdf#CHAPTER176",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=601",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-065",
+   "short": "2025 N.D. Session Laws ch. 65",
+   "title": "2025 North Dakota Session Laws, Chapter 65 (HB 1181)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GNLPR.pdf#CHAPTER65",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=260",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-473",
+   "short": "2025 N.D. Session Laws ch. 473",
+   "title": "2025 North Dakota Session Laws, Chapter 473 (HB 1186)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER473",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1667",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-027",
+   "short": "2025 N.D. Session Laws ch. 27",
+   "title": "2025 North Dakota Session Laws, Chapter 27 (HB 1193)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER27",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=114",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-504",
+   "short": "2025 N.D. Session Laws ch. 504",
+   "title": "2025 North Dakota Session Laws, Chapter 504 (HB 1197)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER504",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1762",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-581",
+   "short": "2025 N.D. Session Laws ch. 581",
+   "title": "2025 North Dakota Session Laws, Chapter 581 (HB 1201)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/WATER.pdf#CHAPTER581",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=2020",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-527",
+   "short": "2025 N.D. Session Laws ch. 527",
+   "title": "2025 North Dakota Session Laws, Chapter 527 (HB 1209)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER527",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1792",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-259",
+   "short": "2025 N.D. Session Laws ch. 259",
+   "title": "2025 North Dakota Session Laws, Chapter 259 (HB 1212)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER259",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=865",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-266",
+   "short": "2025 N.D. Session Laws ch. 266",
+   "title": "2025 North Dakota Session Laws, Chapter 266 (HB 1215)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER266",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=872",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-127",
+   "short": "2025 N.D. Session Laws ch. 127",
+   "title": "2025 North Dakota Session Laws, Chapter 127 (HB 1217)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER127",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=452",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-260",
+   "short": "2025 N.D. Session Laws ch. 260",
+   "title": "2025 North Dakota Session Laws, Chapter 260 (HB 1228)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER260",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=866",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-532",
+   "short": "2025 N.D. Session Laws ch. 532",
+   "title": "2025 North Dakota Session Laws, Chapter 532 (HB 1234)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER532",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1812",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-186",
+   "short": "2025 N.D. Session Laws ch. 186",
+   "title": "2025 North Dakota Session Laws, Chapter 186 (HB 1261)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ELEMN.pdf#CHAPTER186",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=625",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-343",
+   "short": "2025 N.D. Session Laws ch. 343",
+   "title": "2025 North Dakota Session Laws, Chapter 343 (HB 1293)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MLTRY.pdf#CHAPTER343",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1200",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-201",
+   "short": "2025 N.D. Session Laws ch. 201",
+   "title": "2025 North Dakota Session Laws, Chapter 201 (HB 1297)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ELECT.pdf#CHAPTER201",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=685",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-313",
+   "short": "2025 N.D. Session Laws ch. 313",
+   "title": "2025 North Dakota Session Laws, Chapter 313 (HB 1299)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JCRML.pdf#CHAPTER313",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1089",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-505",
+   "short": "2025 N.D. Session Laws ch. 505",
+   "title": "2025 North Dakota Session Laws, Chapter 505 (HB 1311)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER505",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1763",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-363",
+   "short": "2025 N.D. Session Laws ch. 363",
+   "title": "2025 North Dakota Session Laws, Chapter 363 (HB 1316)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MTRVH.pdf#CHAPTER363",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1250",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-230",
+   "short": "2025 N.D. Session Laws ch. 230",
+   "title": "2025 North Dakota Session Laws, Chapter 230 (HB 1319)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GVGIN.pdf#CHAPTER230",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=793",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-305",
+   "short": "2025 N.D. Session Laws ch. 305",
+   "title": "2025 North Dakota Session Laws, Chapter 305 (HB 1328)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JBRNG.pdf#CHAPTER305",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1063",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-506",
+   "short": "2025 N.D. Session Laws ch. 506",
+   "title": "2025 North Dakota Session Laws, Chapter 506 (HB 1329)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER506",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1764",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-028",
+   "short": "2025 N.D. Session Laws ch. 28",
+   "title": "2025 North Dakota Session Laws, Chapter 28 (HB 1331)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER28",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=115",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-474",
+   "short": "2025 N.D. Session Laws ch. 474",
+   "title": "2025 North Dakota Session Laws, Chapter 474 (HB 1334)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER474",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1668",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-459",
+   "short": "2025 N.D. Session Laws ch. 459",
+   "title": "2025 North Dakota Session Laws, Chapter 459 (HB 1338)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER459",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1637",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-123",
+   "short": "2025 N.D. Session Laws ch. 123",
+   "title": "2025 North Dakota Session Laws, Chapter 123 (HB 1341)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER123",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=443",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-492",
+   "short": "2025 N.D. Session Laws ch. 492",
+   "title": "2025 North Dakota Session Laws, Chapter 492 (HB 1344)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER492",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1738",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-298",
+   "short": "2025 N.D. Session Laws ch. 298",
+   "title": "2025 North Dakota Session Laws, Chapter 298 (HB 1347)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JBRNG.pdf#CHAPTER298",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1019",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-141",
+   "short": "2025 N.D. Session Laws ch. 141",
+   "title": "2025 North Dakota Session Laws, Chapter 141 (HB 1361)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER141",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=479",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-367",
+   "short": "2025 N.D. Session Laws ch. 367",
+   "title": "2025 North Dakota Session Laws, Chapter 367 (HB 1364)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MTRVH.pdf#CHAPTER367",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1256",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-507",
+   "short": "2025 N.D. Session Laws ch. 507",
+   "title": "2025 North Dakota Session Laws, Chapter 507 (HB 1371)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER507",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1766",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-068",
+   "short": "2025 N.D. Session Laws ch. 68",
+   "title": "2025 North Dakota Session Laws, Chapter 68 (HB 1403)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GNLPR.pdf#CHAPTER68",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=264",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-508",
+   "short": "2025 N.D. Session Laws ch. 508",
+   "title": "2025 North Dakota Session Laws, Chapter 508 (HB 1410)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER508",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1767",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-411",
+   "short": "2025 N.D. Session Laws ch. 411",
+   "title": "2025 North Dakota Session Laws, Chapter 411 (HB 1415)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OFFIC.pdf#CHAPTER411",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1486",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-494",
+   "short": "2025 N.D. Session Laws ch. 494",
+   "title": "2025 North Dakota Session Laws, Chapter 494 (HB 1420)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER494",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1740",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-352",
+   "short": "2025 N.D. Session Laws ch. 352",
+   "title": "2025 North Dakota Session Laws, Chapter 352 (HB 1432)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/MTRVH.pdf#CHAPTER352",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1222",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-029",
+   "short": "2025 N.D. Session Laws ch. 29",
+   "title": "2025 North Dakota Session Laws, Chapter 29 (HB 1468)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER29",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=116",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-388",
+   "short": "2025 N.D. Session Laws ch. 388",
+   "title": "2025 North Dakota Session Laws, Chapter 388 (HB 1473)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OCCPT.pdf#CHAPTER388",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1338",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-451",
+   "short": "2025 N.D. Session Laws ch. 451",
+   "title": "2025 North Dakota Session Laws, Chapter 451 (HB 1485)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER451",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1620",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-529",
+   "short": "2025 N.D. Session Laws ch. 529",
+   "title": "2025 North Dakota Session Laws, Chapter 529 (HB 1487)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER529",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1798",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-412",
+   "short": "2025 N.D. Session Laws ch. 412",
+   "title": "2025 North Dakota Session Laws, Chapter 412 (HB 1499)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OFFIC.pdf#CHAPTER412",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1487",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-509",
+   "short": "2025 N.D. Session Laws ch. 509",
+   "title": "2025 North Dakota Session Laws, Chapter 509 (HB 1530)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER509",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1768",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-030",
+   "short": "2025 N.D. Session Laws ch. 30",
+   "title": "2025 North Dakota Session Laws, Chapter 30 (HB 1531)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER30",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=117",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-510",
+   "short": "2025 N.D. Session Laws ch. 510",
+   "title": "2025 North Dakota Session Laws, Chapter 510 (HB 1543)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER510",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1770",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-499",
+   "short": "2025 N.D. Session Laws ch. 499",
+   "title": "2025 North Dakota Session Laws, Chapter 499 (HB 1547)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER499",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1754",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-489",
+   "short": "2025 N.D. Session Laws ch. 489",
+   "title": "2025 North Dakota Session Laws, Chapter 489 (HB 1554)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER489",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1734",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-511",
+   "short": "2025 N.D. Session Laws ch. 511",
+   "title": "2025 North Dakota Session Laws, Chapter 511 (HB 1563)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER511",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1771",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-512",
+   "short": "2025 N.D. Session Laws ch. 512",
+   "title": "2025 North Dakota Session Laws, Chapter 512 (HB 1566)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER512",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1772",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-513",
+   "short": "2025 N.D. Session Laws ch. 513",
+   "title": "2025 North Dakota Session Laws, Chapter 513 (HB 1567)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER513",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1773",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-252",
+   "short": "2025 N.D. Session Laws ch. 252",
+   "title": "2025 North Dakota Session Laws, Chapter 252 (HB 1577)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ENVQAL.pdf#CHAPTER252",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=857",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-514",
+   "short": "2025 N.D. Session Laws ch. 514",
+   "title": "2025 North Dakota Session Laws, Chapter 514 (HB 1579)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER514",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1776",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-515",
+   "short": "2025 N.D. Session Laws ch. 515",
+   "title": "2025 North Dakota Session Laws, Chapter 515 (HB 1580)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER515",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1778",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-031",
+   "short": "2025 N.D. Session Laws ch. 31",
+   "title": "2025 North Dakota Session Laws, Chapter 31 (HB 1581)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER31",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=118",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-516",
+   "short": "2025 N.D. Session Laws ch. 516",
+   "title": "2025 North Dakota Session Laws, Chapter 516 (HB 1582)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER516",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1779",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-032",
+   "short": "2025 N.D. Session Laws ch. 32",
+   "title": "2025 North Dakota Session Laws, Chapter 32 (HB 1591)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER32",
+   "versions": [
+    {
+     "from": "2025-04-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=119",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-249",
+   "short": "2025 N.D. Session Laws ch. 249",
+   "title": "2025 North Dakota Session Laws, Chapter 249 (HB 1597)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HELTH.pdf#CHAPTER249",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=844",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-158",
+   "short": "2025 N.D. Session Laws ch. 158",
+   "title": "2025 North Dakota Session Laws, Chapter 158 (HB 1600)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/EDUCA.pdf#CHAPTER158",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=566",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-033",
+   "short": "2025 N.D. Session Laws ch. 33",
+   "title": "2025 North Dakota Session Laws, Chapter 33 (HB 1603)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER33",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=120",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-423",
+   "short": "2025 N.D. Session Laws ch. 423",
+   "title": "2025 North Dakota Session Laws, Chapter 423 (HB 1610)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PROPT.pdf#CHAPTER423",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1514",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-157",
+   "short": "2025 N.D. Session Laws ch. 157",
+   "title": "2025 North Dakota Session Laws, Chapter 157 (HB 1612)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/EDUCA.pdf#CHAPTER157",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=564",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-314",
+   "short": "2025 N.D. Session Laws ch. 314",
+   "title": "2025 North Dakota Session Laws, Chapter 314 (SB 2056)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JCRML.pdf#CHAPTER314",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1090",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-264",
+   "short": "2025 N.D. Session Laws ch. 264",
+   "title": "2025 North Dakota Session Laws, Chapter 264 (SB 2063)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER264",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=870",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-136",
+   "short": "2025 N.D. Session Laws ch. 136",
+   "title": "2025 North Dakota Session Laws, Chapter 136 (SB 2067)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER136",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=472",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-571",
+   "short": "2025 N.D. Session Laws ch. 571",
+   "title": "2025 North Dakota Session Laws, Chapter 571 (SB 2074)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/TAXES.pdf#CHAPTER571",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1990",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-121",
+   "short": "2025 N.D. Session Laws ch. 121",
+   "title": "2025 North Dakota Session Laws, Chapter 121 (SB 2077)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER121",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=441",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-447",
+   "short": "2025 N.D. Session Laws ch. 447",
+   "title": "2025 North Dakota Session Laws, Chapter 447 (SB 2107)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER447",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1609",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-542",
+   "short": "2025 N.D. Session Laws ch. 542",
+   "title": "2025 North Dakota Session Laws, Chapter 542 (SB 2119)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER542",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1871",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-162",
+   "short": "2025 N.D. Session Laws ch. 162",
+   "title": "2025 North Dakota Session Laws, Chapter 162 (SB 2134)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/EDUCA.pdf#CHAPTER162",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=577",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-226",
+   "short": "2025 N.D. Session Laws ch. 226",
+   "title": "2025 North Dakota Session Laws, Chapter 226 (SB 2137)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GAME.pdf#CHAPTER226",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=781",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-058",
+   "short": "2025 N.D. Session Laws ch. 58",
+   "title": "2025 North Dakota Session Laws, Chapter 58 (SB 2138)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER58",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=242",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-322",
+   "short": "2025 N.D. Session Laws ch. 322",
+   "title": "2025 North Dakota Session Laws, Chapter 322 (SB 2145)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JREMD.pdf#CHAPTER322",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1124",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-517",
+   "short": "2025 N.D. Session Laws ch. 517",
+   "title": "2025 North Dakota Session Laws, Chapter 517 (SB 2157)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER517",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1780",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-395",
+   "short": "2025 N.D. Session Laws ch. 395",
+   "title": "2025 North Dakota Session Laws, Chapter 395 (SB 2169)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OCCPT.pdf#CHAPTER395",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1373",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-293",
+   "short": "2025 N.D. Session Laws ch. 293",
+   "title": "2025 North Dakota Session Laws, Chapter 293 (SB 2172)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/INSUR.pdf#CHAPTER293",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1006",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-415",
+   "short": "2025 N.D. Session Laws ch. 415",
+   "title": "2025 North Dakota Session Laws, Chapter 415 (SB 2180)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/OFFIC.pdf#CHAPTER415",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1490",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-147",
+   "short": "2025 N.D. Session Laws ch. 147",
+   "title": "2025 North Dakota Session Laws, Chapter 147 (SB 2186)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/DOMRP.pdf#CHAPTER147",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=530",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-518",
+   "short": "2025 N.D. Session Laws ch. 518",
+   "title": "2025 North Dakota Session Laws, Chapter 518 (SB 2191)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER518",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1781",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-059",
+   "short": "2025 N.D. Session Laws ch. 59",
+   "title": "2025 North Dakota Session Laws, Chapter 59 (SB 2200)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER59",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=243",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-519",
+   "short": "2025 N.D. Session Laws ch. 519",
+   "title": "2025 North Dakota Session Laws, Chapter 519 (SB 2210)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER519",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1782",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-217",
+   "short": "2025 N.D. Session Laws ch. 217",
+   "title": "2025 North Dakota Session Laws, Chapter 217 (SB 2216)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/GAME.pdf#CHAPTER217",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=763",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-061",
+   "short": "2025 N.D. Session Laws ch. 61",
+   "title": "2025 North Dakota Session Laws, Chapter 61 (SB 2228)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER61",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=245",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-520",
+   "short": "2025 N.D. Session Laws ch. 520",
+   "title": "2025 North Dakota Session Laws, Chapter 520 (SB 2242)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER520",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1783",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-521",
+   "short": "2025 N.D. Session Laws ch. 521",
+   "title": "2025 North Dakota Session Laws, Chapter 521 (SB 2249)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER521",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1785",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-062",
+   "short": "2025 N.D. Session Laws ch. 62",
+   "title": "2025 North Dakota Session Laws, Chapter 62 (SB 2254)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER62",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=246",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-487",
+   "short": "2025 N.D. Session Laws ch. 487",
+   "title": "2025 North Dakota Session Laws, Chapter 487 (SB 2256)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER487",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1727",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-130",
+   "short": "2025 N.D. Session Laws ch. 130",
+   "title": "2025 North Dakota Session Laws, Chapter 130 (SB 2257)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER130",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=458",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-310",
+   "short": "2025 N.D. Session Laws ch. 310",
+   "title": "2025 North Dakota Session Laws, Chapter 310 (SB 2258)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JCVIL.pdf#CHAPTER310",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1083",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-063",
+   "short": "2025 N.D. Session Laws ch. 63",
+   "title": "2025 North Dakota Session Laws, Chapter 63 (SB 2265)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/APPRO.pdf#CHAPTER63",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=247",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-248",
+   "short": "2025 N.D. Session Laws ch. 248",
+   "title": "2025 North Dakota Session Laws, Chapter 248 (SB 2267)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HELTH.pdf#CHAPTER248",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=838",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-456",
+   "short": "2025 N.D. Session Laws ch. 456",
+   "title": "2025 North Dakota Session Laws, Chapter 456 (SB 2271)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER456",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1628",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-262",
+   "short": "2025 N.D. Session Laws ch. 262",
+   "title": "2025 North Dakota Session Laws, Chapter 262 (SB 2277)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/HIWAY.pdf#CHAPTER262",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=868",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-522",
+   "short": "2025 N.D. Session Laws ch. 522",
+   "title": "2025 North Dakota Session Laws, Chapter 522 (SB 2278)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER522",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1786",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-469",
+   "short": "2025 N.D. Session Laws ch. 469",
+   "title": "2025 North Dakota Session Laws, Chapter 469 (SB 2288)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/SPRTS.pdf#CHAPTER469",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1661",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-140",
+   "short": "2025 N.D. Session Laws ch. 140",
+   "title": "2025 North Dakota Session Laws, Chapter 140 (SB 2292)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/CRMLC.pdf#CHAPTER140",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=478",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-178",
+   "short": "2025 N.D. Session Laws ch. 178",
+   "title": "2025 North Dakota Session Laws, Chapter 178 (SB 2330)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/ELEMN.pdf#CHAPTER178",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=606",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-523",
+   "short": "2025 N.D. Session Laws ch. 523",
+   "title": "2025 North Dakota Session Laws, Chapter 523 (SB 2332)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER523",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1787",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-524",
+   "short": "2025 N.D. Session Laws ch. 524",
+   "title": "2025 North Dakota Session Laws, Chapter 524 (SB 2340)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER524",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1788",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-490",
+   "short": "2025 N.D. Session Laws ch. 490",
+   "title": "2025 North Dakota Session Laws, Chapter 490 (SB 2352)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER490",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1736",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-525",
+   "short": "2025 N.D. Session Laws ch. 525",
+   "title": "2025 North Dakota Session Laws, Chapter 525 (SB 2360)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER525",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1789",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-075",
+   "short": "2025 N.D. Session Laws ch. 75",
+   "title": "2025 North Dakota Session Laws, Chapter 75 (SB 2368)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/AGRIC.pdf#CHAPTER75",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=275",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-526",
+   "short": "2025 N.D. Session Laws ch. 526",
+   "title": "2025 North Dakota Session Laws, Chapter 526 (SB 2370)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/STATG.pdf#CHAPTER526",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1790",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-311",
+   "short": "2025 N.D. Session Laws ch. 311",
+   "title": "2025 North Dakota Session Laws, Chapter 311 (SB 2382)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/JCVIL.pdf#CHAPTER311",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1084",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-ch-454",
+   "short": "2025 N.D. Session Laws ch. 454",
+   "title": "2025 North Dakota Session Laws, Chapter 454 (SB 2399)",
+   "url": "https://ndlegis.gov/assembly/69-2025/session-laws/documents/PWELF.pdf#CHAPTER454",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf#page=1626",
+     "sha256": "286b1d7b96eb9526260b16e777f911c00af324c507e5577ab8cb8ad3130d821c"
+    }
+   ]
+  }
+ ]
+}
