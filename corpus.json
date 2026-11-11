@@ -1,0 +1,17 @@
+{
+ "corpus": "us/north-dakota/acts",
+ "path": "united-states/north-dakota/acts",
+ "scope": "selected-acts",
+ "acts": 83,
+ "future_branch": "future",
+ "publisher": "North Dakota Legislative Council",
+ "name": "United States (North Dakota)",
+ "language": "en",
+ "coverage": "83 acts of United States (North Dakota), the current text of each as of 2026-11-11",
+ "history": "current-only",
+ "history_from": "2021-03-23",
+ "record_to": "2026-11-11",
+ "checked_on": "2026-11-11",
+ "record_note": "Texts from North Dakota Legislative Council.",
+ "in_force_trailer": "In-force"
+}
