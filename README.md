@@ -12,9 +12,10 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 | 2017 session laws | 59 | Enacted-form versions |
 | 2015 session laws | 94 | Enacted-form versions |
 | 2011 session laws | 97 | Enacted-form versions |
-| 2009 session laws | 117 | Enacted-form versions; individual official effective dates |
+| 2009 session laws | 117 | Enacted-form versions |
+| 2007 session laws | 135 | Enacted-form versions; individual official effective dates |
 
-The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. Approval and filing dates remain in the text. The [official effective-date table](https://ndlegis.gov/sites/default/files/resource/61-2009/effective-dates-legislation/2009effectivedatesoflegislation.pdf) supplies individual bill effective dates.
+The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. Approval and filing dates remain in the text. The [official effective-date table](https://ndlegis.gov/sites/default/files/resource/60-2007/effective-dates-legislation/2007effectivedatesoflegislation.pdf) supplies individual bill effective dates.
 
 Coverage and consolidated histories remain incomplete. Bills with deletion markup, complex commencement, vetoes, uncertain tables, images or extraction disagreements are held. No reconstructed or corrected OCR text is included.
 
