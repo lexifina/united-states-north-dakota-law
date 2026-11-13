@@ -1,0 +1,7 @@
+# 1997 North Dakota Session Laws, Chapter 261 (SB 2396)
+
+1997 N.D. Session Laws ch. 261 · 1 versions, from 1997-07-01 (latest in force: 1997-07-01) · <https://ndlegis.gov/assembly/55-1997/session-laws/sl1997.pdf#CHAPTER261>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| SB 2396 | [text.md](text.md) | 0 |  |
