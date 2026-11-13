@@ -1,0 +1,2589 @@
+{
+ "country": "US-ND",
+ "acts": [
+  {
+   "slug": "session-law-2001-ch-011",
+   "short": "2001 N.D. Session Laws ch. 11",
+   "title": "2001 North Dakota Session Laws, Chapter 11 (HB 1011)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER11",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=26",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-014",
+   "short": "2001 N.D. Session Laws ch. 14",
+   "title": "2001 North Dakota Session Laws, Chapter 14 (HB 1014)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER14",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=41",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-018",
+   "short": "2001 N.D. Session Laws ch. 18",
+   "title": "2001 North Dakota Session Laws, Chapter 18 (HB 1018)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER18",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=55",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-019",
+   "short": "2001 N.D. Session Laws ch. 19",
+   "title": "2001 North Dakota Session Laws, Chapter 19 (HB 1019)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER19",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=56",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-474",
+   "short": "2001 N.D. Session Laws ch. 474",
+   "title": "2001 North Dakota Session Laws, Chapter 474 (HB 1035)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER474",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1653",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-174",
+   "short": "2001 N.D. Session Laws ch. 174",
+   "title": "2001 North Dakota Session Laws, Chapter 174 (HB 1058)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER174",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=578",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-119",
+   "short": "2001 N.D. Session Laws ch. 119",
+   "title": "2001 North Dakota Session Laws, Chapter 119 (HB 1062)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CNTYS.pdf#CHAPTER119",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=395",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-158",
+   "short": "2001 N.D. Session Laws ch. 158",
+   "title": "2001 North Dakota Session Laws, Chapter 158 (HB 1074)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER158",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=508",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-531",
+   "short": "2001 N.D. Session Laws ch. 531",
+   "title": "2001 North Dakota Session Laws, Chapter 531 (HB 1076)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER531",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1858",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-386",
+   "short": "2001 N.D. Session Laws ch. 386",
+   "title": "2001 North Dakota Session Laws, Chapter 386 (HB 1079)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER386",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1455",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-090",
+   "short": "2001 N.D. Session Laws ch. 90",
+   "title": "2001 North Dakota Session Laws, Chapter 90 (HB 1080)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER90",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=292",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-131",
+   "short": "2001 N.D. Session Laws ch. 131",
+   "title": "2001 North Dakota Session Laws, Chapter 131 (HB 1092)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CRMLC.pdf#CHAPTER131",
+   "versions": [
+    {
+     "from": "2001-02-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=417",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-108",
+   "short": "2001 N.D. Session Laws ch. 108",
+   "title": "2001 North Dakota Session Laws, Chapter 108 (HB 1106)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CONTR.pdf#CHAPTER108",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=325",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-422",
+   "short": "2001 N.D. Session Laws ch. 422",
+   "title": "2001 North Dakota Session Laws, Chapter 422 (HB 1110)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER422",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1524",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-439",
+   "short": "2001 N.D. Session Laws ch. 439",
+   "title": "2001 North Dakota Session Laws, Chapter 439 (HB 1114)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER439",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1567",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-427",
+   "short": "2001 N.D. Session Laws ch. 427",
+   "title": "2001 North Dakota Session Laws, Chapter 427 (HB 1115)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER427",
+   "versions": [
+    {
+     "from": "2001-04-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1532",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-475",
+   "short": "2001 N.D. Session Laws ch. 475",
+   "title": "2001 North Dakota Session Laws, Chapter 475 (HB 1119)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER475",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1655",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-405",
+   "short": "2001 N.D. Session Laws ch. 405",
+   "title": "2001 North Dakota Session Laws, Chapter 405 (HB 1124)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PRLAW.pdf#CHAPTER405",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1496",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-403",
+   "short": "2001 N.D. Session Laws ch. 403",
+   "title": "2001 North Dakota Session Laws, Chapter 403 (HB 1140)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PSHIP.pdf#CHAPTER403",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1492",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-473",
+   "short": "2001 N.D. Session Laws ch. 473",
+   "title": "2001 North Dakota Session Laws, Chapter 473 (HB 1147)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER473",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1651",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-400",
+   "short": "2001 N.D. Session Laws ch. 400",
+   "title": "2001 North Dakota Session Laws, Chapter 400 (HB 1156)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OFFIC.pdf#CHAPTER400",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1487",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-336",
+   "short": "2001 N.D. Session Laws ch. 336",
+   "title": "2001 North Dakota Session Laws, Chapter 336 (HB 1184)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER336",
+   "versions": [
+    {
+     "from": "2002-04-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1200",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-343",
+   "short": "2001 N.D. Session Laws ch. 343",
+   "title": "2001 North Dakota Session Laws, Chapter 343 (HB 1191)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER343",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1233",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-311",
+   "short": "2001 N.D. Session Laws ch. 311",
+   "title": "2001 North Dakota Session Laws, Chapter 311 (HB 1194)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/LIENS.pdf#CHAPTER311",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1152",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-345",
+   "short": "2001 N.D. Session Laws ch. 345",
+   "title": "2001 North Dakota Session Laws, Chapter 345 (HB 1199)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER345",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1238",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-059",
+   "short": "2001 N.D. Session Laws ch. 59",
+   "title": "2001 North Dakota Session Laws, Chapter 59 (HB 1200)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER59",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=177",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-447",
+   "short": "2001 N.D. Session Laws ch. 447",
+   "title": "2001 North Dakota Session Laws, Chapter 447 (HB 1203)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SALES.pdf#CHAPTER447",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1584",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-485",
+   "short": "2001 N.D. Session Laws ch. 485",
+   "title": "2001 North Dakota Session Laws, Chapter 485 (HB 1210)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER485",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1673",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-049",
+   "short": "2001 N.D. Session Laws ch. 49",
+   "title": "2001 North Dakota Session Laws, Chapter 49 (HB 1215)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER49",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=150",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-346",
+   "short": "2001 N.D. Session Laws ch. 346",
+   "title": "2001 North Dakota Session Laws, Chapter 346 (HB 1218)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER346",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1239",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-274",
+   "short": "2001 N.D. Session Laws ch. 274",
+   "title": "2001 North Dakota Session Laws, Chapter 274 (HB 1226)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER274",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1013",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-240",
+   "short": "2001 N.D. Session Laws ch. 240",
+   "title": "2001 North Dakota Session Laws, Chapter 240 (HB 1233)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/HELTH.pdf#CHAPTER240",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=844",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-238",
+   "short": "2001 N.D. Session Laws ch. 238",
+   "title": "2001 North Dakota Session Laws, Chapter 238 (HB 1240)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/HELTH.pdf#CHAPTER238",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=842",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-239",
+   "short": "2001 N.D. Session Laws ch. 239",
+   "title": "2001 North Dakota Session Laws, Chapter 239 (HB 1242)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/HELTH.pdf#CHAPTER239",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=843",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-339",
+   "short": "2001 N.D. Session Laws ch. 339",
+   "title": "2001 North Dakota Session Laws, Chapter 339 (HB 1245)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER339",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1211",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-050",
+   "short": "2001 N.D. Session Laws ch. 50",
+   "title": "2001 North Dakota Session Laws, Chapter 50 (HB 1249)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER50",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=151",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-396",
+   "short": "2001 N.D. Session Laws ch. 396",
+   "title": "2001 North Dakota Session Laws, Chapter 396 (HB 1252)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OFFIC.pdf#CHAPTER396",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1481",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-120",
+   "short": "2001 N.D. Session Laws ch. 120",
+   "title": "2001 North Dakota Session Laws, Chapter 120 (HB 1255)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CNTYS.pdf#CHAPTER120",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=396",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-335",
+   "short": "2001 N.D. Session Laws ch. 335",
+   "title": "2001 North Dakota Session Laws, Chapter 335 (HB 1261)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER335",
+   "versions": [
+    {
+     "from": "2001-04-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1199",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-231",
+   "short": "2001 N.D. Session Laws ch. 231",
+   "title": "2001 North Dakota Session Laws, Chapter 231 (HB 1269)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/GAME.pdf#CHAPTER231",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=820",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-143",
+   "short": "2001 N.D. Session Laws ch. 143",
+   "title": "2001 North Dakota Session Laws, Chapter 143 (HB 1273)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/DBTCR.pdf#CHAPTER143",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=463",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-276",
+   "short": "2001 N.D. Session Laws ch. 276",
+   "title": "2001 North Dakota Session Laws, Chapter 276 (HB 1277)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER276",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1016",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-165",
+   "short": "2001 N.D. Session Laws ch. 165",
+   "title": "2001 North Dakota Session Laws, Chapter 165 (HB 1283)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER165",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=540",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-333",
+   "short": "2001 N.D. Session Laws ch. 333",
+   "title": "2001 North Dakota Session Laws, Chapter 333 (HB 1289)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER333",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1196",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-190",
+   "short": "2001 N.D. Session Laws ch. 190",
+   "title": "2001 North Dakota Session Laws, Chapter 190 (HB 1293)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER190",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=704",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-461",
+   "short": "2001 N.D. Session Laws ch. 461",
+   "title": "2001 North Dakota Session Laws, Chapter 461 (HB 1300)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SPRTS.pdf#CHAPTER461",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1630",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-391",
+   "short": "2001 N.D. Session Laws ch. 391",
+   "title": "2001 North Dakota Session Laws, Chapter 391 (HB 1304)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER391",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1469",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-450",
+   "short": "2001 N.D. Session Laws ch. 450",
+   "title": "2001 North Dakota Session Laws, Chapter 450 (HB 1319)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SOCIL.pdf#CHAPTER450",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1593",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-315",
+   "short": "2001 N.D. Session Laws ch. 315",
+   "title": "2001 North Dakota Session Laws, Chapter 315 (HB 1322)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/LIVST.pdf#CHAPTER315",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1162",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-098",
+   "short": "2001 N.D. Session Laws ch. 98",
+   "title": "2001 North Dakota Session Laws, Chapter 98 (HB 1329)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER98",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=305",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-117",
+   "short": "2001 N.D. Session Laws ch. 117",
+   "title": "2001 North Dakota Session Laws, Chapter 117 (HB 1332)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CNTYS.pdf#CHAPTER117",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=393",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-157",
+   "short": "2001 N.D. Session Laws ch. 157",
+   "title": "2001 North Dakota Session Laws, Chapter 157 (HB 1336)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER157",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=507",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-081",
+   "short": "2001 N.D. Session Laws ch. 81",
+   "title": "2001 North Dakota Session Laws, Chapter 81 (HB 1338)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER81",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=237",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-128",
+   "short": "2001 N.D. Session Laws ch. 128",
+   "title": "2001 North Dakota Session Laws, Chapter 128 (HB 1350)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CORRT.pdf#CHAPTER128",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=414",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-373",
+   "short": "2001 N.D. Session Laws ch. 373",
+   "title": "2001 North Dakota Session Laws, Chapter 373 (HB 1360)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER373",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1421",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-275",
+   "short": "2001 N.D. Session Laws ch. 275",
+   "title": "2001 North Dakota Session Laws, Chapter 275 (HB 1365)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER275",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1014",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-321",
+   "short": "2001 N.D. Session Laws ch. 321",
+   "title": "2001 North Dakota Session Laws, Chapter 321 (HB 1374)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MLTRY.pdf#CHAPTER321",
+   "versions": [
+    {
+     "from": "2001-03-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1173",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-096",
+   "short": "2001 N.D. Session Laws ch. 96",
+   "title": "2001 North Dakota Session Laws, Chapter 96 (HB 1375)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER96",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=301",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-365",
+   "short": "2001 N.D. Session Laws ch. 365",
+   "title": "2001 North Dakota Session Laws, Chapter 365 (HB 1377)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER365",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1393",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-082",
+   "short": "2001 N.D. Session Laws ch. 82",
+   "title": "2001 North Dakota Session Laws, Chapter 82 (HB 1390)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER82",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=238",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-537",
+   "short": "2001 N.D. Session Laws ch. 537",
+   "title": "2001 North Dakota Session Laws, Chapter 537 (HB 1392)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER537",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1888",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-125",
+   "short": "2001 N.D. Session Laws ch. 125",
+   "title": "2001 North Dakota Session Laws, Chapter 125 (HB 1398)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CORRT.pdf#CHAPTER125",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=408",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-489",
+   "short": "2001 N.D. Session Laws ch. 489",
+   "title": "2001 North Dakota Session Laws, Chapter 489 (HB 1400)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER489",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1714",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-124",
+   "short": "2001 N.D. Session Laws ch. 124",
+   "title": "2001 North Dakota Session Laws, Chapter 124 (HB 1401)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CORRT.pdf#CHAPTER124",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=406",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-471",
+   "short": "2001 N.D. Session Laws ch. 471",
+   "title": "2001 North Dakota Session Laws, Chapter 471 (HB 1407)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER471",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1646",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-080",
+   "short": "2001 N.D. Session Laws ch. 80",
+   "title": "2001 North Dakota Session Laws, Chapter 80 (HB 1417)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER80",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=233",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-129",
+   "short": "2001 N.D. Session Laws ch. 129",
+   "title": "2001 North Dakota Session Laws, Chapter 129 (HB 1431)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CORRT.pdf#CHAPTER129",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=415",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-071",
+   "short": "2001 N.D. Session Laws ch. 71",
+   "title": "2001 North Dakota Session Laws, Chapter 71 (HB 1442)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER71",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=200",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-166",
+   "short": "2001 N.D. Session Laws ch. 166",
+   "title": "2001 North Dakota Session Laws, Chapter 166 (HB 1444)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER166",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=542",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-148",
+   "short": "2001 N.D. Session Laws ch. 148",
+   "title": "2001 North Dakota Session Laws, Chapter 148 (HB 1448)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/DOMRP.pdf#CHAPTER148",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=489",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-497",
+   "short": "2001 N.D. Session Laws ch. 497",
+   "title": "2001 North Dakota Session Laws, Chapter 497 (HB 1449)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER497",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1737",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-298",
+   "short": "2001 N.D. Session Laws ch. 298",
+   "title": "2001 North Dakota Session Laws, Chapter 298 (HB 1451)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/jcivl.pdf#CHAPTER298",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1124",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-351",
+   "short": "2001 N.D. Session Laws ch. 351",
+   "title": "2001 North Dakota Session Laws, Chapter 351 (HB 1452)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER351",
+   "versions": [
+    {
+     "from": "2001-03-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1245",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-130",
+   "short": "2001 N.D. Session Laws ch. 130",
+   "title": "2001 North Dakota Session Laws, Chapter 130 (HB 1453)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CRMLC.pdf#CHAPTER130",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=416",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-207",
+   "short": "2001 N.D. Session Laws ch. 207",
+   "title": "2001 North Dakota Session Laws, Chapter 207 (HB 1456)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/ELECT.pdf#CHAPTER207",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=759",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-349",
+   "short": "2001 N.D. Session Laws ch. 349",
+   "title": "2001 North Dakota Session Laws, Chapter 349 (HB 1459)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER349",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1243",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-186",
+   "short": "2001 N.D. Session Laws ch. 186",
+   "title": "2001 North Dakota Session Laws, Chapter 186 (HB 1465)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER186",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=695",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-053",
+   "short": "2001 N.D. Session Laws ch. 53",
+   "title": "2001 North Dakota Session Laws, Chapter 53 (HB 1467)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER53",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=154",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-426",
+   "short": "2001 N.D. Session Laws ch. 426",
+   "title": "2001 North Dakota Session Laws, Chapter 426 (HB 1472)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER426",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1531",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-519",
+   "short": "2001 N.D. Session Laws ch. 519",
+   "title": "2001 North Dakota Session Laws, Chapter 519 (HB 1479)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER519",
+   "versions": [
+    {
+     "from": "2002-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1814",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-030",
+   "short": "2001 N.D. Session Laws ch. 30",
+   "title": "2001 North Dakota Session Laws, Chapter 30 (SB 2005)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER30",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=98",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-033",
+   "short": "2001 N.D. Session Laws ch. 33",
+   "title": "2001 North Dakota Session Laws, Chapter 33 (SB 2008)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER33",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=102",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-043",
+   "short": "2001 N.D. Session Laws ch. 43",
+   "title": "2001 North Dakota Session Laws, Chapter 43 (SB 2018)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER43",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=129",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-222",
+   "short": "2001 N.D. Session Laws ch. 222",
+   "title": "2001 North Dakota Session Laws, Chapter 222 (SB 2025)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/GAME.pdf#CHAPTER222",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=802",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-356",
+   "short": "2001 N.D. Session Laws ch. 356",
+   "title": "2001 North Dakota Session Laws, Chapter 356 (SB 2027)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER356",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1256",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-229",
+   "short": "2001 N.D. Session Laws ch. 229",
+   "title": "2001 North Dakota Session Laws, Chapter 229 (SB 2051)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/GAME.pdf#CHAPTER229",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=810",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-506",
+   "short": "2001 N.D. Session Laws ch. 506",
+   "title": "2001 North Dakota Session Laws, Chapter 506 (SB 2064)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER506",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1787",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-093",
+   "short": "2001 N.D. Session Laws ch. 93",
+   "title": "2001 North Dakota Session Laws, Chapter 93 (SB 2065)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER93",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=295",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-382",
+   "short": "2001 N.D. Session Laws ch. 382",
+   "title": "2001 North Dakota Session Laws, Chapter 382 (SB 2078)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER382",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1440",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-101",
+   "short": "2001 N.D. Session Laws ch. 101",
+   "title": "2001 North Dakota Session Laws, Chapter 101 (SB 2085)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER101",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=309",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-424",
+   "short": "2001 N.D. Session Laws ch. 424",
+   "title": "2001 North Dakota Session Laws, Chapter 424 (SB 2092)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER424",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1528",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-259",
+   "short": "2001 N.D. Session Laws ch. 259",
+   "title": "2001 North Dakota Session Laws, Chapter 259 (SB 2094)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MENTL.pdf#CHAPTER259",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=904",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-483",
+   "short": "2001 N.D. Session Laws ch. 483",
+   "title": "2001 North Dakota Session Laws, Chapter 483 (SB 2100)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER483",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1668",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-362",
+   "short": "2001 N.D. Session Laws ch. 362",
+   "title": "2001 North Dakota Session Laws, Chapter 362 (SB 2102)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/NUSNC.pdf#CHAPTER362",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1389",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-290",
+   "short": "2001 N.D. Session Laws ch. 290",
+   "title": "2001 North Dakota Session Laws, Chapter 290 (SB 2105)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/JBRNC.pdf#CHAPTER290",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1062",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-254",
+   "short": "2001 N.D. Session Laws ch. 254",
+   "title": "2001 North Dakota Session Laws, Chapter 254 (SB 2112)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/HIWAY.pdf#CHAPTER254",
+   "versions": [
+    {
+     "from": "2001-03-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=889",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-390",
+   "short": "2001 N.D. Session Laws ch. 390",
+   "title": "2001 North Dakota Session Laws, Chapter 390 (SB 2115)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER390",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1465",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-563",
+   "short": "2001 N.D. Session Laws ch. 563",
+   "title": "2001 North Dakota Session Laws, Chapter 563 (SB 2128)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/WATER.pdf#CHAPTER563",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1953",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-434",
+   "short": "2001 N.D. Session Laws ch. 434",
+   "title": "2001 North Dakota Session Laws, Chapter 434 (SB 2129)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER434",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1561",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-163",
+   "short": "2001 N.D. Session Laws ch. 163",
+   "title": "2001 North Dakota Session Laws, Chapter 163 (SB 2137)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER163",
+   "versions": [
+    {
+     "from": "2001-01-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=538",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-376",
+   "short": "2001 N.D. Session Laws ch. 376",
+   "title": "2001 North Dakota Session Laws, Chapter 376 (SB 2140)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER376",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1426",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-481",
+   "short": "2001 N.D. Session Laws ch. 481",
+   "title": "2001 North Dakota Session Laws, Chapter 481 (SB 2165)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER481",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1666",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-069",
+   "short": "2001 N.D. Session Laws ch. 69",
+   "title": "2001 North Dakota Session Laws, Chapter 69 (SB 2171)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER69",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=197",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-436",
+   "short": "2001 N.D. Session Laws ch. 436",
+   "title": "2001 North Dakota Session Laws, Chapter 436 (SB 2174)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER436",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1564",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-176",
+   "short": "2001 N.D. Session Laws ch. 176",
+   "title": "2001 North Dakota Session Laws, Chapter 176 (SB 2177)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER176",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=583",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-394",
+   "short": "2001 N.D. Session Laws ch. 394",
+   "title": "2001 North Dakota Session Laws, Chapter 394 (SB 2179)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OFFIC.pdf#CHAPTER394",
+   "versions": [
+    {
+     "from": "2001-03-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1478",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-536",
+   "short": "2001 N.D. Session Laws ch. 536",
+   "title": "2001 North Dakota Session Laws, Chapter 536 (SB 2181)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER536",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1886",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-556",
+   "short": "2001 N.D. Session Laws ch. 556",
+   "title": "2001 North Dakota Session Laws, Chapter 556 (SB 2187)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TRSTS.pdf#CHAPTER556",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1942",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-054",
+   "short": "2001 N.D. Session Laws ch. 54",
+   "title": "2001 North Dakota Session Laws, Chapter 54 (SB 2195)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER54",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=155",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-291",
+   "short": "2001 N.D. Session Laws ch. 291",
+   "title": "2001 North Dakota Session Laws, Chapter 291 (SB 2196)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/jcivl.pdf#CHAPTER291",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1064",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-199",
+   "short": "2001 N.D. Session Laws ch. 199",
+   "title": "2001 North Dakota Session Laws, Chapter 199 (SB 2201)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER199",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=731",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-277",
+   "short": "2001 N.D. Session Laws ch. 277",
+   "title": "2001 North Dakota Session Laws, Chapter 277 (SB 2210)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER277",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1017",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-104",
+   "short": "2001 N.D. Session Laws ch. 104",
+   "title": "2001 North Dakota Session Laws, Chapter 104 (SB 2211)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/BANKS.pdf#CHAPTER104",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=312",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-123",
+   "short": "2001 N.D. Session Laws ch. 123",
+   "title": "2001 North Dakota Session Laws, Chapter 123 (SB 2215)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CNTYS.pdf#CHAPTER123",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=405",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-051",
+   "short": "2001 N.D. Session Laws ch. 51",
+   "title": "2001 North Dakota Session Laws, Chapter 51 (SB 2229)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER51",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=152",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-168",
+   "short": "2001 N.D. Session Laws ch. 168",
+   "title": "2001 North Dakota Session Laws, Chapter 168 (SB 2231)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER168",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=545",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-272",
+   "short": "2001 N.D. Session Laws ch. 272",
+   "title": "2001 North Dakota Session Laws, Chapter 272 (SB 2246)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER272",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1010",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-479",
+   "short": "2001 N.D. Session Laws ch. 479",
+   "title": "2001 North Dakota Session Laws, Chapter 479 (SB 2259)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATG.pdf#CHAPTER479",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1662",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-385",
+   "short": "2001 N.D. Session Laws ch. 385",
+   "title": "2001 North Dakota Session Laws, Chapter 385 (SB 2276)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OCCPT.pdf#CHAPTER385",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1451",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-303",
+   "short": "2001 N.D. Session Laws ch. 303",
+   "title": "2001 North Dakota Session Laws, Chapter 303 (SB 2280)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/JREMD.pdf#CHAPTER303",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1138",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-151",
+   "short": "2001 N.D. Session Laws ch. 151",
+   "title": "2001 North Dakota Session Laws, Chapter 151 (SB 2281)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/DOMRP.pdf#CHAPTER151",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=496",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-083",
+   "short": "2001 N.D. Session Laws ch. 83",
+   "title": "2001 North Dakota Session Laws, Chapter 83 (SB 2282)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/AGRIC.pdf#CHAPTER83",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=239",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-566",
+   "short": "2001 N.D. Session Laws ch. 566",
+   "title": "2001 North Dakota Session Laws, Chapter 566 (SB 2287)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/WATER.pdf#CHAPTER566",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1958",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-281",
+   "short": "2001 N.D. Session Laws ch. 281",
+   "title": "2001 North Dakota Session Laws, Chapter 281 (SB 2288)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER281",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1035",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-328",
+   "short": "2001 N.D. Session Laws ch. 328",
+   "title": "2001 North Dakota Session Laws, Chapter 328 (SB 2289)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER328",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1183",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-438",
+   "short": "2001 N.D. Session Laws ch. 438",
+   "title": "2001 North Dakota Session Laws, Chapter 438 (SB 2307)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER438",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1566",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-105",
+   "short": "2001 N.D. Session Laws ch. 105",
+   "title": "2001 North Dakota Session Laws, Chapter 105 (SB 2309)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CRAGE.pdf#CHAPTER105",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=317",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-177",
+   "short": "2001 N.D. Session Laws ch. 177",
+   "title": "2001 North Dakota Session Laws, Chapter 177 (SB 2323)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER177",
+   "versions": [
+    {
+     "from": "2001-03-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=584",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-198",
+   "short": "2001 N.D. Session Laws ch. 198",
+   "title": "2001 North Dakota Session Laws, Chapter 198 (SB 2324)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER198",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=730",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-282",
+   "short": "2001 N.D. Session Laws ch. 282",
+   "title": "2001 North Dakota Session Laws, Chapter 282 (SB 2330)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/INSUR.pdf#CHAPTER282",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1036",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-457",
+   "short": "2001 N.D. Session Laws ch. 457",
+   "title": "2001 North Dakota Session Laws, Chapter 457 (SB 2337)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SOCIL.pdf#CHAPTER457",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1609",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-304",
+   "short": "2001 N.D. Session Laws ch. 304",
+   "title": "2001 North Dakota Session Laws, Chapter 304 (SB 2340)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/JREMD.pdf#CHAPTER304",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1139",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-052",
+   "short": "2001 N.D. Session Laws ch. 52",
+   "title": "2001 North Dakota Session Laws, Chapter 52 (SB 2342)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/APPRO.pdf#CHAPTER52",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=153",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-399",
+   "short": "2001 N.D. Session Laws ch. 399",
+   "title": "2001 North Dakota Session Laws, Chapter 399 (SB 2344)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/OFFIC.pdf#CHAPTER399",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1486",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-437",
+   "short": "2001 N.D. Session Laws ch. 437",
+   "title": "2001 North Dakota Session Laws, Chapter 437 (SB 2354)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER437",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1565",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-444",
+   "short": "2001 N.D. Session Laws ch. 444",
+   "title": "2001 North Dakota Session Laws, Chapter 444 (SB 2370)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SALES.pdf#CHAPTER444",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1577",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-412",
+   "short": "2001 N.D. Session Laws ch. 412",
+   "title": "2001 North Dakota Session Laws, Chapter 412 (SB 2375)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PBLDG.pdf#CHAPTER412",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1506",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-114",
+   "short": "2001 N.D. Session Laws ch. 114",
+   "title": "2001 North Dakota Session Laws, Chapter 114 (SB 2379)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/CORPS.pdf#CHAPTER114",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=387",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-250",
+   "short": "2001 N.D. Session Laws ch. 250",
+   "title": "2001 North Dakota Session Laws, Chapter 250 (SB 2380)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/HELTH.pdf#CHAPTER250",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=880",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-285",
+   "short": "2001 N.D. Session Laws ch. 285",
+   "title": "2001 North Dakota Session Laws, Chapter 285 (SB 2383)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/JBRNC.pdf#CHAPTER285",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1040",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-287",
+   "short": "2001 N.D. Session Laws ch. 287",
+   "title": "2001 North Dakota Session Laws, Chapter 287 (SB 2396)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/JBRNC.pdf#CHAPTER287",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1047",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-428",
+   "short": "2001 N.D. Session Laws ch. 428",
+   "title": "2001 North Dakota Session Laws, Chapter 428 (SB 2403)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/PWELF.pdf#CHAPTER428",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1533",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-347",
+   "short": "2001 N.D. Session Laws ch. 347",
+   "title": "2001 North Dakota Session Laws, Chapter 347 (SB 2406)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/MTRVH.pdf#CHAPTER347",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1241",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-465",
+   "short": "2001 N.D. Session Laws ch. 465",
+   "title": "2001 North Dakota Session Laws, Chapter 465 (SB 2407)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/SPRTS.pdf#CHAPTER465",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1637",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-183",
+   "short": "2001 N.D. Session Laws ch. 183",
+   "title": "2001 North Dakota Session Laws, Chapter 183 (SB 2412)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/EDUCA.pdf#CHAPTER183",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=690",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-558",
+   "short": "2001 N.D. Session Laws ch. 558",
+   "title": "2001 North Dakota Session Laws, Chapter 558 (SB 2413)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/WAREH.pdf#CHAPTER558",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1946",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-504",
+   "short": "2001 N.D. Session Laws ch. 504",
+   "title": "2001 North Dakota Session Laws, Chapter 504 (SB 2420)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/STATH.pdf#CHAPTER504",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1783",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-551",
+   "short": "2001 N.D. Session Laws ch. 551",
+   "title": "2001 North Dakota Session Laws, Chapter 551 (SB 2428)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER551",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1933",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-085",
+   "short": "2001 N.D. Session Laws ch. 85",
+   "title": "2001 North Dakota Session Laws, Chapter 85 (SB 2441)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/ALCBV.pdf#CHAPTER85",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=248",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-217",
+   "short": "2001 N.D. Session Laws ch. 217",
+   "title": "2001 North Dakota Session Laws, Chapter 217 (SB 2445)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/FOODS.pdf#CHAPTER217",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=793",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-552",
+   "short": "2001 N.D. Session Laws ch. 552",
+   "title": "2001 North Dakota Session Laws, Chapter 552 (SB 2448)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER552",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1934",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2001-ch-542",
+   "short": "2001 N.D. Session Laws ch. 542",
+   "title": "2001 North Dakota Session Laws, Chapter 542 (SB 2455)",
+   "url": "https://ndlegis.gov/assembly/57-2001/session-laws/documents/TAXES.pdf#CHAPTER542",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/57-2001/session-laws/sl2001.pdf#page=1901",
+     "sha256": "8056423b2a1a6ca9ae507e8fbd80b91fb1d5b2715906bf2c4db72fe73fe6936c"
+    }
+   ]
+  }
+ ]
+}
