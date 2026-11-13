@@ -1,0 +1,7 @@
+# 2013 North Dakota Session Laws, Chapter 107 (HB 1280)
+
+2013 N.D. Session Laws ch. 107 · 1 versions, from 2013-08-01 (latest in force: 2013-08-01) · <https://ndlegis.gov/assembly/63-2013/session-laws/documents/CRMLC.pdf#CHAPTER107>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| HB 1280 | [text.md](text.md) | 0 |  |

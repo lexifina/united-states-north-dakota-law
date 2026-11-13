@@ -39321,6 +39321,1434 @@
      "sha256": "701ff235ecd0c4ed48880ad180abce1d8769647ebb38033d4d4af0c5bc1b6cce"
     }
    ]
+  },
+  {
+   "slug": "session-law-2013-ch-023",
+   "short": "2013 N.D. Session Laws ch. 23",
+   "title": "2013 North Dakota Session Laws, Chapter 23 (HB 1023)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER23",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=134",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-216",
+   "short": "2013 N.D. Session Laws ch. 216",
+   "title": "2013 North Dakota Session Laws, Chapter 216 (HB 1030)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/HELTH.pdf#CHAPTER216",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=820",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-221",
+   "short": "2013 N.D. Session Laws ch. 221",
+   "title": "2013 North Dakota Session Laws, Chapter 221 (HB 1033)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/HIWAY.pdf#CHAPTER221",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=836",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-415",
+   "short": "2013 N.D. Session Laws ch. 415",
+   "title": "2013 North Dakota Session Laws, Chapter 415 (HB 1034)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER415",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1406",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-024",
+   "short": "2013 N.D. Session Laws ch. 24",
+   "title": "2013 North Dakota Session Laws, Chapter 24 (HB 1041)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER24",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=136",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-315",
+   "short": "2013 N.D. Session Laws ch. 315",
+   "title": "2013 North Dakota Session Laws, Chapter 315 (HB 1046)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MUNIC.pdf#CHAPTER315",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1150",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-416",
+   "short": "2013 N.D. Session Laws ch. 416",
+   "title": "2013 North Dakota Session Laws, Chapter 416 (HB 1051)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER416",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1407",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-220",
+   "short": "2013 N.D. Session Laws ch. 220",
+   "title": "2013 North Dakota Session Laws, Chapter 220 (HB 1066)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/HIWAY.pdf#CHAPTER220",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=835",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-182",
+   "short": "2013 N.D. Session Laws ch. 182",
+   "title": "2013 North Dakota Session Laws, Chapter 182 (HB 1072)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/FOODS.pdf#CHAPTER182",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=702",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-239",
+   "short": "2013 N.D. Session Laws ch. 239",
+   "title": "2013 North Dakota Session Laws, Chapter 239 (HB 1073)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/JBRNG.pdf#CHAPTER239",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=885",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-203",
+   "short": "2013 N.D. Session Laws ch. 203",
+   "title": "2013 North Dakota Session Laws, Chapter 203 (HB 1088)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/HELTH.pdf#CHAPTER203",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=795",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-445",
+   "short": "2013 N.D. Session Laws ch. 445",
+   "title": "2013 North Dakota Session Laws, Chapter 445 (HB 1107)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/TAXES.pdf#CHAPTER445",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1495",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-286",
+   "short": "2013 N.D. Session Laws ch. 286",
+   "title": "2013 North Dakota Session Laws, Chapter 286 (HB 1122)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MTRVH.pdf#CHAPTER286",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1014",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-302",
+   "short": "2013 N.D. Session Laws ch. 302",
+   "title": "2013 North Dakota Session Laws, Chapter 302 (HB 1123)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MTRVH.pdf#CHAPTER302",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1130",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-304",
+   "short": "2013 N.D. Session Laws ch. 304",
+   "title": "2013 North Dakota Session Laws, Chapter 304 (HB 1124)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MTRVH.pdf#CHAPTER304",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1132",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-197",
+   "short": "2013 N.D. Session Laws ch. 197",
+   "title": "2013 North Dakota Session Laws, Chapter 197 (HB 1130)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/GAME.pdf#CHAPTER197",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=787",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-417",
+   "short": "2013 N.D. Session Laws ch. 417",
+   "title": "2013 North Dakota Session Laws, Chapter 417 (HB 1132)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER417",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1408",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-025",
+   "short": "2013 N.D. Session Laws ch. 25",
+   "title": "2013 North Dakota Session Laws, Chapter 25 (HB 1135)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER25",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=137",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-309",
+   "short": "2013 N.D. Session Laws ch. 309",
+   "title": "2013 North Dakota Session Laws, Chapter 309 (HB 1152)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MTRVH.pdf#CHAPTER309",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1141",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-353",
+   "short": "2013 N.D. Session Laws ch. 353",
+   "title": "2013 North Dakota Session Laws, Chapter 353 (HB 1162)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/PROPT.pdf#CHAPTER353",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1266",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-339",
+   "short": "2013 N.D. Session Laws ch. 339",
+   "title": "2013 North Dakota Session Laws, Chapter 339 (HB 1186)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/OFFIC.pdf#CHAPTER339",
+   "versions": [
+    {
+     "from": "2013-01-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1238",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-293",
+   "short": "2013 N.D. Session Laws ch. 293",
+   "title": "2013 North Dakota Session Laws, Chapter 293 (HB 1187)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MTRVH.pdf#CHAPTER293",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1060",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-235",
+   "short": "2013 N.D. Session Laws ch. 235",
+   "title": "2013 North Dakota Session Laws, Chapter 235 (HB 1194)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/INSUR.pdf#CHAPTER235",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=861",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-435",
+   "short": "2013 N.D. Session Laws ch. 435",
+   "title": "2013 North Dakota Session Laws, Chapter 435 (HB 1202)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER435",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1459",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-026",
+   "short": "2013 N.D. Session Laws ch. 26",
+   "title": "2013 North Dakota Session Laws, Chapter 26 (HB 1211)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER26",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=138",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-126",
+   "short": "2013 N.D. Session Laws ch. 126",
+   "title": "2013 North Dakota Session Laws, Chapter 126 (HB 1214)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/DOMRP.pdf#CHAPTER126",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=498",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-139",
+   "short": "2013 N.D. Session Laws ch. 139",
+   "title": "2013 North Dakota Session Laws, Chapter 139 (HB 1228)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/EDUCA.pdf#CHAPTER139",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=529",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-065",
+   "short": "2013 N.D. Session Laws ch. 65",
+   "title": "2013 North Dakota Session Laws, Chapter 65 (HB 1247)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/AGRIC.pdf#CHAPTER65",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=263",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-477",
+   "short": "2013 N.D. Session Laws ch. 477",
+   "title": "2013 North Dakota Session Laws, Chapter 477 (HB 1252)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/TWNSH.pdf#CHAPTER477",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1606",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-027",
+   "short": "2013 N.D. Session Laws ch. 27",
+   "title": "2013 North Dakota Session Laws, Chapter 27 (HB 1261)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER27",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=139",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-028",
+   "short": "2013 N.D. Session Laws ch. 28",
+   "title": "2013 North Dakota Session Laws, Chapter 28 (HB 1269)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER28",
+   "versions": [
+    {
+     "from": "2013-02-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=140",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-107",
+   "short": "2013 N.D. Session Laws ch. 107",
+   "title": "2013 North Dakota Session Laws, Chapter 107 (HB 1280)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/CRMLC.pdf#CHAPTER107",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=431",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-135",
+   "short": "2013 N.D. Session Laws ch. 135",
+   "title": "2013 North Dakota Session Laws, Chapter 135 (HB 1281)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/EDUCA.pdf#CHAPTER135",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=509",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-189",
+   "short": "2013 N.D. Session Laws ch. 189",
+   "title": "2013 North Dakota Session Laws, Chapter 189 (HB 1282)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/GAME.pdf#CHAPTER189",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=766",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-029",
+   "short": "2013 N.D. Session Laws ch. 29",
+   "title": "2013 North Dakota Session Laws, Chapter 29 (HB 1289)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER29",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=141",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-152",
+   "short": "2013 N.D. Session Laws ch. 152",
+   "title": "2013 North Dakota Session Laws, Chapter 152 (HB 1296)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/ELEMN.pdf#CHAPTER152",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=577",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-199",
+   "short": "2013 N.D. Session Laws ch. 199",
+   "title": "2013 North Dakota Session Laws, Chapter 199 (HB 1336)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/GAME.pdf#CHAPTER199",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=790",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-129",
+   "short": "2013 N.D. Session Laws ch. 129",
+   "title": "2013 North Dakota Session Laws, Chapter 129 (HB 1338)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/EDUCA.pdf#CHAPTER129",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=501",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-371",
+   "short": "2013 N.D. Session Laws ch. 371",
+   "title": "2013 North Dakota Session Laws, Chapter 371 (HB 1360)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/PWELF.pdf#CHAPTER371",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1309",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-372",
+   "short": "2013 N.D. Session Laws ch. 372",
+   "title": "2013 North Dakota Session Laws, Chapter 372 (HB 1378)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/PWELF.pdf#CHAPTER372",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1310",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-345",
+   "short": "2013 N.D. Session Laws ch. 345",
+   "title": "2013 North Dakota Session Laws, Chapter 345 (HB 1399)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/PROPT.pdf#CHAPTER345",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1255",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-030",
+   "short": "2013 N.D. Session Laws ch. 30",
+   "title": "2013 North Dakota Session Laws, Chapter 30 (HB 1405)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER30",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=142",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-461",
+   "short": "2013 N.D. Session Laws ch. 461",
+   "title": "2013 North Dakota Session Laws, Chapter 461 (HB 1413)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/TAXES.pdf#CHAPTER461",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1547",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-418",
+   "short": "2013 N.D. Session Laws ch. 418",
+   "title": "2013 North Dakota Session Laws, Chapter 418 (HB 1424)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER418",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1409",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-399",
+   "short": "2013 N.D. Session Laws ch. 399",
+   "title": "2013 North Dakota Session Laws, Chapter 399 (HB 1428)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER399",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1373",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-031",
+   "short": "2013 N.D. Session Laws ch. 31",
+   "title": "2013 North Dakota Session Laws, Chapter 31 (HB 1439)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER31",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=143",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-419",
+   "short": "2013 N.D. Session Laws ch. 419",
+   "title": "2013 North Dakota Session Laws, Chapter 419 (HB 1454)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER419",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1410",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-474",
+   "short": "2013 N.D. Session Laws ch. 474",
+   "title": "2013 North Dakota Session Laws, Chapter 474 (SB 2048)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/TAXES.pdf#CHAPTER474",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1602",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-086",
+   "short": "2013 N.D. Session Laws ch. 86",
+   "title": "2013 North Dakota Session Laws, Chapter 86 (SB 2057)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/BANKS.pdf#CHAPTER86",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=357",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-209",
+   "short": "2013 N.D. Session Laws ch. 209",
+   "title": "2013 North Dakota Session Laws, Chapter 209 (SB 2065)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/HELTH.pdf#CHAPTER209",
+   "versions": [
+    {
+     "from": "2013-04-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=806",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-226",
+   "short": "2013 N.D. Session Laws ch. 226",
+   "title": "2013 North Dakota Session Laws, Chapter 226 (SB 2069)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MENTL.pdf#CHAPTER226",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=844",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-420",
+   "short": "2013 N.D. Session Laws ch. 420",
+   "title": "2013 North Dakota Session Laws, Chapter 420 (SB 2078)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER420",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1411",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-407",
+   "short": "2013 N.D. Session Laws ch. 407",
+   "title": "2013 North Dakota Session Laws, Chapter 407 (SB 2079)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER407",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1390",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-337",
+   "short": "2013 N.D. Session Laws ch. 337",
+   "title": "2013 North Dakota Session Laws, Chapter 337 (SB 2113)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/OFFIC.pdf#CHAPTER337",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1233",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-421",
+   "short": "2013 N.D. Session Laws ch. 421",
+   "title": "2013 North Dakota Session Laws, Chapter 421 (SB 2124)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER421",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1412",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-201",
+   "short": "2013 N.D. Session Laws ch. 201",
+   "title": "2013 North Dakota Session Laws, Chapter 201 (SB 2143)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/GVGIN.pdf#CHAPTER201",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=792",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-066",
+   "short": "2013 N.D. Session Laws ch. 66",
+   "title": "2013 North Dakota Session Laws, Chapter 66 (SB 2146)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/AGRIC.pdf#CHAPTER66",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=264",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-131",
+   "short": "2013 N.D. Session Laws ch. 131",
+   "title": "2013 North Dakota Session Laws, Chapter 131 (SB 2160)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/EDUCA.pdf#CHAPTER131",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=503",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-359",
+   "short": "2013 N.D. Session Laws ch. 359",
+   "title": "2013 North Dakota Session Laws, Chapter 359 (SB 2174)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/PUTIL.pdf#CHAPTER359",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1279",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-056",
+   "short": "2013 N.D. Session Laws ch. 56",
+   "title": "2013 North Dakota Session Laws, Chapter 56 (SB 2176)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER56",
+   "versions": [
+    {
+     "from": "2013-02-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=242",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-503",
+   "short": "2013 N.D. Session Laws ch. 503",
+   "title": "2013 North Dakota Session Laws, Chapter 503 (SB 2178)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/WRKRS.pdf#CHAPTER503",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1682",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-476",
+   "short": "2013 N.D. Session Laws ch. 476",
+   "title": "2013 North Dakota Session Laws, Chapter 476 (SB 2180)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/TWNSH.pdf#CHAPTER476",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1605",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-320",
+   "short": "2013 N.D. Session Laws ch. 320",
+   "title": "2013 North Dakota Session Laws, Chapter 320 (SB 2184)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/OCCPT.pdf#CHAPTER320",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1161",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-391",
+   "short": "2013 N.D. Session Laws ch. 391",
+   "title": "2013 North Dakota Session Laws, Chapter 391 (SB 2185)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/SOCIL.pdf#CHAPTER391",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1357",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-225",
+   "short": "2013 N.D. Session Laws ch. 225",
+   "title": "2013 North Dakota Session Laws, Chapter 225 (SB 2198)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MENTL.pdf#CHAPTER225",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=842",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-057",
+   "short": "2013 N.D. Session Laws ch. 57",
+   "title": "2013 North Dakota Session Laws, Chapter 57 (SB 2205)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER57",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=244",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-264",
+   "short": "2013 N.D. Session Laws ch. 264",
+   "title": "2013 North Dakota Session Laws, Chapter 264 (SB 2210)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MLTRY.pdf#CHAPTER264",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=973",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-437",
+   "short": "2013 N.D. Session Laws ch. 437",
+   "title": "2013 North Dakota Session Laws, Chapter 437 (SB 2218)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER437",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1461",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-422",
+   "short": "2013 N.D. Session Laws ch. 422",
+   "title": "2013 North Dakota Session Laws, Chapter 422 (SB 2234)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER422",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1413",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-058",
+   "short": "2013 N.D. Session Laws ch. 58",
+   "title": "2013 North Dakota Session Laws, Chapter 58 (SB 2238)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER58",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=245",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-423",
+   "short": "2013 N.D. Session Laws ch. 423",
+   "title": "2013 North Dakota Session Laws, Chapter 423 (SB 2243)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER423",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1414",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-424",
+   "short": "2013 N.D. Session Laws ch. 424",
+   "title": "2013 North Dakota Session Laws, Chapter 424 (SB 2244)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER424",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1415",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-059",
+   "short": "2013 N.D. Session Laws ch. 59",
+   "title": "2013 North Dakota Session Laws, Chapter 59 (SB 2267)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER59",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=247",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-243",
+   "short": "2013 N.D. Session Laws ch. 243",
+   "title": "2013 North Dakota Session Laws, Chapter 243 (SB 2272)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/JBRNG.pdf#CHAPTER243",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=889",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-425",
+   "short": "2013 N.D. Session Laws ch. 425",
+   "title": "2013 North Dakota Session Laws, Chapter 425 (SB 2279)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER425",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1416",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-155",
+   "short": "2013 N.D. Session Laws ch. 155",
+   "title": "2013 North Dakota Session Laws, Chapter 155 (SB 2306)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/ELEMN.pdf#CHAPTER155",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=583",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-426",
+   "short": "2013 N.D. Session Laws ch. 426",
+   "title": "2013 North Dakota Session Laws, Chapter 426 (SB 2339)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER426",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1417",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-427",
+   "short": "2013 N.D. Session Laws ch. 427",
+   "title": "2013 North Dakota Session Laws, Chapter 427 (SB 2340)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER427",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1418",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-060",
+   "short": "2013 N.D. Session Laws ch. 60",
+   "title": "2013 North Dakota Session Laws, Chapter 60 (SB 2344)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER60",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=249",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-170",
+   "short": "2013 N.D. Session Laws ch. 170",
+   "title": "2013 North Dakota Session Laws, Chapter 170 (SB 2347)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/ELECT.pdf#CHAPTER170",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=635",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-067",
+   "short": "2013 N.D. Session Laws ch. 67",
+   "title": "2013 North Dakota Session Laws, Chapter 67 (SB 2352)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/AGRIC.pdf#CHAPTER67",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=265",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-273",
+   "short": "2013 N.D. Session Laws ch. 273",
+   "title": "2013 North Dakota Session Laws, Chapter 273 (SB 2353)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/MLTRY.pdf#CHAPTER273",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=987",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-061",
+   "short": "2013 N.D. Session Laws ch. 61",
+   "title": "2013 North Dakota Session Laws, Chapter 61 (SB 2354)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/APPRO.pdf#CHAPTER61",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=250",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2013-ch-428",
+   "short": "2013 N.D. Session Laws ch. 428",
+   "title": "2013 North Dakota Session Laws, Chapter 428 (SB 2375)",
+   "url": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/STATG.pdf#CHAPTER428",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://ndlegis.gov/assembly/63-2013/session-laws/sl2013.pdf#page=1419",
+     "sha256": "310f52d52aa591ac47341e4ba91478dd51aaec24677b3931c28a0d721ec197e6"
+    }
+   ]
   }
  ]
 }
