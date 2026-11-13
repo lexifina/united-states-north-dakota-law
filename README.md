@@ -1,10 +1,5 @@
 # United States (North Dakota): law history in git
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="North Dakota law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
-</picture>
-
 Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 | Records | Acts | History |
@@ -14,9 +9,10 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 | 2023 session laws | 118 | Enacted-form versions |
 | 2021 session laws | 83 | Enacted-form versions |
 | 2019 session laws | 76 | Enacted-form versions |
-| 2017 session laws | 59 | Enacted-form versions; individual official effective dates |
+| 2017 session laws | 59 | Enacted-form versions |
+| 2015 session laws | 94 | Enacted-form versions; individual official effective dates |
 
-The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. Approval and filing dates remain in the text. The [official effective-date table](https://ndlegis.gov/sites/default/files/resource/65-2017/effective-dates-legislation/2017-effective-dates-legislation.pdf) supplies individual bill effective dates.
+The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. Approval and filing dates remain in the text. The [official effective-date table](https://ndlegis.gov/sites/default/files/resource/64-2015/effective-dates-legislation/2015-effective-dates-legislation.pdf) supplies individual bill effective dates.
 
 Coverage and consolidated histories remain incomplete. Bills with deletion markup, complex commencement, vetoes, uncertain tables, images or extraction disagreements are held. No reconstructed or corrected OCR text is included.
 
