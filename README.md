@@ -19,8 +19,9 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 | 2001 session laws | 152 | Enacted-form versions; individual official effective dates |
 | 1999 session laws | 120 | Enacted-form versions; individual official effective dates |
 | 1997 session laws | 103 | Enacted-form versions; individual official effective dates |
+| 2023 special session laws | 4 | Enacted-form versions; effective on official filing date |
 
-The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. Approval and filing dates remain in the text. The [official effective-date table](https://ndlegis.gov/sites/default/files/resource/55-1997/effective-dates-legislation/1997effectivedatesoflegislation.pdf) supplies individual bill effective dates.
+The [North Dakota Legislative Council](https://ndlegis.gov/) publishes these official texts. Session laws reproduce the enacted form, separately from consolidated Century Code chapters. These added chapters state that they become effective immediately upon filing with the secretary of state; the filing date is printed in each chapter.
 
 Coverage and consolidated histories remain incomplete. Bills with deletion markup, complex commencement, vetoes, uncertain tables, images or extraction disagreements are held. No reconstructed or corrected OCR text is included.
 

@@ -24,6 +24,8 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Effective Dates of 2001 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/57-2001/effective-dates-legislation/2001effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
 | 1999 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/56-1999/session-laws/sl1999.pdf> | 2026-11-13 | Official legislative texts; public domain. |
 | Effective Dates of 1999 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/56-1999/effective-dates-legislation/effective-dates-1999-legislation.pdf> | 2026-11-13 | Official legislative information. |
+| 1997 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/55-1997/session-laws/sl1997.pdf> | 2026-11-13 | Official legislative texts; public domain. |
+| Effective Dates of 1997 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/55-1997/effective-dates-legislation/1997effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
 | 2025 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2025-26 Legislation (North Dakota Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/69-2025/effective-dates-legislation/25.9565.03000.pdf> | 2026-11-11 | Official legislative information. |
 | 2023 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/68-2023/session-laws/sl2023.pdf> | 2026-11-11 | Official legislative texts; public domain. |
@@ -34,8 +36,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Effective Dates of 2019 Legislation (Legislative Council, June 2019) | <https://ndlegis.gov/sites/default/files/resource/66-2019/effective-dates-legislation/2019-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
 | 2017 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/65-2017/session-laws/sl2017.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2017 Legislation (Legislative Council, August 2018) | <https://ndlegis.gov/sites/default/files/resource/65-2017/effective-dates-legislation/2017-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
-| 1997 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/55-1997/session-laws/sl1997.pdf> | 2026-11-13 | Official legislative texts; public domain. |
-| Effective Dates of 1997 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/55-1997/effective-dates-legislation/1997effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
+| 2023 North Dakota Special Session Laws, official full book | <https://ndlegis.gov/assembly/68-2023/special/session-laws/sl2023ss.pdf> | 2026-11-13 | Official legislative texts; public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2678,6 +2679,109 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-1999-ch-371` | 1999 North Dakota Session Laws, Chapter 371 (SB 2426) | 1 | 1999-08-01 to 1999-08-01 |
 | `session-law-1999-ch-409` | 1999 North Dakota Session Laws, Chapter 409 (SB 2435) | 1 | 1999-08-01 to 1999-08-01 |
 | `session-law-1999-ch-199` | 1999 North Dakota Session Laws, Chapter 199 (SB 2441) | 1 | 1999-08-01 to 1999-08-01 |
+| `session-law-1997-ch-011` | 1997 North Dakota Session Laws, Chapter 11 (HB 1011) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-014` | 1997 North Dakota Session Laws, Chapter 14 (HB 1014) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-029` | 1997 North Dakota Session Laws, Chapter 29 (HB 1431) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-037` | 1997 North Dakota Session Laws, Chapter 37 (SB 2008) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-053` | 1997 North Dakota Session Laws, Chapter 53 (SB 2365) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-055` | 1997 North Dakota Session Laws, Chapter 55 (SB 2145) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-056` | 1997 North Dakota Session Laws, Chapter 56 (HB 1305) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-060` | 1997 North Dakota Session Laws, Chapter 60 (HB 1436) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-072` | 1997 North Dakota Session Laws, Chapter 72 (HB 1433) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-073` | 1997 North Dakota Session Laws, Chapter 73 (SB 2315) | 1 | 1998-01-01 to 1998-01-01 |
+| `session-law-1997-ch-075` | 1997 North Dakota Session Laws, Chapter 75 (SB 2106) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-083` | 1997 North Dakota Session Laws, Chapter 83 (SB 2146) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-087` | 1997 North Dakota Session Laws, Chapter 87 (SB 2169) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-091` | 1997 North Dakota Session Laws, Chapter 91 (HB 1463) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-097` | 1997 North Dakota Session Laws, Chapter 97 (SB 2086) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-104` | 1997 North Dakota Session Laws, Chapter 104 (SB 2373) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-106` | 1997 North Dakota Session Laws, Chapter 106 (HB 1392) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-110` | 1997 North Dakota Session Laws, Chapter 110 (SB 2370) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-120` | 1997 North Dakota Session Laws, Chapter 120 (HB 1373) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-126` | 1997 North Dakota Session Laws, Chapter 126 (HB 1387) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-129` | 1997 North Dakota Session Laws, Chapter 129 (HB 1079) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-135` | 1997 North Dakota Session Laws, Chapter 135 (HB 1089) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-140` | 1997 North Dakota Session Laws, Chapter 140 (SB 2221) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-142` | 1997 North Dakota Session Laws, Chapter 142 (SB 2135) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-144` | 1997 North Dakota Session Laws, Chapter 144 (SB 2181) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-149` | 1997 North Dakota Session Laws, Chapter 149 (SB 2167) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-151` | 1997 North Dakota Session Laws, Chapter 151 (SB 2357) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-154` | 1997 North Dakota Session Laws, Chapter 154 (HB 1381) | 1 | 1997-03-26 to 1997-03-26 |
+| `session-law-1997-ch-166` | 1997 North Dakota Session Laws, Chapter 166 (HB 1337) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-167` | 1997 North Dakota Session Laws, Chapter 167 (HB 1216) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-177` | 1997 North Dakota Session Laws, Chapter 177 (SB 2029) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-178` | 1997 North Dakota Session Laws, Chapter 178 (HB 1393) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-181` | 1997 North Dakota Session Laws, Chapter 181 (HB 1169) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-184` | 1997 North Dakota Session Laws, Chapter 184 (HB 1402) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-196` | 1997 North Dakota Session Laws, Chapter 196 (SB 2225) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-214` | 1997 North Dakota Session Laws, Chapter 214 (HB 1214) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-215` | 1997 North Dakota Session Laws, Chapter 215 (SB 2137) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-216` | 1997 North Dakota Session Laws, Chapter 216 (HB 1396) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-217` | 1997 North Dakota Session Laws, Chapter 217 (HB 1302) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-226` | 1997 North Dakota Session Laws, Chapter 226 (SB 2170) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-239` | 1997 North Dakota Session Laws, Chapter 239 (SB 2333) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-242` | 1997 North Dakota Session Laws, Chapter 242 (SB 2059) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-243` | 1997 North Dakota Session Laws, Chapter 243 (HB 1047) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-245` | 1997 North Dakota Session Laws, Chapter 245 (SB 2165) | 1 | 1997-03-21 to 1997-03-21 |
+| `session-law-1997-ch-246` | 1997 North Dakota Session Laws, Chapter 246 (HB 1287) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-248` | 1997 North Dakota Session Laws, Chapter 248 (HB 1418) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-252` | 1997 North Dakota Session Laws, Chapter 252 (HB 1259) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-254` | 1997 North Dakota Session Laws, Chapter 254 (HB 1428) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-256` | 1997 North Dakota Session Laws, Chapter 256 (SB 2115) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-257` | 1997 North Dakota Session Laws, Chapter 257 (SB 2194) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-259` | 1997 North Dakota Session Laws, Chapter 259 (HB 1249) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-261` | 1997 North Dakota Session Laws, Chapter 261 (SB 2396) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-262` | 1997 North Dakota Session Laws, Chapter 262 (HB 1453) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-264` | 1997 North Dakota Session Laws, Chapter 264 (HB 1064) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-266` | 1997 North Dakota Session Laws, Chapter 266 (HB 1306) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-267` | 1997 North Dakota Session Laws, Chapter 267 (HB 1045) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-269` | 1997 North Dakota Session Laws, Chapter 269 (SB 2030) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-273` | 1997 North Dakota Session Laws, Chapter 273 (HB 1351) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-278` | 1997 North Dakota Session Laws, Chapter 278 (HB 1042) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-280` | 1997 North Dakota Session Laws, Chapter 280 (SB 2112) | 1 | 1997-04-10 to 1997-04-10 |
+| `session-law-1997-ch-288` | 1997 North Dakota Session Laws, Chapter 288 (HB 1176) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-305` | 1997 North Dakota Session Laws, Chapter 305 (SB 2198) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-307` | 1997 North Dakota Session Laws, Chapter 307 (SB 2248) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-308` | 1997 North Dakota Session Laws, Chapter 308 (HB 1182) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-312` | 1997 North Dakota Session Laws, Chapter 312 (HB 1314) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-321` | 1997 North Dakota Session Laws, Chapter 321 (SB 2035) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-345` | 1997 North Dakota Session Laws, Chapter 345 (HB 1083) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-348` | 1997 North Dakota Session Laws, Chapter 348 (SB 2264) | 1 | 1997-03-26 to 1997-03-26 |
+| `session-law-1997-ch-355` | 1997 North Dakota Session Laws, Chapter 355 (SB 2199) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-383` | 1997 North Dakota Session Laws, Chapter 383 (HB 1124) | 1 | 1997-01-31 to 1997-01-31 |
+| `session-law-1997-ch-387` | 1997 North Dakota Session Laws, Chapter 387 (HB 1424) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-390` | 1997 North Dakota Session Laws, Chapter 390 (HB 1344) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-391` | 1997 North Dakota Session Laws, Chapter 391 (SB 2238) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-392` | 1997 North Dakota Session Laws, Chapter 392 (HB 1113) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-407` | 1997 North Dakota Session Laws, Chapter 407 (HB 1470) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-411` | 1997 North Dakota Session Laws, Chapter 411 (SB 2307) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-413` | 1997 North Dakota Session Laws, Chapter 413 (HB 1039) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-416` | 1997 North Dakota Session Laws, Chapter 416 (HB 1225) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-417` | 1997 North Dakota Session Laws, Chapter 417 (HB 1181) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-418` | 1997 North Dakota Session Laws, Chapter 418 (HB 1213) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-420` | 1997 North Dakota Session Laws, Chapter 420 (SB 2286) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-422` | 1997 North Dakota Session Laws, Chapter 422 (HB 1242) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-430` | 1997 North Dakota Session Laws, Chapter 430 (SB 2150) | 1 | 1997-03-26 to 1997-03-26 |
+| `session-law-1997-ch-431` | 1997 North Dakota Session Laws, Chapter 431 (HB 1081) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-434` | 1997 North Dakota Session Laws, Chapter 434 (SB 2053) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-436` | 1997 North Dakota Session Laws, Chapter 436 (SB 2213) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-438` | 1997 North Dakota Session Laws, Chapter 438 (SB 2057) | 1 | 1997-04-02 to 1997-04-02 |
+| `session-law-1997-ch-441` | 1997 North Dakota Session Laws, Chapter 441 (SB 2187) | 1 | 1997-03-25 to 1997-03-25 |
+| `session-law-1997-ch-446` | 1997 North Dakota Session Laws, Chapter 446 (SB 2347) | 1 | 1997-02-17 to 1997-02-17 |
+| `session-law-1997-ch-451` | 1997 North Dakota Session Laws, Chapter 451 (HB 1183) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-458` | 1997 North Dakota Session Laws, Chapter 458 (HB 1237) | 1 | 1997-03-24 to 1997-03-24 |
+| `session-law-1997-ch-460` | 1997 North Dakota Session Laws, Chapter 460 (HB 1125) | 1 | 1997-07-01 to 1997-07-01 |
+| `session-law-1997-ch-465` | 1997 North Dakota Session Laws, Chapter 465 (HB 1138) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-470` | 1997 North Dakota Session Laws, Chapter 470 (SB 2399) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-488` | 1997 North Dakota Session Laws, Chapter 488 (SB 2195) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-494` | 1997 North Dakota Session Laws, Chapter 494 (SB 2089) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-501` | 1997 North Dakota Session Laws, Chapter 501 (SB 2155) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-505` | 1997 North Dakota Session Laws, Chapter 505 (SB 2366) | 1 | 1997-04-03 to 1997-04-03 |
+| `session-law-1997-ch-509` | 1997 North Dakota Session Laws, Chapter 509 (HB 1276) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-510` | 1997 North Dakota Session Laws, Chapter 510 (SB 2038) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-512` | 1997 North Dakota Session Laws, Chapter 512 (HB 1073) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-1997-ch-516` | 1997 North Dakota Session Laws, Chapter 516 (SB 2260) | 1 | 1997-04-03 to 1997-04-03 |
+| `session-law-1997-ch-524` | 1997 North Dakota Session Laws, Chapter 524 (SB 2239) | 1 | 1997-08-01 to 1997-08-01 |
 | `session-law-2025-ch-023` | 2025 North Dakota Session Laws, Chapter 23 (HB 1024) | 1 | 2025-04-11 to 2025-04-11 |
 | `session-law-2025-ch-500` | 2025 North Dakota Session Laws, Chapter 500 (HB 1025) | 1 | 2025-07-01 to 2025-07-01 |
 | `session-law-2025-ch-024` | 2025 North Dakota Session Laws, Chapter 24 (HB 1038) | 1 | 2025-02-25 to 2025-02-25 |
@@ -3138,115 +3242,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2017-ch-302` | 2017 North Dakota Session Laws, Chapter 302 (SB 2329) | 1 | 2017-08-01 to 2017-08-01 |
 | `session-law-2017-ch-252` | 2017 North Dakota Session Laws, Chapter 252 (SB 2333) | 1 | 2017-08-01 to 2017-08-01 |
 | `session-law-2017-ch-349` | 2017 North Dakota Session Laws, Chapter 349 (SB 2342) | 1 | 2017-08-01 to 2017-08-01 |
-| `session-law-1997-ch-011` | 1997 North Dakota Session Laws, Chapter 11 (HB 1011) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-014` | 1997 North Dakota Session Laws, Chapter 14 (HB 1014) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-029` | 1997 North Dakota Session Laws, Chapter 29 (HB 1431) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-037` | 1997 North Dakota Session Laws, Chapter 37 (SB 2008) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-053` | 1997 North Dakota Session Laws, Chapter 53 (SB 2365) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-055` | 1997 North Dakota Session Laws, Chapter 55 (SB 2145) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-056` | 1997 North Dakota Session Laws, Chapter 56 (HB 1305) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-060` | 1997 North Dakota Session Laws, Chapter 60 (HB 1436) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-072` | 1997 North Dakota Session Laws, Chapter 72 (HB 1433) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-073` | 1997 North Dakota Session Laws, Chapter 73 (SB 2315) | 1 | 1998-01-01 to 1998-01-01 |
-| `session-law-1997-ch-075` | 1997 North Dakota Session Laws, Chapter 75 (SB 2106) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-083` | 1997 North Dakota Session Laws, Chapter 83 (SB 2146) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-087` | 1997 North Dakota Session Laws, Chapter 87 (SB 2169) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-091` | 1997 North Dakota Session Laws, Chapter 91 (HB 1463) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-097` | 1997 North Dakota Session Laws, Chapter 97 (SB 2086) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-104` | 1997 North Dakota Session Laws, Chapter 104 (SB 2373) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-106` | 1997 North Dakota Session Laws, Chapter 106 (HB 1392) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-110` | 1997 North Dakota Session Laws, Chapter 110 (SB 2370) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-120` | 1997 North Dakota Session Laws, Chapter 120 (HB 1373) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-126` | 1997 North Dakota Session Laws, Chapter 126 (HB 1387) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-129` | 1997 North Dakota Session Laws, Chapter 129 (HB 1079) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-135` | 1997 North Dakota Session Laws, Chapter 135 (HB 1089) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-140` | 1997 North Dakota Session Laws, Chapter 140 (SB 2221) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-142` | 1997 North Dakota Session Laws, Chapter 142 (SB 2135) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-144` | 1997 North Dakota Session Laws, Chapter 144 (SB 2181) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-149` | 1997 North Dakota Session Laws, Chapter 149 (SB 2167) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-151` | 1997 North Dakota Session Laws, Chapter 151 (SB 2357) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-154` | 1997 North Dakota Session Laws, Chapter 154 (HB 1381) | 1 | 1997-03-26 to 1997-03-26 |
-| `session-law-1997-ch-166` | 1997 North Dakota Session Laws, Chapter 166 (HB 1337) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-167` | 1997 North Dakota Session Laws, Chapter 167 (HB 1216) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-177` | 1997 North Dakota Session Laws, Chapter 177 (SB 2029) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-178` | 1997 North Dakota Session Laws, Chapter 178 (HB 1393) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-181` | 1997 North Dakota Session Laws, Chapter 181 (HB 1169) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-184` | 1997 North Dakota Session Laws, Chapter 184 (HB 1402) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-196` | 1997 North Dakota Session Laws, Chapter 196 (SB 2225) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-214` | 1997 North Dakota Session Laws, Chapter 214 (HB 1214) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-215` | 1997 North Dakota Session Laws, Chapter 215 (SB 2137) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-216` | 1997 North Dakota Session Laws, Chapter 216 (HB 1396) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-217` | 1997 North Dakota Session Laws, Chapter 217 (HB 1302) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-226` | 1997 North Dakota Session Laws, Chapter 226 (SB 2170) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-239` | 1997 North Dakota Session Laws, Chapter 239 (SB 2333) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-242` | 1997 North Dakota Session Laws, Chapter 242 (SB 2059) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-243` | 1997 North Dakota Session Laws, Chapter 243 (HB 1047) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-245` | 1997 North Dakota Session Laws, Chapter 245 (SB 2165) | 1 | 1997-03-21 to 1997-03-21 |
-| `session-law-1997-ch-246` | 1997 North Dakota Session Laws, Chapter 246 (HB 1287) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-248` | 1997 North Dakota Session Laws, Chapter 248 (HB 1418) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-252` | 1997 North Dakota Session Laws, Chapter 252 (HB 1259) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-254` | 1997 North Dakota Session Laws, Chapter 254 (HB 1428) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-256` | 1997 North Dakota Session Laws, Chapter 256 (SB 2115) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-257` | 1997 North Dakota Session Laws, Chapter 257 (SB 2194) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-259` | 1997 North Dakota Session Laws, Chapter 259 (HB 1249) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-261` | 1997 North Dakota Session Laws, Chapter 261 (SB 2396) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-262` | 1997 North Dakota Session Laws, Chapter 262 (HB 1453) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-264` | 1997 North Dakota Session Laws, Chapter 264 (HB 1064) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-266` | 1997 North Dakota Session Laws, Chapter 266 (HB 1306) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-267` | 1997 North Dakota Session Laws, Chapter 267 (HB 1045) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-269` | 1997 North Dakota Session Laws, Chapter 269 (SB 2030) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-273` | 1997 North Dakota Session Laws, Chapter 273 (HB 1351) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-278` | 1997 North Dakota Session Laws, Chapter 278 (HB 1042) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-280` | 1997 North Dakota Session Laws, Chapter 280 (SB 2112) | 1 | 1997-04-10 to 1997-04-10 |
-| `session-law-1997-ch-288` | 1997 North Dakota Session Laws, Chapter 288 (HB 1176) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-305` | 1997 North Dakota Session Laws, Chapter 305 (SB 2198) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-307` | 1997 North Dakota Session Laws, Chapter 307 (SB 2248) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-308` | 1997 North Dakota Session Laws, Chapter 308 (HB 1182) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-312` | 1997 North Dakota Session Laws, Chapter 312 (HB 1314) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-321` | 1997 North Dakota Session Laws, Chapter 321 (SB 2035) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-345` | 1997 North Dakota Session Laws, Chapter 345 (HB 1083) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-348` | 1997 North Dakota Session Laws, Chapter 348 (SB 2264) | 1 | 1997-03-26 to 1997-03-26 |
-| `session-law-1997-ch-355` | 1997 North Dakota Session Laws, Chapter 355 (SB 2199) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-383` | 1997 North Dakota Session Laws, Chapter 383 (HB 1124) | 1 | 1997-01-31 to 1997-01-31 |
-| `session-law-1997-ch-387` | 1997 North Dakota Session Laws, Chapter 387 (HB 1424) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-390` | 1997 North Dakota Session Laws, Chapter 390 (HB 1344) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-391` | 1997 North Dakota Session Laws, Chapter 391 (SB 2238) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-392` | 1997 North Dakota Session Laws, Chapter 392 (HB 1113) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-407` | 1997 North Dakota Session Laws, Chapter 407 (HB 1470) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-411` | 1997 North Dakota Session Laws, Chapter 411 (SB 2307) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-413` | 1997 North Dakota Session Laws, Chapter 413 (HB 1039) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-416` | 1997 North Dakota Session Laws, Chapter 416 (HB 1225) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-417` | 1997 North Dakota Session Laws, Chapter 417 (HB 1181) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-418` | 1997 North Dakota Session Laws, Chapter 418 (HB 1213) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-420` | 1997 North Dakota Session Laws, Chapter 420 (SB 2286) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-422` | 1997 North Dakota Session Laws, Chapter 422 (HB 1242) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-430` | 1997 North Dakota Session Laws, Chapter 430 (SB 2150) | 1 | 1997-03-26 to 1997-03-26 |
-| `session-law-1997-ch-431` | 1997 North Dakota Session Laws, Chapter 431 (HB 1081) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-434` | 1997 North Dakota Session Laws, Chapter 434 (SB 2053) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-436` | 1997 North Dakota Session Laws, Chapter 436 (SB 2213) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-438` | 1997 North Dakota Session Laws, Chapter 438 (SB 2057) | 1 | 1997-04-02 to 1997-04-02 |
-| `session-law-1997-ch-441` | 1997 North Dakota Session Laws, Chapter 441 (SB 2187) | 1 | 1997-03-25 to 1997-03-25 |
-| `session-law-1997-ch-446` | 1997 North Dakota Session Laws, Chapter 446 (SB 2347) | 1 | 1997-02-17 to 1997-02-17 |
-| `session-law-1997-ch-451` | 1997 North Dakota Session Laws, Chapter 451 (HB 1183) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-458` | 1997 North Dakota Session Laws, Chapter 458 (HB 1237) | 1 | 1997-03-24 to 1997-03-24 |
-| `session-law-1997-ch-460` | 1997 North Dakota Session Laws, Chapter 460 (HB 1125) | 1 | 1997-07-01 to 1997-07-01 |
-| `session-law-1997-ch-465` | 1997 North Dakota Session Laws, Chapter 465 (HB 1138) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-470` | 1997 North Dakota Session Laws, Chapter 470 (SB 2399) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-488` | 1997 North Dakota Session Laws, Chapter 488 (SB 2195) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-494` | 1997 North Dakota Session Laws, Chapter 494 (SB 2089) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-501` | 1997 North Dakota Session Laws, Chapter 501 (SB 2155) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-505` | 1997 North Dakota Session Laws, Chapter 505 (SB 2366) | 1 | 1997-04-03 to 1997-04-03 |
-| `session-law-1997-ch-509` | 1997 North Dakota Session Laws, Chapter 509 (HB 1276) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-510` | 1997 North Dakota Session Laws, Chapter 510 (SB 2038) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-512` | 1997 North Dakota Session Laws, Chapter 512 (HB 1073) | 1 | 1997-08-01 to 1997-08-01 |
-| `session-law-1997-ch-516` | 1997 North Dakota Session Laws, Chapter 516 (SB 2260) | 1 | 1997-04-03 to 1997-04-03 |
-| `session-law-1997-ch-524` | 1997 North Dakota Session Laws, Chapter 524 (SB 2239) | 1 | 1997-08-01 to 1997-08-01 |
+| `session-law-2023-special-ch-638` | 2023 North Dakota Special Session Laws, Chapter 638 (HOUSE 1543) | 1 | 2023-10-25 to 2023-10-25 |
+| `session-law-2023-special-ch-641` | 2023 North Dakota Special Session Laws, Chapter 641 (SENATE 2394) | 1 | 2023-10-25 to 2023-10-25 |
+| `session-law-2023-special-ch-642` | 2023 North Dakota Special Session Laws, Chapter 642 (SENATE 2395) | 1 | 2023-10-25 to 2023-10-25 |
+| `session-law-2023-special-ch-643` | 2023 North Dakota Special Session Laws, Chapter 643 (HOUSE 1545) | 1 | 2023-10-25 to 2023-10-25 |
 
-The build made 3198 commits:
+The build made 3202 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3198 | baseline texts where the record starts |
+| 3202 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -3256,7 +3261,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 3198 tags.
+- 3202 tags.
 
 ## Dates
 
@@ -3268,7 +3273,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ffd81329f22d29be694363d69c79fff80a952f17a7b0a1e633b3cfd2dd49fdb8` (41325339 bytes).
+- Corpus: sha256 `f66165108f5219bb7c16cb41271414686bd72c6e147f980b91401ea3323a3b20` (41341263 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -3309,6 +3314,9 @@ No second build of this corpus has been compared yet.
 - The 1999 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
+- The 1997 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 - Session-law records are in their enacted form, separately from consolidated Century Code chapters. No amendment reconstruction is claimed.
 - Dates follow individual bill rows in the official October 2026 effective-date table. Bills with footnotes, vetoes, deletion markup, source images or tabular text are held for assessment.
 - Each session law is a single-file act. Source line breaks are retained; whitespace is normalized and running headers and page numbers are excluded.
@@ -3324,9 +3332,8 @@ No second build of this corpus has been compared yet.
 - The 2017 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
-- The 1997 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
-- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
-- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
+- These are enacted-form special-session laws, separate from consolidated Century Code history.
+- Only chapters with an unambiguous immediate-on-filing clause, printed filing date, clean independent extraction, and no detected graphics or deletion markup are included.
 
 ## What AI did and did not do
 
@@ -3338,6 +3345,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
