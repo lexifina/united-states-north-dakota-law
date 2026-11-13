@@ -6,7 +6,7 @@
  "repo": "https://github.com/lexifina/united-states-north-dakota-law",
  "build": "partial",
  "coverage": {
-  "session_laws_2015": 94,
+  "session_laws_2013": 82,
   "history": "enacted-form session laws; current-text code snapshots; incomplete"
  },
  "parent": "united-states"
