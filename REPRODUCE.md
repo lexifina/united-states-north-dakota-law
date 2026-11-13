@@ -14,6 +14,8 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Effective Dates of 2011 Legislation (Legislative Council, June 23, 2011) | <https://ndlegis.gov/sites/default/files/resource/62-2011/effective-dates-legislation/2011effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
 | 2009 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/61-2009/session-laws/sl2009.pdf> | 2026-11-13 | Official legislative texts; public domain. |
 | Effective Dates of 2009 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/61-2009/effective-dates-legislation/2009effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
+| 2007 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/60-2007/session-laws/sl2007.pdf> | 2026-11-13 | Official legislative texts; public domain. |
+| Effective Dates of 2007 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/60-2007/effective-dates-legislation/2007effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
 | 2025 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/69-2025/session-laws/sl2025.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2025-26 Legislation (North Dakota Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/69-2025/effective-dates-legislation/25.9565.03000.pdf> | 2026-11-11 | Official legislative information. |
 | 2023 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/68-2023/session-laws/sl2023.pdf> | 2026-11-11 | Official legislative texts; public domain. |
@@ -24,8 +26,8 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Effective Dates of 2019 Legislation (Legislative Council, June 2019) | <https://ndlegis.gov/sites/default/files/resource/66-2019/effective-dates-legislation/2019-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
 | 2017 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/65-2017/session-laws/sl2017.pdf> | 2026-11-11 | Official legislative texts; public domain. |
 | Effective Dates of 2017 Legislation (Legislative Council, August 2018) | <https://ndlegis.gov/sites/default/files/resource/65-2017/effective-dates-legislation/2017-effective-dates-legislation.pdf> | 2026-11-11 | Official legislative information. |
-| 2007 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/60-2007/session-laws/sl2007.pdf> | 2026-11-13 | Official legislative texts; public domain. |
-| Effective Dates of 2007 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/60-2007/effective-dates-legislation/2007effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
+| 2005 North Dakota Session Laws (official full book) | <https://ndlegis.gov/assembly/59-2005/session-laws/sl2005.pdf> | 2026-11-13 | Official legislative texts; public domain. |
+| Effective Dates of 2005 Legislation (Legislative Council) | <https://ndlegis.gov/sites/default/files/resource/59-2005/effective-dates-legislation/2005effectivedatesoflegislation.pdf> | 2026-11-13 | Official legislative information. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2100,6 +2102,141 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2009-ch-417` | 2009 North Dakota Session Laws, Chapter 417 (SB 2423) | 1 | 2009-08-01 to 2009-08-01 |
 | `session-law-2009-ch-506` | 2009 North Dakota Session Laws, Chapter 506 (SB 2425) | 1 | 2009-08-01 to 2009-08-01 |
 | `session-law-2009-ch-628` | 2009 North Dakota Session Laws, Chapter 628 (SB 2433) | 1 | 2009-08-01 to 2009-08-01 |
+| `session-law-2007-ch-005` | 2007 North Dakota Session Laws, Chapter 5 (HB 1005) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-006` | 2007 North Dakota Session Laws, Chapter 6 (HB 1006) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-008` | 2007 North Dakota Session Laws, Chapter 8 (HB 1008) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-009` | 2007 North Dakota Session Laws, Chapter 9 (HB 1009) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-010` | 2007 North Dakota Session Laws, Chapter 10 (HB 1010) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-011` | 2007 North Dakota Session Laws, Chapter 11 (HB 1011) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-013` | 2007 North Dakota Session Laws, Chapter 13 (HB 1013) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-017` | 2007 North Dakota Session Laws, Chapter 17 (HB 1017) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-022` | 2007 North Dakota Session Laws, Chapter 22 (HB 1022) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-023` | 2007 North Dakota Session Laws, Chapter 23 (HB 1023) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-024` | 2007 North Dakota Session Laws, Chapter 24 (HB 1024) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-103` | 2007 North Dakota Session Laws, Chapter 103 (HB 1029) | 1 | 2007-04-19 to 2007-04-19 |
+| `session-law-2007-ch-129` | 2007 North Dakota Session Laws, Chapter 129 (HB 1040) | 1 | 2007-01-25 to 2007-01-25 |
+| `session-law-2007-ch-312` | 2007 North Dakota Session Laws, Chapter 312 (HB 1048) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-444` | 2007 North Dakota Session Laws, Chapter 444 (HB 1056) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-440` | 2007 North Dakota Session Laws, Chapter 440 (HB 1057) | 1 | 2008-01-01 to 2008-01-01 |
+| `session-law-2007-ch-495` | 2007 North Dakota Session Laws, Chapter 495 (HB 1059) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-317` | 2007 North Dakota Session Laws, Chapter 317 (HB 1063) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-318` | 2007 North Dakota Session Laws, Chapter 318 (HB 1064) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-134` | 2007 North Dakota Session Laws, Chapter 134 (HB 1075) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-074` | 2007 North Dakota Session Laws, Chapter 74 (HB 1082) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-378` | 2007 North Dakota Session Laws, Chapter 378 (HB 1125) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-088` | 2007 North Dakota Session Laws, Chapter 88 (HB 1135) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-537` | 2007 North Dakota Session Laws, Chapter 537 (HB 1138) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-572` | 2007 North Dakota Session Laws, Chapter 572 (HB 1140) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-411` | 2007 North Dakota Session Laws, Chapter 411 (HB 1143) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-249` | 2007 North Dakota Session Laws, Chapter 249 (HB 1154) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-324` | 2007 North Dakota Session Laws, Chapter 324 (HB 1158) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-173` | 2007 North Dakota Session Laws, Chapter 173 (HB 1177) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-216` | 2007 North Dakota Session Laws, Chapter 216 (HB 1184) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-059` | 2007 North Dakota Session Laws, Chapter 59 (HB 1185) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-471` | 2007 North Dakota Session Laws, Chapter 471 (HB 1213) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-137` | 2007 North Dakota Session Laws, Chapter 137 (HB 1219) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-407` | 2007 North Dakota Session Laws, Chapter 407 (HB 1221) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-311` | 2007 North Dakota Session Laws, Chapter 311 (HB 1229) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-397` | 2007 North Dakota Session Laws, Chapter 397 (HB 1231) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-244` | 2007 North Dakota Session Laws, Chapter 244 (HB 1232) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-333` | 2007 North Dakota Session Laws, Chapter 333 (HB 1234) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-025` | 2007 North Dakota Session Laws, Chapter 25 (HB 1246) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-366` | 2007 North Dakota Session Laws, Chapter 366 (HB 1256) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-336` | 2007 North Dakota Session Laws, Chapter 336 (HB 1258) | 1 | 2007-04-10 to 2007-04-10 |
+| `session-law-2007-ch-558` | 2007 North Dakota Session Laws, Chapter 558 (HB 1265) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-229` | 2007 North Dakota Session Laws, Chapter 229 (HB 1290) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-082` | 2007 North Dakota Session Laws, Chapter 82 (HB 1301) | 1 | 2007-03-07 to 2007-03-07 |
+| `session-law-2007-ch-412` | 2007 North Dakota Session Laws, Chapter 412 (HB 1315) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-292` | 2007 North Dakota Session Laws, Chapter 292 (HB 1322) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-284` | 2007 North Dakota Session Laws, Chapter 284 (HB 1333) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-254` | 2007 North Dakota Session Laws, Chapter 254 (HB 1344) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-076` | 2007 North Dakota Session Laws, Chapter 76 (HB 1346) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-540` | 2007 North Dakota Session Laws, Chapter 540 (HB 1348) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-081` | 2007 North Dakota Session Laws, Chapter 81 (HB 1369) | 1 | 2007-03-23 to 2007-03-23 |
+| `session-law-2007-ch-188` | 2007 North Dakota Session Laws, Chapter 188 (HB 1378) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-472` | 2007 North Dakota Session Laws, Chapter 472 (HB 1387) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-419` | 2007 North Dakota Session Laws, Chapter 419 (HB 1390) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-160` | 2007 North Dakota Session Laws, Chapter 160 (HB 1395) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-145` | 2007 North Dakota Session Laws, Chapter 145 (HB 1414) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-487` | 2007 North Dakota Session Laws, Chapter 487 (HB 1432) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-488` | 2007 North Dakota Session Laws, Chapter 488 (HB 1433) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-231` | 2007 North Dakota Session Laws, Chapter 231 (HB 1434) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-230` | 2007 North Dakota Session Laws, Chapter 230 (HB 1435) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-288` | 2007 North Dakota Session Laws, Chapter 288 (HB 1452) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-473` | 2007 North Dakota Session Laws, Chapter 473 (HB 1456) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-232` | 2007 North Dakota Session Laws, Chapter 232 (HB 1471) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-349` | 2007 North Dakota Session Laws, Chapter 349 (HB 1476) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-358` | 2007 North Dakota Session Laws, Chapter 358 (HB 1477) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-474` | 2007 North Dakota Session Laws, Chapter 474 (HB 1479) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-113` | 2007 North Dakota Session Laws, Chapter 113 (HB 1482) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-070` | 2007 North Dakota Session Laws, Chapter 70 (HB 1490) | 1 | 2007-03-06 to 2007-03-06 |
+| `session-law-2007-ch-280` | 2007 North Dakota Session Laws, Chapter 280 (HB 1501) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-116` | 2007 North Dakota Session Laws, Chapter 116 (HB 1504) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-310` | 2007 North Dakota Session Laws, Chapter 310 (HB 1511) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-554` | 2007 North Dakota Session Laws, Chapter 554 (HB 1513) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-462` | 2007 North Dakota Session Laws, Chapter 462 (HB 1515) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-027` | 2007 North Dakota Session Laws, Chapter 27 (HB 1522) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-034` | 2007 North Dakota Session Laws, Chapter 34 (SB 2007) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-038` | 2007 North Dakota Session Laws, Chapter 38 (SB 2011) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-041` | 2007 North Dakota Session Laws, Chapter 41 (SB 2014) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-047` | 2007 North Dakota Session Laws, Chapter 47 (SB 2021) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-048` | 2007 North Dakota Session Laws, Chapter 48 (SB 2022) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-049` | 2007 North Dakota Session Laws, Chapter 49 (SB 2023) | 1 | 2007-05-01 to 2007-05-01 |
+| `session-law-2007-ch-050` | 2007 North Dakota Session Laws, Chapter 50 (SB 2024) | 1 | 2007-02-14 to 2007-02-14 |
+| `session-law-2007-ch-408` | 2007 North Dakota Session Laws, Chapter 408 (SB 2031) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-381` | 2007 North Dakota Session Laws, Chapter 381 (SB 2055) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-376` | 2007 North Dakota Session Laws, Chapter 376 (SB 2056) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-227` | 2007 North Dakota Session Laws, Chapter 227 (SB 2058) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-465` | 2007 North Dakota Session Laws, Chapter 465 (SB 2061) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-380` | 2007 North Dakota Session Laws, Chapter 380 (SB 2062) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-147` | 2007 North Dakota Session Laws, Chapter 147 (SB 2064) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-415` | 2007 North Dakota Session Laws, Chapter 415 (SB 2070) | 1 | 2007-04-10 to 2007-04-10 |
+| `session-law-2007-ch-142` | 2007 North Dakota Session Laws, Chapter 142 (SB 2075) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-524` | 2007 North Dakota Session Laws, Chapter 524 (SB 2083) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-533` | 2007 North Dakota Session Laws, Chapter 533 (SB 2086) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-138` | 2007 North Dakota Session Laws, Chapter 138 (SB 2103) | 1 | 2007-04-27 to 2007-04-27 |
+| `session-law-2007-ch-060` | 2007 North Dakota Session Laws, Chapter 60 (SB 2117) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-426` | 2007 North Dakota Session Laws, Chapter 426 (SB 2131) | 1 | 2007-03-08 to 2007-03-08 |
+| `session-law-2007-ch-427` | 2007 North Dakota Session Laws, Chapter 427 (SB 2132) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-212` | 2007 North Dakota Session Laws, Chapter 212 (SB 2134) | 1 | 2007-04-05 to 2007-04-05 |
+| `session-law-2007-ch-416` | 2007 North Dakota Session Laws, Chapter 416 (SB 2136) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-475` | 2007 North Dakota Session Laws, Chapter 475 (SB 2139) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-452` | 2007 North Dakota Session Laws, Chapter 452 (SB 2145) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-375` | 2007 North Dakota Session Laws, Chapter 375 (SB 2152) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-091` | 2007 North Dakota Session Laws, Chapter 91 (SB 2156) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-051` | 2007 North Dakota Session Laws, Chapter 51 (SB 2161) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-276` | 2007 North Dakota Session Laws, Chapter 276 (SB 2170) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-052` | 2007 North Dakota Session Laws, Chapter 52 (SB 2179) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-083` | 2007 North Dakota Session Laws, Chapter 83 (SB 2182) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-418` | 2007 North Dakota Session Laws, Chapter 418 (SB 2186) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-053` | 2007 North Dakota Session Laws, Chapter 53 (SB 2187) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-409` | 2007 North Dakota Session Laws, Chapter 409 (SB 2188) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-054` | 2007 North Dakota Session Laws, Chapter 54 (SB 2189) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-079` | 2007 North Dakota Session Laws, Chapter 79 (SB 2192) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-297` | 2007 North Dakota Session Laws, Chapter 297 (SB 2193) | 1 | 2007-04-10 to 2007-04-10 |
+| `session-law-2007-ch-225` | 2007 North Dakota Session Laws, Chapter 225 (SB 2201) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-067` | 2007 North Dakota Session Laws, Chapter 67 (SB 2228) | 1 | 2007-04-13 to 2007-04-13 |
+| `session-law-2007-ch-269` | 2007 North Dakota Session Laws, Chapter 269 (SB 2252) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-439` | 2007 North Dakota Session Laws, Chapter 439 (SB 2255) | 1 | 2007-06-01 to 2007-06-01 |
+| `session-law-2007-ch-434` | 2007 North Dakota Session Laws, Chapter 434 (SB 2266) | 1 | 2007-04-05 to 2007-04-05 |
+| `session-law-2007-ch-456` | 2007 North Dakota Session Laws, Chapter 456 (SB 2276) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-109` | 2007 North Dakota Session Laws, Chapter 109 (SB 2278) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-217` | 2007 North Dakota Session Laws, Chapter 217 (SB 2293) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-454` | 2007 North Dakota Session Laws, Chapter 454 (SB 2310) | 1 | 2007-04-10 to 2007-04-10 |
+| `session-law-2007-ch-168` | 2007 North Dakota Session Laws, Chapter 168 (SB 2313) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-479` | 2007 North Dakota Session Laws, Chapter 479 (SB 2321) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-428` | 2007 North Dakota Session Laws, Chapter 428 (SB 2326) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-302` | 2007 North Dakota Session Laws, Chapter 302 (SB 2338) | 1 | 2007-04-11 to 2007-04-11 |
+| `session-law-2007-ch-497` | 2007 North Dakota Session Laws, Chapter 497 (SB 2341) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-372` | 2007 North Dakota Session Laws, Chapter 372 (SB 2343) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-352` | 2007 North Dakota Session Laws, Chapter 352 (SB 2349) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-355` | 2007 North Dakota Session Laws, Chapter 355 (SB 2350) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-395` | 2007 North Dakota Session Laws, Chapter 395 (SB 2364) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-150` | 2007 North Dakota Session Laws, Chapter 150 (SB 2366) | 1 | 2007-04-24 to 2007-04-24 |
+| `session-law-2007-ch-410` | 2007 North Dakota Session Laws, Chapter 410 (SB 2368) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-155` | 2007 North Dakota Session Laws, Chapter 155 (SB 2379) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2007-ch-122` | 2007 North Dakota Session Laws, Chapter 122 (SB 2415) | 1 | 2007-08-01 to 2007-08-01 |
+| `session-law-2007-ch-055` | 2007 North Dakota Session Laws, Chapter 55 (SB 2418) | 1 | 2007-07-01 to 2007-07-01 |
 | `session-law-2025-ch-023` | 2025 North Dakota Session Laws, Chapter 23 (HB 1024) | 1 | 2025-04-11 to 2025-04-11 |
 | `session-law-2025-ch-500` | 2025 North Dakota Session Laws, Chapter 500 (HB 1025) | 1 | 2025-07-01 to 2025-07-01 |
 | `session-law-2025-ch-024` | 2025 North Dakota Session Laws, Chapter 24 (HB 1038) | 1 | 2025-02-25 to 2025-02-25 |
@@ -2560,147 +2697,151 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2017-ch-302` | 2017 North Dakota Session Laws, Chapter 302 (SB 2329) | 1 | 2017-08-01 to 2017-08-01 |
 | `session-law-2017-ch-252` | 2017 North Dakota Session Laws, Chapter 252 (SB 2333) | 1 | 2017-08-01 to 2017-08-01 |
 | `session-law-2017-ch-349` | 2017 North Dakota Session Laws, Chapter 349 (SB 2342) | 1 | 2017-08-01 to 2017-08-01 |
-| `session-law-2007-ch-005` | 2007 North Dakota Session Laws, Chapter 5 (HB 1005) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-006` | 2007 North Dakota Session Laws, Chapter 6 (HB 1006) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-008` | 2007 North Dakota Session Laws, Chapter 8 (HB 1008) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-009` | 2007 North Dakota Session Laws, Chapter 9 (HB 1009) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-010` | 2007 North Dakota Session Laws, Chapter 10 (HB 1010) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-011` | 2007 North Dakota Session Laws, Chapter 11 (HB 1011) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-013` | 2007 North Dakota Session Laws, Chapter 13 (HB 1013) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-017` | 2007 North Dakota Session Laws, Chapter 17 (HB 1017) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-022` | 2007 North Dakota Session Laws, Chapter 22 (HB 1022) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-023` | 2007 North Dakota Session Laws, Chapter 23 (HB 1023) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-024` | 2007 North Dakota Session Laws, Chapter 24 (HB 1024) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-103` | 2007 North Dakota Session Laws, Chapter 103 (HB 1029) | 1 | 2007-04-19 to 2007-04-19 |
-| `session-law-2007-ch-129` | 2007 North Dakota Session Laws, Chapter 129 (HB 1040) | 1 | 2007-01-25 to 2007-01-25 |
-| `session-law-2007-ch-312` | 2007 North Dakota Session Laws, Chapter 312 (HB 1048) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-444` | 2007 North Dakota Session Laws, Chapter 444 (HB 1056) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-440` | 2007 North Dakota Session Laws, Chapter 440 (HB 1057) | 1 | 2008-01-01 to 2008-01-01 |
-| `session-law-2007-ch-495` | 2007 North Dakota Session Laws, Chapter 495 (HB 1059) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-317` | 2007 North Dakota Session Laws, Chapter 317 (HB 1063) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-318` | 2007 North Dakota Session Laws, Chapter 318 (HB 1064) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-134` | 2007 North Dakota Session Laws, Chapter 134 (HB 1075) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-074` | 2007 North Dakota Session Laws, Chapter 74 (HB 1082) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-378` | 2007 North Dakota Session Laws, Chapter 378 (HB 1125) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-088` | 2007 North Dakota Session Laws, Chapter 88 (HB 1135) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-537` | 2007 North Dakota Session Laws, Chapter 537 (HB 1138) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-572` | 2007 North Dakota Session Laws, Chapter 572 (HB 1140) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-411` | 2007 North Dakota Session Laws, Chapter 411 (HB 1143) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-249` | 2007 North Dakota Session Laws, Chapter 249 (HB 1154) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-324` | 2007 North Dakota Session Laws, Chapter 324 (HB 1158) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-173` | 2007 North Dakota Session Laws, Chapter 173 (HB 1177) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-216` | 2007 North Dakota Session Laws, Chapter 216 (HB 1184) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-059` | 2007 North Dakota Session Laws, Chapter 59 (HB 1185) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-471` | 2007 North Dakota Session Laws, Chapter 471 (HB 1213) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-137` | 2007 North Dakota Session Laws, Chapter 137 (HB 1219) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-407` | 2007 North Dakota Session Laws, Chapter 407 (HB 1221) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-311` | 2007 North Dakota Session Laws, Chapter 311 (HB 1229) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-397` | 2007 North Dakota Session Laws, Chapter 397 (HB 1231) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-244` | 2007 North Dakota Session Laws, Chapter 244 (HB 1232) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-333` | 2007 North Dakota Session Laws, Chapter 333 (HB 1234) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-025` | 2007 North Dakota Session Laws, Chapter 25 (HB 1246) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-366` | 2007 North Dakota Session Laws, Chapter 366 (HB 1256) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-336` | 2007 North Dakota Session Laws, Chapter 336 (HB 1258) | 1 | 2007-04-10 to 2007-04-10 |
-| `session-law-2007-ch-558` | 2007 North Dakota Session Laws, Chapter 558 (HB 1265) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-229` | 2007 North Dakota Session Laws, Chapter 229 (HB 1290) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-082` | 2007 North Dakota Session Laws, Chapter 82 (HB 1301) | 1 | 2007-03-07 to 2007-03-07 |
-| `session-law-2007-ch-412` | 2007 North Dakota Session Laws, Chapter 412 (HB 1315) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-292` | 2007 North Dakota Session Laws, Chapter 292 (HB 1322) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-284` | 2007 North Dakota Session Laws, Chapter 284 (HB 1333) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-254` | 2007 North Dakota Session Laws, Chapter 254 (HB 1344) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-076` | 2007 North Dakota Session Laws, Chapter 76 (HB 1346) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-540` | 2007 North Dakota Session Laws, Chapter 540 (HB 1348) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-081` | 2007 North Dakota Session Laws, Chapter 81 (HB 1369) | 1 | 2007-03-23 to 2007-03-23 |
-| `session-law-2007-ch-188` | 2007 North Dakota Session Laws, Chapter 188 (HB 1378) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-472` | 2007 North Dakota Session Laws, Chapter 472 (HB 1387) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-419` | 2007 North Dakota Session Laws, Chapter 419 (HB 1390) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-160` | 2007 North Dakota Session Laws, Chapter 160 (HB 1395) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-145` | 2007 North Dakota Session Laws, Chapter 145 (HB 1414) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-487` | 2007 North Dakota Session Laws, Chapter 487 (HB 1432) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-488` | 2007 North Dakota Session Laws, Chapter 488 (HB 1433) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-231` | 2007 North Dakota Session Laws, Chapter 231 (HB 1434) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-230` | 2007 North Dakota Session Laws, Chapter 230 (HB 1435) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-288` | 2007 North Dakota Session Laws, Chapter 288 (HB 1452) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-473` | 2007 North Dakota Session Laws, Chapter 473 (HB 1456) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-232` | 2007 North Dakota Session Laws, Chapter 232 (HB 1471) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-349` | 2007 North Dakota Session Laws, Chapter 349 (HB 1476) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-358` | 2007 North Dakota Session Laws, Chapter 358 (HB 1477) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-474` | 2007 North Dakota Session Laws, Chapter 474 (HB 1479) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-113` | 2007 North Dakota Session Laws, Chapter 113 (HB 1482) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-070` | 2007 North Dakota Session Laws, Chapter 70 (HB 1490) | 1 | 2007-03-06 to 2007-03-06 |
-| `session-law-2007-ch-280` | 2007 North Dakota Session Laws, Chapter 280 (HB 1501) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-116` | 2007 North Dakota Session Laws, Chapter 116 (HB 1504) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-310` | 2007 North Dakota Session Laws, Chapter 310 (HB 1511) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-554` | 2007 North Dakota Session Laws, Chapter 554 (HB 1513) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-462` | 2007 North Dakota Session Laws, Chapter 462 (HB 1515) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-027` | 2007 North Dakota Session Laws, Chapter 27 (HB 1522) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-034` | 2007 North Dakota Session Laws, Chapter 34 (SB 2007) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-038` | 2007 North Dakota Session Laws, Chapter 38 (SB 2011) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-041` | 2007 North Dakota Session Laws, Chapter 41 (SB 2014) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-047` | 2007 North Dakota Session Laws, Chapter 47 (SB 2021) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-048` | 2007 North Dakota Session Laws, Chapter 48 (SB 2022) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-049` | 2007 North Dakota Session Laws, Chapter 49 (SB 2023) | 1 | 2007-05-01 to 2007-05-01 |
-| `session-law-2007-ch-050` | 2007 North Dakota Session Laws, Chapter 50 (SB 2024) | 1 | 2007-02-14 to 2007-02-14 |
-| `session-law-2007-ch-408` | 2007 North Dakota Session Laws, Chapter 408 (SB 2031) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-381` | 2007 North Dakota Session Laws, Chapter 381 (SB 2055) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-376` | 2007 North Dakota Session Laws, Chapter 376 (SB 2056) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-227` | 2007 North Dakota Session Laws, Chapter 227 (SB 2058) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-465` | 2007 North Dakota Session Laws, Chapter 465 (SB 2061) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-380` | 2007 North Dakota Session Laws, Chapter 380 (SB 2062) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-147` | 2007 North Dakota Session Laws, Chapter 147 (SB 2064) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-415` | 2007 North Dakota Session Laws, Chapter 415 (SB 2070) | 1 | 2007-04-10 to 2007-04-10 |
-| `session-law-2007-ch-142` | 2007 North Dakota Session Laws, Chapter 142 (SB 2075) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-524` | 2007 North Dakota Session Laws, Chapter 524 (SB 2083) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-533` | 2007 North Dakota Session Laws, Chapter 533 (SB 2086) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-138` | 2007 North Dakota Session Laws, Chapter 138 (SB 2103) | 1 | 2007-04-27 to 2007-04-27 |
-| `session-law-2007-ch-060` | 2007 North Dakota Session Laws, Chapter 60 (SB 2117) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-426` | 2007 North Dakota Session Laws, Chapter 426 (SB 2131) | 1 | 2007-03-08 to 2007-03-08 |
-| `session-law-2007-ch-427` | 2007 North Dakota Session Laws, Chapter 427 (SB 2132) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-212` | 2007 North Dakota Session Laws, Chapter 212 (SB 2134) | 1 | 2007-04-05 to 2007-04-05 |
-| `session-law-2007-ch-416` | 2007 North Dakota Session Laws, Chapter 416 (SB 2136) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-475` | 2007 North Dakota Session Laws, Chapter 475 (SB 2139) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-452` | 2007 North Dakota Session Laws, Chapter 452 (SB 2145) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-375` | 2007 North Dakota Session Laws, Chapter 375 (SB 2152) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-091` | 2007 North Dakota Session Laws, Chapter 91 (SB 2156) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-051` | 2007 North Dakota Session Laws, Chapter 51 (SB 2161) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-276` | 2007 North Dakota Session Laws, Chapter 276 (SB 2170) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-052` | 2007 North Dakota Session Laws, Chapter 52 (SB 2179) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-083` | 2007 North Dakota Session Laws, Chapter 83 (SB 2182) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-418` | 2007 North Dakota Session Laws, Chapter 418 (SB 2186) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-053` | 2007 North Dakota Session Laws, Chapter 53 (SB 2187) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-409` | 2007 North Dakota Session Laws, Chapter 409 (SB 2188) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-054` | 2007 North Dakota Session Laws, Chapter 54 (SB 2189) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-079` | 2007 North Dakota Session Laws, Chapter 79 (SB 2192) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-297` | 2007 North Dakota Session Laws, Chapter 297 (SB 2193) | 1 | 2007-04-10 to 2007-04-10 |
-| `session-law-2007-ch-225` | 2007 North Dakota Session Laws, Chapter 225 (SB 2201) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-067` | 2007 North Dakota Session Laws, Chapter 67 (SB 2228) | 1 | 2007-04-13 to 2007-04-13 |
-| `session-law-2007-ch-269` | 2007 North Dakota Session Laws, Chapter 269 (SB 2252) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-439` | 2007 North Dakota Session Laws, Chapter 439 (SB 2255) | 1 | 2007-06-01 to 2007-06-01 |
-| `session-law-2007-ch-434` | 2007 North Dakota Session Laws, Chapter 434 (SB 2266) | 1 | 2007-04-05 to 2007-04-05 |
-| `session-law-2007-ch-456` | 2007 North Dakota Session Laws, Chapter 456 (SB 2276) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-109` | 2007 North Dakota Session Laws, Chapter 109 (SB 2278) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-217` | 2007 North Dakota Session Laws, Chapter 217 (SB 2293) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-454` | 2007 North Dakota Session Laws, Chapter 454 (SB 2310) | 1 | 2007-04-10 to 2007-04-10 |
-| `session-law-2007-ch-168` | 2007 North Dakota Session Laws, Chapter 168 (SB 2313) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-479` | 2007 North Dakota Session Laws, Chapter 479 (SB 2321) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-428` | 2007 North Dakota Session Laws, Chapter 428 (SB 2326) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-302` | 2007 North Dakota Session Laws, Chapter 302 (SB 2338) | 1 | 2007-04-11 to 2007-04-11 |
-| `session-law-2007-ch-497` | 2007 North Dakota Session Laws, Chapter 497 (SB 2341) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-372` | 2007 North Dakota Session Laws, Chapter 372 (SB 2343) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-352` | 2007 North Dakota Session Laws, Chapter 352 (SB 2349) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-355` | 2007 North Dakota Session Laws, Chapter 355 (SB 2350) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-395` | 2007 North Dakota Session Laws, Chapter 395 (SB 2364) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-150` | 2007 North Dakota Session Laws, Chapter 150 (SB 2366) | 1 | 2007-04-24 to 2007-04-24 |
-| `session-law-2007-ch-410` | 2007 North Dakota Session Laws, Chapter 410 (SB 2368) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-155` | 2007 North Dakota Session Laws, Chapter 155 (SB 2379) | 1 | 2007-07-01 to 2007-07-01 |
-| `session-law-2007-ch-122` | 2007 North Dakota Session Laws, Chapter 122 (SB 2415) | 1 | 2007-08-01 to 2007-08-01 |
-| `session-law-2007-ch-055` | 2007 North Dakota Session Laws, Chapter 55 (SB 2418) | 1 | 2007-07-01 to 2007-07-01 |
+| `session-law-2005-ch-007` | 2005 North Dakota Session Laws, Chapter 7 (HB 1007) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-011` | 2005 North Dakota Session Laws, Chapter 11 (HB 1011) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-014` | 2005 North Dakota Session Laws, Chapter 14 (HB 1014) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-019` | 2005 North Dakota Session Laws, Chapter 19 (HB 1019) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-022` | 2005 North Dakota Session Laws, Chapter 22 (HB 1022) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-024` | 2005 North Dakota Session Laws, Chapter 24 (HB 1024) | 1 | 2005-04-12 to 2005-04-12 |
+| `session-law-2005-ch-484` | 2005 North Dakota Session Laws, Chapter 484 (HB 1034) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-502` | 2005 North Dakota Session Laws, Chapter 502 (HB 1035) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-579` | 2005 North Dakota Session Laws, Chapter 579 (HB 1042) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-483` | 2005 North Dakota Session Laws, Chapter 483 (HB 1046) | 1 | 2005-03-16 to 2005-03-16 |
+| `session-law-2005-ch-525` | 2005 North Dakota Session Laws, Chapter 525 (HB 1053) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-250` | 2005 North Dakota Session Laws, Chapter 250 (HB 1057) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-096` | 2005 North Dakota Session Laws, Chapter 96 (HB 1065) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-482` | 2005 North Dakota Session Laws, Chapter 482 (HB 1074) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-585` | 2005 North Dakota Session Laws, Chapter 585 (HB 1078) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-213` | 2005 North Dakota Session Laws, Chapter 213 (HB 1100) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-542` | 2005 North Dakota Session Laws, Chapter 542 (HB 1107) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-091` | 2005 North Dakota Session Laws, Chapter 91 (HB 1132) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-081` | 2005 North Dakota Session Laws, Chapter 81 (HB 1140) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-126` | 2005 North Dakota Session Laws, Chapter 126 (HB 1141) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-589` | 2005 North Dakota Session Laws, Chapter 589 (HB 1142) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-565` | 2005 North Dakota Session Laws, Chapter 565 (HB 1144) | 1 | 2005-03-09 to 2005-03-09 |
+| `session-law-2005-ch-368` | 2005 North Dakota Session Laws, Chapter 368 (HB 1161) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-080` | 2005 North Dakota Session Laws, Chapter 80 (HB 1168) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-571` | 2005 North Dakota Session Laws, Chapter 571 (HB 1179) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-281` | 2005 North Dakota Session Laws, Chapter 281 (HB 1188) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-112` | 2005 North Dakota Session Laws, Chapter 112 (HB 1192) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-503` | 2005 North Dakota Session Laws, Chapter 503 (HB 1198) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-180` | 2005 North Dakota Session Laws, Chapter 180 (HB 1222) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-322` | 2005 North Dakota Session Laws, Chapter 322 (HB 1229) | 1 | 2005-03-22 to 2005-03-22 |
+| `session-law-2005-ch-158` | 2005 North Dakota Session Laws, Chapter 158 (HB 1232) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-294` | 2005 North Dakota Session Laws, Chapter 294 (HB 1235) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-504` | 2005 North Dakota Session Laws, Chapter 504 (HB 1260) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-435` | 2005 North Dakota Session Laws, Chapter 435 (HB 1267) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-536` | 2005 North Dakota Session Laws, Chapter 536 (HB 1275) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-242` | 2005 North Dakota Session Laws, Chapter 242 (HB 1279) | 1 | 2005-03-31 to 2005-03-31 |
+| `session-law-2005-ch-431` | 2005 North Dakota Session Laws, Chapter 431 (HB 1281) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-193` | 2005 North Dakota Session Laws, Chapter 193 (HB 1287) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-289` | 2005 North Dakota Session Laws, Chapter 289 (HB 1288) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-197` | 2005 North Dakota Session Laws, Chapter 197 (HB 1290) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-119` | 2005 North Dakota Session Laws, Chapter 119 (HB 1293) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-396` | 2005 North Dakota Session Laws, Chapter 396 (HB 1324) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-306` | 2005 North Dakota Session Laws, Chapter 306 (HB 1326) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-269` | 2005 North Dakota Session Laws, Chapter 269 (HB 1332) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-549` | 2005 North Dakota Session Laws, Chapter 549 (HB 1333) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-144` | 2005 North Dakota Session Laws, Chapter 144 (HB 1364) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-572` | 2005 North Dakota Session Laws, Chapter 572 (HB 1368) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-505` | 2005 North Dakota Session Laws, Chapter 505 (HB 1370) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-179` | 2005 North Dakota Session Laws, Chapter 179 (HB 1374) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-275` | 2005 North Dakota Session Laws, Chapter 275 (HB 1376) | 1 | 2005-04-13 to 2005-04-13 |
+| `session-law-2005-ch-506` | 2005 North Dakota Session Laws, Chapter 506 (HB 1396) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-145` | 2005 North Dakota Session Laws, Chapter 145 (HB 1397) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-027` | 2005 North Dakota Session Laws, Chapter 27 (HB 1408) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-358` | 2005 North Dakota Session Laws, Chapter 358 (HB 1437) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-028` | 2005 North Dakota Session Laws, Chapter 28 (HB 1445) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-507` | 2005 North Dakota Session Laws, Chapter 507 (HB 1453) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-379` | 2005 North Dakota Session Laws, Chapter 379 (HB 1464) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-501` | 2005 North Dakota Session Laws, Chapter 501 (HB 1473) | 1 | 2005-04-13 to 2005-04-13 |
+| `session-law-2005-ch-362` | 2005 North Dakota Session Laws, Chapter 362 (HB 1475) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-347` | 2005 North Dakota Session Laws, Chapter 347 (HB 1482) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-279` | 2005 North Dakota Session Laws, Chapter 279 (HB 1486) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-612` | 2005 North Dakota Session Laws, Chapter 612 (HB 1491) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-575` | 2005 North Dakota Session Laws, Chapter 575 (HB 1496) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-448` | 2005 North Dakota Session Laws, Chapter 448 (HB 1500) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-376` | 2005 North Dakota Session Laws, Chapter 376 (HB 1507) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-374` | 2005 North Dakota Session Laws, Chapter 374 (HB 1527) | 1 | 2005-04-12 to 2005-04-12 |
+| `session-law-2005-ch-508` | 2005 North Dakota Session Laws, Chapter 508 (HB 1530) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-605` | 2005 North Dakota Session Laws, Chapter 605 (HB 1531) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-033` | 2005 North Dakota Session Laws, Chapter 33 (SB 2005) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-034` | 2005 North Dakota Session Laws, Chapter 34 (SB 2006) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-035` | 2005 North Dakota Session Laws, Chapter 35 (SB 2007) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-036` | 2005 North Dakota Session Laws, Chapter 36 (SB 2008) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-039` | 2005 North Dakota Session Laws, Chapter 39 (SB 2011) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-041` | 2005 North Dakota Session Laws, Chapter 41 (SB 2013) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-044` | 2005 North Dakota Session Laws, Chapter 44 (SB 2016) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-045` | 2005 North Dakota Session Laws, Chapter 45 (SB 2017) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-047` | 2005 North Dakota Session Laws, Chapter 47 (SB 2019) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-050` | 2005 North Dakota Session Laws, Chapter 50 (SB 2022) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-410` | 2005 North Dakota Session Laws, Chapter 410 (SB 2028) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-292` | 2005 North Dakota Session Laws, Chapter 292 (SB 2029) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-052` | 2005 North Dakota Session Laws, Chapter 52 (SB 2031) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-305` | 2005 North Dakota Session Laws, Chapter 305 (SB 2061) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-535` | 2005 North Dakota Session Laws, Chapter 535 (SB 2070) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-480` | 2005 North Dakota Session Laws, Chapter 480 (SB 2072) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-401` | 2005 North Dakota Session Laws, Chapter 401 (SB 2091) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-453` | 2005 North Dakota Session Laws, Chapter 453 (SB 2107) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-509` | 2005 North Dakota Session Laws, Chapter 509 (SB 2113) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-510` | 2005 North Dakota Session Laws, Chapter 510 (SB 2115) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-109` | 2005 North Dakota Session Laws, Chapter 109 (SB 2125) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-595` | 2005 North Dakota Session Laws, Chapter 595 (SB 2126) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-310` | 2005 North Dakota Session Laws, Chapter 310 (SB 2129) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-543` | 2005 North Dakota Session Laws, Chapter 543 (SB 2132) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-098` | 2005 North Dakota Session Laws, Chapter 98 (SB 2138) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-315` | 2005 North Dakota Session Laws, Chapter 315 (SB 2151) | 1 | 2005-03-17 to 2005-03-17 |
+| `session-law-2005-ch-590` | 2005 North Dakota Session Laws, Chapter 590 (SB 2155) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-068` | 2005 North Dakota Session Laws, Chapter 68 (SB 2156) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-286` | 2005 North Dakota Session Laws, Chapter 286 (SB 2159) | 1 | 2005-03-22 to 2005-03-22 |
+| `session-law-2005-ch-511` | 2005 North Dakota Session Laws, Chapter 511 (SB 2160) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-164` | 2005 North Dakota Session Laws, Chapter 164 (SB 2163) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-095` | 2005 North Dakota Session Laws, Chapter 95 (SB 2165) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-293` | 2005 North Dakota Session Laws, Chapter 293 (SB 2167) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-512` | 2005 North Dakota Session Laws, Chapter 512 (SB 2171) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-107` | 2005 North Dakota Session Laws, Chapter 107 (SB 2173) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-573` | 2005 North Dakota Session Laws, Chapter 573 (SB 2176) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-389` | 2005 North Dakota Session Laws, Chapter 389 (SB 2182) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-264` | 2005 North Dakota Session Laws, Chapter 264 (SB 2186) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-440` | 2005 North Dakota Session Laws, Chapter 440 (SB 2200) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-378` | 2005 North Dakota Session Laws, Chapter 378 (SB 2202) | 1 | 2005-03-22 to 2005-03-22 |
+| `session-law-2005-ch-513` | 2005 North Dakota Session Laws, Chapter 513 (SB 2215) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-053` | 2005 North Dakota Session Laws, Chapter 53 (SB 2228) | 1 | 2005-04-26 to 2005-04-26 |
+| `session-law-2005-ch-442` | 2005 North Dakota Session Laws, Chapter 442 (SB 2231) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-386` | 2005 North Dakota Session Laws, Chapter 386 (SB 2239) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-301` | 2005 North Dakota Session Laws, Chapter 301 (SB 2250) | 1 | 2005-03-17 to 2005-03-17 |
+| `session-law-2005-ch-514` | 2005 North Dakota Session Laws, Chapter 514 (SB 2257) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-178` | 2005 North Dakota Session Laws, Chapter 178 (SB 2260) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-171` | 2005 North Dakota Session Laws, Chapter 171 (SB 2262) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-515` | 2005 North Dakota Session Laws, Chapter 515 (SB 2268) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-375` | 2005 North Dakota Session Laws, Chapter 375 (SB 2269) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-516` | 2005 North Dakota Session Laws, Chapter 516 (SB 2272) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-061` | 2005 North Dakota Session Laws, Chapter 61 (SB 2277) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-271` | 2005 North Dakota Session Laws, Chapter 271 (SB 2282) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-594` | 2005 North Dakota Session Laws, Chapter 594 (SB 2293) | 1 | 2005-03-25 to 2005-03-25 |
+| `session-law-2005-ch-476` | 2005 North Dakota Session Laws, Chapter 476 (SB 2298) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-471` | 2005 North Dakota Session Laws, Chapter 471 (SB 2311) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-446` | 2005 North Dakota Session Laws, Chapter 446 (SB 2335) | 1 | 2005-04-06 to 2005-04-06 |
+| `session-law-2005-ch-427` | 2005 North Dakota Session Laws, Chapter 427 (SB 2342) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-200` | 2005 North Dakota Session Laws, Chapter 200 (SB 2346) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-539` | 2005 North Dakota Session Laws, Chapter 539 (SB 2349) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-325` | 2005 North Dakota Session Laws, Chapter 325 (SB 2368) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-202` | 2005 North Dakota Session Laws, Chapter 202 (SB 2371) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-517` | 2005 North Dakota Session Laws, Chapter 517 (SB 2372) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-414` | 2005 North Dakota Session Laws, Chapter 414 (SB 2373) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-160` | 2005 North Dakota Session Laws, Chapter 160 (SB 2375) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-570` | 2005 North Dakota Session Laws, Chapter 570 (SB 2379) | 1 | 2005-07-01 to 2005-07-01 |
+| `session-law-2005-ch-372` | 2005 North Dakota Session Laws, Chapter 372 (SB 2388) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-518` | 2005 North Dakota Session Laws, Chapter 518 (SB 2390) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-519` | 2005 North Dakota Session Laws, Chapter 519 (SB 2393) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-520` | 2005 North Dakota Session Laws, Chapter 520 (SB 2404) | 1 | 2005-08-01 to 2005-08-01 |
+| `session-law-2005-ch-407` | 2005 North Dakota Session Laws, Chapter 407 (SB 2410) | 1 | 2005-03-22 to 2005-03-22 |
 
-The build made 2662 commits:
+The build made 2801 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2662 | baseline texts where the record starts |
+| 2801 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
@@ -2710,7 +2851,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2662 tags.
+- 2801 tags.
 
 ## Dates
 
@@ -2722,7 +2863,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0d5a66e3485724d1a31f7290eafd976813e3406e1273a0aad54d157dd9bf848c` (39401677 bytes).
+- Corpus: sha256 `3e5abc3db73c823bddb3d5febde7653586d66dee3aab46c31f073bdcbccfd36e` (39856814 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2748,6 +2889,9 @@ No second build of this corpus has been compared yet.
 - The 2009 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
+- The 2007 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
+- Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 - Session-law records are in their enacted form, separately from consolidated Century Code chapters. No amendment reconstruction is claimed.
 - Dates follow individual bill rows in the official October 2026 effective-date table. Bills with footnotes, vetoes, deletion markup, source images or tabular text are held for assessment.
 - Each session law is a single-file act. Source line breaks are retained; whitespace is normalized and running headers and page numbers are excluded.
@@ -2763,7 +2907,7 @@ No second build of this corpus has been compared yet.
 - The 2017 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
-- The 2007 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
+- The 2005 session laws are enacted-form records, separate from consolidated Century Code history. No reconstruction is claimed.
 - Dates follow the individual official bill effective-date rows. Footnoted dates, vetoes, deletion markup, images, ambiguous tables and extraction disagreements are held.
 - Each session law is a single-file act. Source line breaks are retained with normalized whitespace; running headers and folios are excluded.
 
@@ -2777,6 +2921,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
 - A model wrote parsing and validation code; no model wrote or corrected legal text.
